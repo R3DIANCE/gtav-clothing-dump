@@ -1,0 +1,529 @@
+[{
+        "Component": 2,
+        "Drawable": 16,
+        "Texture": 0,
+        "Name": "Zottellocken, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 16,
+        "Texture": 1,
+        "Name": "Zottellocken, hellbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 17,
+        "Texture": 0,
+        "Name": "Surferfrisur, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 16,
+        "Texture": 2,
+        "Name": "Zottellocken, rotbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 17,
+        "Texture": 1,
+        "Name": "Surferfrisur, hellbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 18,
+        "Texture": 0,
+        "Name": "Seitenscheitel, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 16,
+        "Texture": 3,
+        "Name": "Zottellocken, blond"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 0,
+        "Name": "Hochgekämmt, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 17,
+        "Texture": 2,
+        "Name": "Surferfrisur, rotbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 18,
+        "Texture": 1,
+        "Name": "Seitenscheitel, hellbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 16,
+        "Texture": 4,
+        "Name": "Zottellocken, schwarz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 17,
+        "Texture": 3,
+        "Name": "Surferfrisur, blond"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 1,
+        "Name": "Hochgekämmt, hellbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 18,
+        "Texture": 2,
+        "Name": "Seitenscheitel, rotbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 0,
+        "Name": "Gelfrisur, lang, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 17,
+        "Texture": 4,
+        "Name": "Surferfrisur, schwarz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 2,
+        "Name": "Hochgekämmt, rotbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 18,
+        "Texture": 3,
+        "Name": "Seitenscheitel, blond"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 1,
+        "Name": "Gelfrisur, lang, hellbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 0,
+        "Name": "Junger Hipster, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 22,
+        "Texture": 0,
+        "Name": "Vokuhila, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 18,
+        "Texture": 4,
+        "Name": "Seitenscheitel, schwarz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 3,
+        "Name": "Hochgekämmt, blond"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 2,
+        "Name": "Gelfrisur, lang, rotbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 1,
+        "Name": "Junger Hipster, blond"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 4,
+        "Name": "Hochgekämmt, schwarz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 3,
+        "Name": "Gelfrisur, lang, blond"
+    },
+    {
+        "Component": 2,
+        "Drawable": 22,
+        "Texture": 1,
+        "Name": "Vokuhila, hellbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 2,
+        "Name": "Junger Hipster, rotbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 22,
+        "Texture": 2,
+        "Name": "Vokuhila, rotbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 24,
+        "Texture": 0,
+        "Name": "Klassische Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 4,
+        "Name": "Gelfrisur, lang, schwarz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 3,
+        "Name": "Junger Hipster, hellbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 22,
+        "Texture": 3,
+        "Name": "Vokuhila, blond"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 4,
+        "Name": "Junger Hipster, schwarz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 25,
+        "Texture": 0,
+        "Name": "Palmen-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 22,
+        "Texture": 4,
+        "Name": "Vokuhila, schwarz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 26,
+        "Texture": 0,
+        "Name": "Blitz-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 27,
+        "Texture": 0,
+        "Name": "Peitschen-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 28,
+        "Texture": 0,
+        "Name": "Zickzack-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 29,
+        "Texture": 0,
+        "Name": "Schnecken-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 30,
+        "Texture": 0,
+        "Name": "Hightop"
+    },
+    {
+        "Component": 2,
+        "Drawable": 31,
+        "Texture": 0,
+        "Name": "Locker zurückgekämmt"
+    },
+    {
+        "Component": 2,
+        "Drawable": 32,
+        "Texture": 0,
+        "Name": "Zurückgekämmter Undercut"
+    },
+    {
+        "Component": 2,
+        "Drawable": 33,
+        "Texture": 0,
+        "Name": "Zur Seite gekämmter Undercut"
+    },
+    {
+        "Component": 2,
+        "Drawable": 34,
+        "Texture": 0,
+        "Name": "Stacheliger Iro"
+    },
+    {
+        "Component": 2,
+        "Drawable": 35,
+        "Texture": 0,
+        "Name": "Mod"
+    },
+    {
+        "Component": 2,
+        "Drawable": 36,
+        "Texture": 0,
+        "Name": "Stufenmod"
+    },
+    {
+        "Component": 2,
+        "Drawable": 37,
+        "Texture": 0,
+        "Name": "Kurzgeschoren"
+    },
+    {
+        "Component": 2,
+        "Drawable": 38,
+        "Texture": 0,
+        "Name": "Iro, modisch"
+    },
+    {
+        "Component": 2,
+        "Drawable": 39,
+        "Texture": 0,
+        "Name": "Hipster"
+    },
+    {
+        "Component": 2,
+        "Drawable": 40,
+        "Texture": 0,
+        "Name": "Seitenscheitel"
+    },
+    {
+        "Component": 2,
+        "Drawable": 41,
+        "Texture": 0,
+        "Name": "Kurzhaarschnitt"
+    },
+    {
+        "Component": 2,
+        "Drawable": 42,
+        "Texture": 0,
+        "Name": "Bikerfrisur"
+    },
+    {
+        "Component": 2,
+        "Drawable": 43,
+        "Texture": 0,
+        "Name": "Pferdeschwanz"
+    },
+    {
+        "Component": 2,
+        "Drawable": 44,
+        "Texture": 0,
+        "Name": "Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 45,
+        "Texture": 0,
+        "Name": "Gelfrisur"
+    },
+    {
+        "Component": 2,
+        "Drawable": 46,
+        "Texture": 0,
+        "Name": "Kurz gekämmt"
+    },
+    {
+        "Component": 2,
+        "Drawable": 47,
+        "Texture": 0,
+        "Name": "Stachelfrisur"
+    },
+    {
+        "Component": 2,
+        "Drawable": 48,
+        "Texture": 0,
+        "Name": "Cäsarenfrisur"
+    },
+    {
+        "Component": 2,
+        "Drawable": 49,
+        "Texture": 0,
+        "Name": "Zerzaust"
+    },
+    {
+        "Component": 2,
+        "Drawable": 50,
+        "Texture": 0,
+        "Name": "Dreadlocks"
+    },
+    {
+        "Component": 2,
+        "Drawable": 51,
+        "Texture": 0,
+        "Name": "Langhaarfrisur"
+    },
+    {
+        "Component": 2,
+        "Drawable": 52,
+        "Texture": 0,
+        "Name": "Zottellocken, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 53,
+        "Texture": 0,
+        "Name": "Surferfrisur, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 54,
+        "Texture": 0,
+        "Name": "Seitenscheitel, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 55,
+        "Texture": 0,
+        "Name": "Hochgekämmt, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 56,
+        "Texture": 0,
+        "Name": "Gelfrisur, lang, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 57,
+        "Texture": 0,
+        "Name": "Junger Hipster, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 58,
+        "Texture": 0,
+        "Name": "Vokuhila, dunkelbraun"
+    },
+    {
+        "Component": 2,
+        "Drawable": 59,
+        "Texture": 0,
+        "Name": "Klassische Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 60,
+        "Texture": 0,
+        "Name": "Palmen-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 61,
+        "Texture": 0,
+        "Name": "Blitz-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 62,
+        "Texture": 0,
+        "Name": "Peitschen-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 63,
+        "Texture": 0,
+        "Name": "Zickzack-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 64,
+        "Texture": 0,
+        "Name": "Schnecken-Flechtreihen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 65,
+        "Texture": 0,
+        "Name": "Hightop"
+    },
+    {
+        "Component": 2,
+        "Drawable": 66,
+        "Texture": 0,
+        "Name": "Locker zurückgekämmt"
+    },
+    {
+        "Component": 2,
+        "Drawable": 67,
+        "Texture": 0,
+        "Name": "Zurückgekämmter Undercut"
+    },
+    {
+        "Component": 2,
+        "Drawable": 68,
+        "Texture": 0,
+        "Name": "Zur Seite gekämmter Undercut"
+    },
+    {
+        "Component": 2,
+        "Drawable": 69,
+        "Texture": 0,
+        "Name": "Stacheliger Iro"
+    },
+    {
+        "Component": 2,
+        "Drawable": 70,
+        "Texture": 0,
+        "Name": "Mod"
+    },
+    {
+        "Component": 2,
+        "Drawable": 71,
+        "Texture": 0,
+        "Name": "Stufenmod"
+    },
+    {
+        "Component": 2,
+        "Drawable": 72,
+        "Texture": 0,
+        "Name": "Flattop-Bürstenschnitt"
+    },
+    {
+        "Component": 2,
+        "Drawable": 73,
+        "Texture": 0,
+        "Name": "Militär-Stoppeln"
+    },
+    {
+        "Component": 2,
+        "Drawable": 74,
+        "Texture": 0,
+        "Name": "Ohnmächtiger Zorn"
+    },
+    {
+        "Component": 2,
+        "Drawable": 75,
+        "Texture": 0,
+        "Name": "Afro mit Übergang"
+    },
+    {
+        "Component": 2,
+        "Drawable": 76,
+        "Texture": 0,
+        "Name": "Haarknoten"
+    }
+]

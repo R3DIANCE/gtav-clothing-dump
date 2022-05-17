@@ -1,0 +1,5629 @@
+[{
+        "Component": 3,
+        "Drawable": 17,
+        "Texture": 0,
+        "Name": "Schwarze Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 17,
+        "Texture": 1,
+        "Name": "Graue Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 18,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 17,
+        "Texture": 2,
+        "Name": "Dunkelgraue Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 18,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 19,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 19,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 17,
+        "Texture": 3,
+        "Name": "Hellbraune Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 18,
+        "Texture": 2,
+        "Name": "Dunkelgr. Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 20,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 17,
+        "Texture": 4,
+        "Name": "Waldfarbene Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 20,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 18,
+        "Texture": 3,
+        "Name": "Hellbr. Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 21,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 22,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 21,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 18,
+        "Texture": 4,
+        "Name": "Grüne Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 22,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 23,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 24,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 23,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 24,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 25,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 26,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 25,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 26,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 27,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 28,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 27,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 28,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 29,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 29,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 30,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 31,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 30,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 31,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 32,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 32,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 33,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 34,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 33,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 34,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 35,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 36,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 35,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 36,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 37,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 38,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 37,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 38,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 39,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 40,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 39,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 40,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 41,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 42,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 41,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 42,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 43,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 43,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 44,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 45,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 44,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 45,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 46,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 47,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 46,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 47,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 48,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 49,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 48,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 49,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 50,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 51,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 50,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 51,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 52,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 52,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 53,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 53,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 54,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 54,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 55,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 56,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 55,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 56,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 57,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 58,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 57,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 58,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 59,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 60,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 59,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 60,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 61,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 62,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 61,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 62,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 63,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 64,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 65,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 66,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 67,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 68,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 69,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 70,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 71,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 72,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 73,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 74,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 75,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 76,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 77,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 78,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 79,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 80,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 81,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 82,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 83,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 84,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 85,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 85,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 86,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 87,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 86,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 87,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 88,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 89,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 88,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 89,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 90,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 91,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 90,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 91,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 92,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 92,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 93,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 94,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 93,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 94,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 95,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 95,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 0,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 1,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 0,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 2,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 1,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 3,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 2,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 4,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 3,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 5,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 115,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 4,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 115,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 5,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 6,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 116,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 7,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 117,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 6,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 116,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 117,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 8,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 7,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 118,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 9,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 119,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 118,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 8,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 10,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 9,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 120,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 121,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 110,
+        "Texture": 11,
+        "Name": "Rennanzug-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 10,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 11,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 121,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 122,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 122,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 12,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 123,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 123,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 13,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 124,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 125,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 124,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 14,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 125,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 111,
+        "Texture": 15,
+        "Name": "Motocross-Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 126,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 127,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 128,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 128,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 129,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 129,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 130,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 131,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 130,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 131,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 132,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 132,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 133,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 134,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 135,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 135,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 136,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 137,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 138,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 139,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 140,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 141,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 142,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 143,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 144,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 145,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 146,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 147,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 148,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 149,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 150,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 151,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 152,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 153,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 154,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 155,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 156,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 157,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 170,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 158,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 171,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 159,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 172,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 160,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 173,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 161,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 174,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 162,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 175,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 163,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 176,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 177,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 178,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 185,
+        "Texture": 0,
+        "Name": "Schwarze Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 186,
+        "Texture": 0,
+        "Name": "Schwarze Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 185,
+        "Texture": 1,
+        "Name": "Braune Autohandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 179,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 186,
+        "Texture": 1,
+        "Name": "Braune Lederhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 180,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 187,
+        "Texture": 0,
+        "Name": "Schwarze Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 188,
+        "Texture": 0,
+        "Name": "Schw. fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 187,
+        "Texture": 1,
+        "Name": "Graue Wollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 181,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 188,
+        "Texture": 1,
+        "Name": "Graue fingerlose Handschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 182,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 189,
+        "Texture": 0,
+        "Name": "Arbeitshandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 190,
+        "Texture": 0,
+        "Name": "Weiße Baumwollhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 183,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 191,
+        "Texture": 0,
+        "Name": "Blaue Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 191,
+        "Texture": 1,
+        "Name": "Weiße Chirurgenhandschuhe"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 0,
+        "Name": "Schwarz, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 1,
+        "Name": "Grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 2,
+        "Name": "Aschgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 3,
+        "Name": "Weiß, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 5,
+        "Name": "Herbsttarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 4,
+        "Name": "Rot-grau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 5,
+        "Name": "Herbsttarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 7,
+        "Name": "Crosshatch, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 5,
+        "Name": "Braun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 7,
+        "Name": "Crosshatch, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 6,
+        "Name": "Rauchgrau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 194,
+        "Texture": 7,
+        "Name": "Weiß-grün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 10,
+        "Name": "Aquablau, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 10,
+        "Name": "Aquablau, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 11,
+        "Name": "Splitter, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 11,
+        "Name": "Splitter, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 12,
+        "Name": "Kontrasttarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 13,
+        "Name": "Pflasterstein, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 13,
+        "Name": "Pflasterstein, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarnung, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 15,
+        "Name": "Pinselstrich, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 15,
+        "Name": "Pinselstrich, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 16,
+        "Name": "Flecktarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 16,
+        "Name": "Flecktarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 18,
+        "Name": "Moosgrün, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 17,
+        "Name": "Heller Waldtarn, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 18,
+        "Name": "Moosgrün, taktisch"
+    },
+    {
+        "Component": 3,
+        "Drawable": 192,
+        "Texture": 19,
+        "Name": "Sandbraun, gepanzert"
+    },
+    {
+        "Component": 3,
+        "Drawable": 193,
+        "Texture": 19,
+        "Name": "Sandbraun, taktisch"
+    }
+]

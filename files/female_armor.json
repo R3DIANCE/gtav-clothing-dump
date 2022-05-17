@@ -1,0 +1,37 @@
+[{
+        "Component": 9,
+        "Drawable": 17,
+        "Texture": 0,
+        "Name": "Hellbraune Einsatzweste"
+    },
+    {
+        "Component": 9,
+        "Drawable": 18,
+        "Texture": 0,
+        "Name": "Hellbraune Taschen-Einsatzweste"
+    },
+    {
+        "Component": 9,
+        "Drawable": 17,
+        "Texture": 1,
+        "Name": "Khakifarbene Einsatzweste"
+    },
+    {
+        "Component": 9,
+        "Drawable": 18,
+        "Texture": 1,
+        "Name": "Khakif. Taschen-Einsatzweste"
+    },
+    {
+        "Component": 9,
+        "Drawable": 17,
+        "Texture": 2,
+        "Name": "Schwarze Einsatzweste"
+    },
+    {
+        "Component": 9,
+        "Drawable": 18,
+        "Texture": 2,
+        "Name": "Schwarze Taschen-Einsatzweste"
+    }
+]

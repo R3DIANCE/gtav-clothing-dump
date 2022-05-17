@@ -1,0 +1,7441 @@
+[{
+        "Component": 0,
+        "Drawable": 20,
+        "Texture": 0,
+        "Name": "Hellbrauner Cowgirl-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 21,
+        "Texture": 0,
+        "Name": "Pinker CaCa Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 20,
+        "Texture": 1,
+        "Name": "Zweifarbiger Cowgirl-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 21,
+        "Texture": 1,
+        "Name": "Blauer Crevis Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 22,
+        "Texture": 0,
+        "Name": "Beiger Sonnenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 20,
+        "Texture": 2,
+        "Name": "Farshtunken Cowgirl-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 20,
+        "Texture": 3,
+        "Name": "Pinker MyMy Cowgirl-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 21,
+        "Texture": 2,
+        "Name": "Hellbrauner Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 22,
+        "Texture": 1,
+        "Name": "Cremefarbener Sonnenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 23,
+        "Texture": 0,
+        "Name": "Rote Weihnachtsmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 24,
+        "Texture": 0,
+        "Name": "Elfenmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 23,
+        "Texture": 1,
+        "Name": "Grüne Weihnachtsmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 21,
+        "Texture": 3,
+        "Name": "Roter Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 20,
+        "Texture": 4,
+        "Name": "Rot gestreifter Cowgirl-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 22,
+        "Texture": 2,
+        "Name": "Marineblauer Sonnenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 21,
+        "Texture": 4,
+        "Name": "Gelber Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 22,
+        "Texture": 3,
+        "Name": "Zweifarbiger Sonnenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 25,
+        "Texture": 0,
+        "Name": "Rentiergeweih"
+    },
+    {
+        "Component": 0,
+        "Drawable": 20,
+        "Texture": 5,
+        "Name": "Logger Cowgirl-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 0,
+        "Name": "Schwarze Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 20,
+        "Texture": 6,
+        "Name": "Gestreifter Cowgirl-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 21,
+        "Texture": 5,
+        "Name": "Blauer Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 22,
+        "Texture": 4,
+        "Name": "Dunkelbrauner Sonnenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 1,
+        "Name": "Graue Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 0,
+        "Name": "Schwarzer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 21,
+        "Texture": 6,
+        "Name": "Gepunkteter Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 22,
+        "Texture": 5,
+        "Name": "MyMy Passion Sonnenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 22,
+        "Texture": 6,
+        "Name": "MyMy Wild Sonnenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 2,
+        "Name": "Blaue Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 1,
+        "Name": "Grauer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 0,
+        "Name": "Brauner Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 3,
+        "Name": "Hellgraue Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 29,
+        "Texture": 0,
+        "Name": "Lila Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 2,
+        "Name": "Blauer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 1,
+        "Name": "Cremefarbener Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 4,
+        "Name": "Olivgrüne Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 29,
+        "Texture": 1,
+        "Name": "Weiße Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 3,
+        "Name": "Hellgrauer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 30,
+        "Texture": 0,
+        "Name": "USA-Fischerhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 2,
+        "Name": "Weißer Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 5,
+        "Name": "Lila Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 29,
+        "Texture": 2,
+        "Name": "Magentafarbene Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 3,
+        "Name": "Schwarzer Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 4,
+        "Name": "Olivgrüner Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 31,
+        "Texture": 0,
+        "Name": "USA-Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 29,
+        "Texture": 3,
+        "Name": "Rot gestreifte Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 6,
+        "Name": "Hummerrote Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 32,
+        "Texture": 0,
+        "Name": "Roter Schaumstoffzylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 5,
+        "Name": "Lila Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 4,
+        "Name": "Grauer Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 29,
+        "Texture": 4,
+        "Name": "Graue gestreifte Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 32,
+        "Texture": 1,
+        "Name": "Blauer Schaumstoffzylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 6,
+        "Name": "Hummerroter Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 7,
+        "Name": "Braune Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 33,
+        "Texture": 0,
+        "Name": "Patrioten-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 5,
+        "Name": "Rot karierter Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 6,
+        "Name": "Braun karierter Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 8,
+        "Name": "Altmodische Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 7,
+        "Name": "Brauner Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 34,
+        "Texture": 0,
+        "Name": "USA-Krone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 9,
+        "Name": "Cremefarbene Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 35,
+        "Texture": 0,
+        "Name": "USA-Party-Haarreif"
+    },
+    {
+        "Component": 0,
+        "Drawable": 28,
+        "Texture": 7,
+        "Name": "Pinker Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 8,
+        "Name": "Altmodischer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 10,
+        "Name": "Aschgraue Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 9,
+        "Name": "Cremefarbener Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 36,
+        "Texture": 0,
+        "Name": "Pißwasser-Bierhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 11,
+        "Name": "Marineblaue Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 10,
+        "Name": "Aschgrauer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 36,
+        "Texture": 1,
+        "Name": "Benedict-Bierhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 37,
+        "Texture": 0,
+        "Name": "Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 12,
+        "Name": "Silberne Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 11,
+        "Name": "Marineblauer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 38,
+        "Texture": 0,
+        "Name": "Kugelsicher, schwarz"
+    },
+    {
+        "Component": 0,
+        "Drawable": 36,
+        "Texture": 2,
+        "Name": "J Lager-Bierhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 26,
+        "Texture": 13,
+        "Name": "Weiße Melone"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 12,
+        "Name": "Silberner Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 36,
+        "Texture": 3,
+        "Name": "Patriot-Bierhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 38,
+        "Texture": 1,
+        "Name": "Kugelsicher, grau"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 0,
+        "Name": "Klassischer Baum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 40,
+        "Texture": 0,
+        "Name": "Pudding-Wollstrickmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 36,
+        "Texture": 4,
+        "Name": "Blarneys-Bierhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 27,
+        "Texture": 13,
+        "Name": "Weißer Zylinder"
+    },
+    {
+        "Component": 0,
+        "Drawable": 38,
+        "Texture": 2,
+        "Name": "Kugelsicher, anthrazit"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 1,
+        "Name": "Lila Baum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 38,
+        "Texture": 3,
+        "Name": "Kugelsicher, hellbraun"
+    },
+    {
+        "Component": 0,
+        "Drawable": 36,
+        "Texture": 5,
+        "Name": "Supa Wet-Bierhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 2,
+        "Name": "Winterbeerenbaum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 41,
+        "Texture": 0,
+        "Name": "Kesse Elfen-Wollzipfelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 41,
+        "Texture": 1,
+        "Name": "Unartige Elfen-Wollzipfelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 38,
+        "Texture": 4,
+        "Name": "Kugelsicher, Wald"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 3,
+        "Name": "Rot gestreifter Baum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 42,
+        "Texture": 0,
+        "Name": "Clan-Tartan-Pudelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 4,
+        "Name": "Grün gestreifter Baum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 42,
+        "Texture": 1,
+        "Name": "Highland-Tartan-Pudelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 41,
+        "Texture": 2,
+        "Name": "Fröhliche Elfen-Wollzipfelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 0,
+        "Name": "Naughty-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 1,
+        "Name": "Schwarze Ho Ho Ho-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 0,
+        "Name": "Naughty-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 42,
+        "Texture": 2,
+        "Name": "Häuptling-Tartan-Pudelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 41,
+        "Texture": 3,
+        "Name": "Alberne Elfen-Wollzipfelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 5,
+        "Name": "Sternenbaum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 6,
+        "Name": "Weihnachtsmannbaum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 2,
+        "Name": "Blaue Schneeflockenkappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 1,
+        "Name": "Schw. Ho Ho Ho-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 42,
+        "Texture": 3,
+        "Name": "Klassik-Tartan-Pudelmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 3,
+        "Name": "Nice-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 39,
+        "Texture": 7,
+        "Name": "Elfenbaum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 2,
+        "Name": "Blaue Schneeflockenk., rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 46,
+        "Texture": 0,
+        "Name": "Schwarzer Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 3,
+        "Name": "Nice-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 4,
+        "Name": "Grüne Ho Ho Ho-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 47,
+        "Texture": 0,
+        "Name": "Glänzend, schwarz, Offroad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 4,
+        "Name": "Grüne Ho Ho Ho-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 5,
+        "Name": "Rote Schneeflockenkappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 48,
+        "Texture": 0,
+        "Name": "Matt, schwarz, Offroad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 6,
+        "Name": "Lebkuchenkappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 49,
+        "Texture": 0,
+        "Name": "Glänzend, schwarz, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 5,
+        "Name": "Rote Schneeflockenk., rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 6,
+        "Name": "Lebkuchenkappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 43,
+        "Texture": 7,
+        "Name": "Bah Humbug-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 50,
+        "Texture": 0,
+        "Name": "Glänz., verspiegelt, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 51,
+        "Texture": 0,
+        "Name": "Matt, schwarz, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 44,
+        "Texture": 7,
+        "Name": "Bah Humbug-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 52,
+        "Texture": 0,
+        "Name": "Matt, verspiegelt, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 0,
+        "Name": "Hellbrauner Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 1,
+        "Name": "Hellgrauer Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 0,
+        "Name": "Rote Broker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 2,
+        "Name": "Brauner Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 1,
+        "Name": "Anthrazitgraue Broker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 0,
+        "Name": "Magnetics Schreibschrift-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 3,
+        "Name": "Roter Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 2,
+        "Name": "Cremef. Trickster-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 1,
+        "Name": "Magnetics Blockschrift-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 4,
+        "Name": "Grauer Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 58,
+        "Texture": 0,
+        "Name": "Hellbraune Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 3,
+        "Name": "Marineblaue Trickster-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 2,
+        "Name": "Low Santos-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 58,
+        "Texture": 1,
+        "Name": "Khakifarbene Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 5,
+        "Name": "Marineblauer Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 3,
+        "Name": "Boars-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 4,
+        "Name": "Braune Broker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 58,
+        "Texture": 2,
+        "Name": "Schwarze Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 6,
+        "Name": "Grüner Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 4,
+        "Name": "Benny's Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 5,
+        "Name": "Braune Harsh-Souls-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 54,
+        "Texture": 7,
+        "Name": "Weißer Kaschmir-Fedora"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 5,
+        "Name": "Westside-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 6,
+        "Name": "Orange Sweatbox-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 7,
+        "Name": "Blaue Sweatbox-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 6,
+        "Name": "Eastside-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 8,
+        "Name": "Gestreifte Yeti-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 7,
+        "Name": "Strawberry-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 9,
+        "Name": "Link-Trickster-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 64,
+        "Texture": 0,
+        "Name": "SecuroServ-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 8,
+        "Name": "Schwarze SA-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 10,
+        "Name": "Rauten-Yeti-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 56,
+        "Texture": 9,
+        "Name": "Davis-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 65,
+        "Texture": 0,
+        "Name": "SecuroServ-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 11,
+        "Name": "Kirschrote Broker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 0,
+        "Name": "Splitter-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 67,
+        "Texture": 0,
+        "Name": "Glänzend, schwarz, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 12,
+        "Name": "Hellbraune Fruntalot-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 1,
+        "Name": "Sternen-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 13,
+        "Name": "Grüne Sweatbox-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 68,
+        "Texture": 0,
+        "Name": "Glänz., verspiegelt, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 2,
+        "Name": "Quadrat-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 14,
+        "Name": "Dschungeltarn-Yeti-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 69,
+        "Texture": 0,
+        "Name": "Matt, schwarz, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 3,
+        "Name": "Karmesinroter Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 70,
+        "Texture": 0,
+        "Name": "Matt, verspiegelt, Motorrad"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 15,
+        "Name": "Waldtarn-Trickster-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 4,
+        "Name": "Totenschädel-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 16,
+        "Name": "Kaffeebraune Broker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 5,
+        "Name": "Pik-Ass-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 17,
+        "Name": "Zweif. Trey-Baker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 6,
+        "Name": "Flammen-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 0,
+        "Name": "Cremefarbener Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 0,
+        "Name": "Cremefarbener Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 18,
+        "Name": "Graue Sweatbox-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 7,
+        "Name": "Weißer Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 1,
+        "Name": "Grauer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 19,
+        "Name": "Cremef. Sweatbox-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 1,
+        "Name": "Grauer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 8,
+        "Name": "Talfahrt-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 2,
+        "Name": "Oranger Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 20,
+        "Name": "Rote Yeti-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 2,
+        "Name": "Oranger Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 0,
+        "Name": "Atomic-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 9,
+        "Name": "Slalom-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 3,
+        "Name": "Hellblauer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 3,
+        "Name": "Hellblauer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 0,
+        "Name": "Atomic-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 21,
+        "Name": "Weiße Harsh-Souls-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 10,
+        "Name": "Tod-in-San-Andreas-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 1,
+        "Name": "\"Auto Exotic\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 22,
+        "Name": "Marineblaue Fruntalot-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 1,
+        "Name": "\"Auto Exotic\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 11,
+        "Name": "Puls-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 2,
+        "Name": "Chepalle-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 77,
+        "Texture": 0,
+        "Name": "Weißer JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 77,
+        "Texture": 1,
+        "Name": "Blauer JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 23,
+        "Name": "Gelbe Sweatbox-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 12,
+        "Name": "Lava-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 4,
+        "Name": "Wirbel-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 3,
+        "Name": "\"Cunning Stunts\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 2,
+        "Name": "Chepalle-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 78,
+        "Texture": 0,
+        "Name": "Weißer JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 79,
+        "Texture": 0,
+        "Name": "Goldener JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 13,
+        "Name": "Tri-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 24,
+        "Name": "Ganz schwarze Broker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 78,
+        "Texture": 1,
+        "Name": "Blauer JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 5,
+        "Name": "Roter Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 4,
+        "Name": "Flash-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 77,
+        "Texture": 2,
+        "Name": "Roter JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 3,
+        "Name": "\"Cunning Stunts\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 55,
+        "Texture": 25,
+        "Name": "Schwarze Broker-Snapback"
+    },
+    {
+        "Component": 0,
+        "Drawable": 79,
+        "Texture": 1,
+        "Name": "Silberner JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 77,
+        "Texture": 3,
+        "Name": "Schwarzer JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 6,
+        "Name": "Brauner Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 4,
+        "Name": "Flash-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 14,
+        "Name": "Sprunk-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 80,
+        "Texture": 0,
+        "Name": "Goldener JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 78,
+        "Texture": 2,
+        "Name": "Roter JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 8,
+        "Name": "Weißer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 5,
+        "Name": "Fukaru-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 77,
+        "Texture": 4,
+        "Name": "Rosa JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 80,
+        "Texture": 1,
+        "Name": "Silberner JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 79,
+        "Texture": 2,
+        "Name": "Goldener Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 15,
+        "Name": "Skelett-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 9,
+        "Name": "Blauer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 8,
+        "Name": "Weißer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 5,
+        "Name": "Fukaru-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 7,
+        "Name": "Weißer Flaggen-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 6,
+        "Name": "\"Globe Oil\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 0,
+        "Name": "Splitter-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 78,
+        "Texture": 3,
+        "Name": "Schwarzer JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 6,
+        "Name": "\"Globe Oil\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 9,
+        "Name": "Blauer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 79,
+        "Texture": 3,
+        "Name": "Silberner Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 80,
+        "Texture": 2,
+        "Name": "Goldener Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 16,
+        "Name": "Todes-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 78,
+        "Texture": 4,
+        "Name": "Rosa JC-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 10,
+        "Name": "Roter Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 8,
+        "Name": "Blauer Sterne-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 7,
+        "Name": "Grotti-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 1,
+        "Name": "Sternen-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 82,
+        "Texture": 0,
+        "Name": "Schwarzes geknotetes Bandana"
+    },
+    {
+        "Component": 0,
+        "Drawable": 80,
+        "Texture": 3,
+        "Name": "Silberner Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 82,
+        "Texture": 1,
+        "Name": "Gekn. Uptown-Riders-Bandana"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 10,
+        "Name": "Roter Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 7,
+        "Name": "Grotti-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 9,
+        "Name": "Schwarzer Schlitze-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 0,
+        "Name": "Schwarzer Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 17,
+        "Name": "Pflasterstein-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 11,
+        "Name": "Schwarzer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 8,
+        "Name": "\"Imponte Racing\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 2,
+        "Name": "Quadrat-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 84,
+        "Texture": 0,
+        "Name": "Halbschalenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 82,
+        "Texture": 2,
+        "Name": "Geknotetes Ride-Free-Bandana"
+    },
+    {
+        "Component": 0,
+        "Drawable": 72,
+        "Texture": 12,
+        "Name": "Rosa Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 1,
+        "Name": "Carbon-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 18,
+        "Name": "Kubismus-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 11,
+        "Name": "Schwarzer Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 10,
+        "Name": "Weißer Sterne-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 8,
+        "Name": "\"Imponte Racing\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 9,
+        "Name": "\"Lampadati Racing\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 3,
+        "Name": "Karmesinroter Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 73,
+        "Texture": 12,
+        "Name": "Rosa Retrohelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 82,
+        "Texture": 3,
+        "Name": "Geknotetes Pik-Ass-Bandana"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 9,
+        "Name": "\"Lampadati Racing\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 19,
+        "Name": "Digitaltarn-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 4,
+        "Name": "Totenschädel-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 10,
+        "Name": "LTD-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 2,
+        "Name": "Oranger Carbon-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 85,
+        "Texture": 0,
+        "Name": "Halbschalenhelm mit Visier"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 11,
+        "Name": "Blauer Streifen-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 86,
+        "Texture": 0,
+        "Name": "Halbschalenhelm mit Kamm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 12,
+        "Name": "Roter Streifen-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 20,
+        "Name": "Schlangenhaut-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 82,
+        "Texture": 4,
+        "Name": "Geknotetes Schlangen-Bandana"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 11,
+        "Name": "\"Nagasaki Racing\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 5,
+        "Name": "Pik-Ass-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 3,
+        "Name": "Amerika-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 10,
+        "Name": "LTD-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 82,
+        "Texture": 5,
+        "Name": "Geknotetes Stier-Bandana"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 11,
+        "Name": "\"Nagasaki Racing\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 12,
+        "Name": "\"Nagasaki Moto\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 4,
+        "Name": "Grüner Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 87,
+        "Texture": 0,
+        "Name": "Halbschalenhelm mit Stacheln"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 6,
+        "Name": "Flammen-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 21,
+        "Name": "Boost-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 13,
+        "Name": "Blauer Ketten-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 13,
+        "Name": "Patriot-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 22,
+        "Name": "Solar-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 82,
+        "Texture": 6,
+        "Name": "Geknotetes Amerika-Bandana"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 7,
+        "Name": "Weißer Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 14,
+        "Name": "Schwarzer Streifen-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 12,
+        "Name": "\"Nagasaki Moto\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 5,
+        "Name": "Feder-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 0,
+        "Name": "Schwarzer Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 89,
+        "Texture": 0,
+        "Name": "Verchromter Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 14,
+        "Name": "\"Rebel Radio\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 66,
+        "Texture": 23,
+        "Name": "Atomic-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 74,
+        "Texture": 15,
+        "Name": "Schwarzer Wellen-Rollerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 13,
+        "Name": "Patriot-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 6,
+        "Name": "Stier-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 1,
+        "Name": "Carbon-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 8,
+        "Name": "Talfahrt-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 14,
+        "Name": "\"Rebel Radio\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 0,
+        "Name": "Deadline Gelb"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 7,
+        "Name": "Ride-Free-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 15,
+        "Name": "Redwood-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 9,
+        "Name": "Slalom-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 2,
+        "Name": "Oranger Carbon-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 0,
+        "Name": "Deadline Gelb"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 8,
+        "Name": "Pik-Ass-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 16,
+        "Name": "\"Scooter Brothers\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 10,
+        "Name": "Tod-in-San-Andreas-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 15,
+        "Name": "Redwood-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 1,
+        "Name": "Deadline Grün"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 3,
+        "Name": "Amerika-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 16,
+        "Name": "\"Scooter Brothers\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 1,
+        "Name": "Deadline Grün"
+    },
+    {
+        "Component": 0,
+        "Drawable": 92,
+        "Texture": 0,
+        "Name": "Mod-Kokarden-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 83,
+        "Texture": 9,
+        "Name": "Schlangen-Stachelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 11,
+        "Name": "Puls-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 4,
+        "Name": "Grüner Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 2,
+        "Name": "Deadline Orange"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 17,
+        "Name": "\"The Mount\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 17,
+        "Name": "\"The Mount\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 92,
+        "Texture": 1,
+        "Name": "Faggio-Mod-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 18,
+        "Name": "\"Total Ride\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 3,
+        "Name": "Deadline Violett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 2,
+        "Name": "Deadline Orange"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 5,
+        "Name": "Feder-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 12,
+        "Name": "Lava-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 0,
+        "Name": "Cremefarbener Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 18,
+        "Name": "\"Total Ride\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 3,
+        "Name": "Deadline Violett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 0,
+        "Name": "Cremefarbener Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 4,
+        "Name": "Deadline Pink"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 13,
+        "Name": "Tri-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 6,
+        "Name": "Stier-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 19,
+        "Name": "Vapid-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 92,
+        "Texture": 2,
+        "Name": "Gr. Mod-Kokarden-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 1,
+        "Name": "Roter Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 4,
+        "Name": "Deadline Pink"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 1,
+        "Name": "Roter Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 19,
+        "Name": "Vapid-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 92,
+        "Texture": 3,
+        "Name": "Gr. Faggio-Mod-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 14,
+        "Name": "Sprunk-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 5,
+        "Name": "Deadline Rot"
+    },
+    {
+        "Component": 0,
+        "Drawable": 75,
+        "Texture": 20,
+        "Name": "\"Xero Gas\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 7,
+        "Name": "Ride-Free-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 2,
+        "Name": "Blauer Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 0,
+        "Name": "Schwarze Bigness-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 5,
+        "Name": "Deadline Rot"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 2,
+        "Name": "Blauer Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 76,
+        "Texture": 20,
+        "Name": "\"Xero Gas\"-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 6,
+        "Name": "Deadline Blau"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 1,
+        "Name": "Rote Bigness-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 8,
+        "Name": "Pik-Ass-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 3,
+        "Name": "Zyanfarbener Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 15,
+        "Name": "Skelett-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 96,
+        "Texture": 0,
+        "Name": "Leuchtender klassischer Baum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 6,
+        "Name": "Deadline Blau"
+    },
+    {
+        "Component": 0,
+        "Drawable": 88,
+        "Texture": 9,
+        "Name": "Schlangen-Kuppelhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 2,
+        "Name": "Orange Tarn-Sand-Castle-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 3,
+        "Name": "Zyanfarbener Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 96,
+        "Texture": 1,
+        "Name": "Leuchtender lila Baum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 16,
+        "Name": "Todes-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 97,
+        "Texture": 0,
+        "Name": "Leuchtende Pudding-Wollmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 4,
+        "Name": "Weißer Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 4,
+        "Name": "Weißer Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 3,
+        "Name": "Lila Güffy-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 17,
+        "Name": "Pflasterstein-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 98,
+        "Texture": 0,
+        "Name": "Leuchtende kesse Elfenmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 96,
+        "Texture": 2,
+        "Name": "Leuchtende Stechpalme"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 5,
+        "Name": "Grauer Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 99,
+        "Texture": 0,
+        "Name": "Leuchtende Elfenmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 96,
+        "Texture": 3,
+        "Name": "Leuchtender Sternenbaum"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 5,
+        "Name": "Grauer Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 4,
+        "Name": "Altweiße Bigness-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 6,
+        "Name": "Marineblauer Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 90,
+        "Texture": 9,
+        "Name": "Deadline Weiß"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 18,
+        "Name": "Kubismus-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 91,
+        "Texture": 9,
+        "Name": "Deadline Weiß"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 6,
+        "Name": "Marineblauer Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 100,
+        "Texture": 0,
+        "Name": "Leuchtendes Rentiergeweih"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 7,
+        "Name": "Dunkelroter Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 5,
+        "Name": "Abstrakte Bigness-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 19,
+        "Name": "Digitaltarn-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 7,
+        "Name": "Dunkelroter Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 6,
+        "Name": "Graue abstrakte Bigness-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 8,
+        "Name": "Schieferfarbener Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 20,
+        "Name": "Schlangenhaut-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 0,
+        "Name": "Blaue Digitaltarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 93,
+        "Texture": 9,
+        "Name": "Moosfarbener Mod-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 21,
+        "Name": "Boost-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 7,
+        "Name": "Helle abstrakte Bigness-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 8,
+        "Name": "Schieferfarb. Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 94,
+        "Texture": 9,
+        "Name": "Moosfarbener Mod-Porkpie-Hut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 1,
+        "Name": "Braune Digitaltarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 22,
+        "Name": "Solar-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 8,
+        "Name": "Gestreifte Squash-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 9,
+        "Name": "Gepunktete Squash-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 2,
+        "Name": "Grüne Digitaltarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 1,
+        "Name": "Brauner Digitaltarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 81,
+        "Texture": 23,
+        "Name": "Atomic-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 0,
+        "Name": "Blauer Digitaltarn-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 3,
+        "Name": "Graue Digitaltarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 0,
+        "Name": "Blaues Digitaltarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 10,
+        "Name": "Squash-Bananen-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 2,
+        "Name": "Grüner Digitaltarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 1,
+        "Name": "Brauner Digitalt.-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 1,
+        "Name": "Braunes Digitaltarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 0,
+        "Name": "Blaue Digitaltarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 11,
+        "Name": "Squash-Spritzer-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 3,
+        "Name": "Grauer Digitaltarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 2,
+        "Name": "Grüner Digitalt.-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 12,
+        "Name": "Squash-Orangensaft-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 5,
+        "Name": "Herbsttarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 2,
+        "Name": "Grünes Digitaltarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 1,
+        "Name": "Braune Digitaltarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 3,
+        "Name": "Grauer Digitalt.-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 0,
+        "Name": "Blaue Digitaltarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 6,
+        "Name": "Dunkle Waldtarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 3,
+        "Name": "Graues Digitaltarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 0,
+        "Name": "Rote Hawk-&-Little-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 13,
+        "Name": "Güffy-Blätter-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 5,
+        "Name": "Herbsttarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 4,
+        "Name": "Pfirs. Digitaltarn-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 2,
+        "Name": "Grüne Digitaltarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 1,
+        "Name": "Braune Digitaltarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 7,
+        "Name": "Crosshatch-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 3,
+        "Name": "Graue Digitaltarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 1,
+        "Name": "Schwarze Hawk-&-Little-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 0,
+        "Name": "Rote Hawk-&-Little-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 14,
+        "Name": "Rote Güffy-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 5,
+        "Name": "Herbsttarn-Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 2,
+        "Name": "Grüne Digitaltarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 95,
+        "Texture": 15,
+        "Name": "Weiße Güffy-Neon-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 8,
+        "Name": "Moosgrüne Digitaltarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 7,
+        "Name": "Crosshatch-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 6,
+        "Name": "Dunkler Waldtarn-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 5,
+        "Name": "Herbsttarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 4,
+        "Name": "Pfirsichf. Digitaltarn-Schirmm."
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 2,
+        "Name": "Weiße Shrewsbury-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 1,
+        "Name": "Schwarze Hawk-&-Little-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 3,
+        "Name": "Graue Digitaltarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 0,
+        "Name": "Orangefarbener Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 9,
+        "Name": "Graue Waldtarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 6,
+        "Name": "Dunkles Waldtarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 3,
+        "Name": "Schwarze Shrewsbury-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 0,
+        "Name": "Waldtarn-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 8,
+        "Name": "Moosgrüner Digitaltarn-Kremp."
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 2,
+        "Name": "Weiße Shrewsbury-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 7,
+        "Name": "Crosshatch-Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 5,
+        "Name": "Herbsttarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 4,
+        "Name": "Pfirs. Digitaltarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 1,
+        "Name": "Grüner Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 10,
+        "Name": "Aquablaue Tarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 3,
+        "Name": "Schwarze Shrewsbury-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 4,
+        "Name": "Weiße Vom-Feuer-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 8,
+        "Name": "Moosgr. Digitalt.-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 7,
+        "Name": "Crosshatch-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 6,
+        "Name": "Dunkle Waldtarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 5,
+        "Name": "Herbsttarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 2,
+        "Name": "Brauner Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 1,
+        "Name": "Dunkler Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 0,
+        "Name": "Blaurote Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 4,
+        "Name": "Weiße Vom-Feuer-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 11,
+        "Name": "Splitter-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 5,
+        "Name": "Schwarze Vom-Feuer-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 10,
+        "Name": "Aquablauer Tarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 9,
+        "Name": "Grauer Waldtarn-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 8,
+        "Name": "Moosgrünes Digitaltarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 7,
+        "Name": "Crosshatch-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 6,
+        "Name": "Dunkle Waldtarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 3,
+        "Name": "Weißer Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 2,
+        "Name": "Heller Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 1,
+        "Name": "Schwarze Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 0,
+        "Name": "Weißgoldenes Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 0,
+        "Name": "Schwarze Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 6,
+        "Name": "Weinrote Coil-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 12,
+        "Name": "Kontrasttarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 11,
+        "Name": "Splitter-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 10,
+        "Name": "Aquablauer Tarn-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 9,
+        "Name": "Graues Waldtarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn-Schirmm."
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 7,
+        "Name": "Crosshatch-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 5,
+        "Name": "Schwarze Vom-Feuer-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 3,
+        "Name": "Flecktarn-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 2,
+        "Name": "Blaue Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 1,
+        "Name": "Weißblaues Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 1,
+        "Name": "Moosgrüne Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 0,
+        "Name": "Schwarze Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 13,
+        "Name": "Pflasterstein-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 12,
+        "Name": "Kontrasttarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 11,
+        "Name": "Splitter-Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 10,
+        "Name": "Aquablaues Tarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 9,
+        "Name": "Graue Waldtarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 8,
+        "Name": "Moosgr. Digitaltarn-Beaniekap."
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 7,
+        "Name": "Schwarze Coil-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 6,
+        "Name": "Weinrote Coil-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 4,
+        "Name": "Schwarzer Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 3,
+        "Name": "Marineblaue Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 2,
+        "Name": "Graues Leoparden-Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 14,
+        "Name": "Pfirsichfarbene Tarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 8,
+        "Name": "Schwarze Ammu-Nation-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 11,
+        "Name": "Splitter-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 5,
+        "Name": "Sani-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 2,
+        "Name": "Braune Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 1,
+        "Name": "Moosgrüne Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 0,
+        "Name": "Schwarze Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 13,
+        "Name": "Pflasterstein-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 12,
+        "Name": "Kontrasttarn-Krempenh. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 7,
+        "Name": "Schwarze Coil-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 10,
+        "Name": "Aquablaue Tarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 9,
+        "Name": "Graue Waldtarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 4,
+        "Name": "Aquablaue Tarn-Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 3,
+        "Name": "Marineblaues Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 15,
+        "Name": "Pinselstrich-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 9,
+        "Name": "Rote Ammu-Nation-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 13,
+        "Name": "Pflasterstein-Krempenh. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 8,
+        "Name": "Schwarze Ammu-Nation-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 12,
+        "Name": "Kontrasttarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 11,
+        "Name": "Splitter-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 10,
+        "Name": "Aquablaue Tarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 5,
+        "Name": "Weiße Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 6,
+        "Name": "Grauer Waldtarn-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 4,
+        "Name": "Blaues Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 3,
+        "Name": "Weiße Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 2,
+        "Name": "Braune Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 1,
+        "Name": "Moosgrüne Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 0,
+        "Name": "Schwarze Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 108,
+        "Texture": 10,
+        "Name": "Warstock-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 16,
+        "Name": "Flecktarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 13,
+        "Name": "Pflasterstein-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 3,
+        "Name": "Weiße Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 0,
+        "Name": "Schwarze Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 9,
+        "Name": "Rote Ammu-Nation-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 15,
+        "Name": "Pinselstrich-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarn-Krempenh. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 12,
+        "Name": "Kontrasttarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 11,
+        "Name": "Splitter-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 6,
+        "Name": "Rotweiße Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 8,
+        "Name": "Limonengrün-schw. Pilotenh."
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 7,
+        "Name": "Hellbr. Digitaltarn-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 5,
+        "Name": "Türkises Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 2,
+        "Name": "Braune Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 1,
+        "Name": "Moosgrüne Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 109,
+        "Texture": 10,
+        "Name": "Warstock-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 17,
+        "Name": "Helle Waldtarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 16,
+        "Name": "Flecktarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 14,
+        "Name": "Pfirsichfarbenes Tarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 13,
+        "Name": "Pflasterstein-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 8,
+        "Name": "Aquablauer Tarn-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 3,
+        "Name": "Weiße Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 1,
+        "Name": "Moosgrüne Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 15,
+        "Name": "Pinselstrich-Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 7,
+        "Name": "Graue Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 12,
+        "Name": "Kontrasttarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 9,
+        "Name": "51st-Squad-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 6,
+        "Name": "Aquablaues Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 2,
+        "Name": "Braune Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 0,
+        "Name": "Schwarze flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 18,
+        "Name": "Moosgrüne Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 17,
+        "Name": "Heller Waldtarn-Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 16,
+        "Name": "Flecktarn-Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 15,
+        "Name": "Pinselstrich-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 13,
+        "Name": "Pflasterstein-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 10,
+        "Name": "Orange-schwarzer Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 9,
+        "Name": "Splitter-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 2,
+        "Name": "Braune Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 1,
+        "Name": "Anthrazitgraue flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 8,
+        "Name": "Grünrote Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 7,
+        "Name": "Schwarzes Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 3,
+        "Name": "Weiße Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 102,
+        "Texture": 19,
+        "Name": "Sandbraune Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 16,
+        "Name": "Flecktarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 3,
+        "Name": "Weiße Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 10,
+        "Name": "Roter-Stern-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 18,
+        "Name": "Moosgrüner Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 2,
+        "Name": "Aschgraue flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 17,
+        "Name": "Heller Waldtarn-Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 9,
+        "Name": "Braunrote Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 15,
+        "Name": "Pinselstrich-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 14,
+        "Name": "Pfirsichf. Tarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 11,
+        "Name": "Zeus-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 8,
+        "Name": "Schokobraunes Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 3,
+        "Name": "Weiße flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 19,
+        "Name": "Sandbrauner Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 17,
+        "Name": "Helles Waldtarn-Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 16,
+        "Name": "Flecktarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 11,
+        "Name": "Brauner Digitaltarn-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 8,
+        "Name": "Leopardenmuster-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 0,
+        "Name": "Schwarzer Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 10,
+        "Name": "Hellbraune Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 18,
+        "Name": "Moosgrüner Krempenh. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 15,
+        "Name": "Pinselstrich-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 9,
+        "Name": "Rotes Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 12,
+        "Name": "Grüngelber Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 20,
+        "Name": "Schwarzer Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 4,
+        "Name": "Rote flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 11,
+        "Name": "Moosgrüne Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 19,
+        "Name": "Sandbrauner Krempenh. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 18,
+        "Name": "Moosgrünes Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 17,
+        "Name": "Helle Waldtarn-Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 12,
+        "Name": "Feldjäger-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 16,
+        "Name": "Flecktarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 13,
+        "Name": "Blau-oranger Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 9,
+        "Name": "Braune Digitaltarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 8,
+        "Name": "Leopardenmuster-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 1,
+        "Name": "Weißer Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 0,
+        "Name": "Schwarzer Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 10,
+        "Name": "Rot-marineblaues Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 5,
+        "Name": "Blaue flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 21,
+        "Name": "Schiefergrauer Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 8,
+        "Name": "Leopardenmuster-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 19,
+        "Name": "Sandbraunes Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 13,
+        "Name": "Zebramuster-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 18,
+        "Name": "Moosgrüne Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 17,
+        "Name": "Helle Waldtarn-Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 9,
+        "Name": "Braune Digitaltarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 10,
+        "Name": "Tigermuster-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 2,
+        "Name": "Grauer Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 0,
+        "Name": "Schwarze Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 12,
+        "Name": "Graue Digitaltarn-Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 20,
+        "Name": "Schwarzer Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 11,
+        "Name": "Rotes Tarn-Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 1,
+        "Name": "Weißer Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 14,
+        "Name": "DFA-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 20,
+        "Name": "Mitternachtsbarett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 10,
+        "Name": "Tigermuster-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 11,
+        "Name": "Pink gemusterte Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 0,
+        "Name": "Schwarze Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 21,
+        "Name": "Schiefergrauer Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 22,
+        "Name": "Weißer Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 13,
+        "Name": "Dunkle Waldtarn-Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 19,
+        "Name": "Sandbraune Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 14,
+        "Name": "Leopardenmuster-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 12,
+        "Name": "Pinselstrich-Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 6,
+        "Name": "Hellblaue flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 18,
+        "Name": "Moosgrüne Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 15,
+        "Name": "Snake-Killers-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 3,
+        "Name": "Moosgrüner Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 9,
+        "Name": "Braune Digitaltarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 8,
+        "Name": "Leopardenmuster-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 2,
+        "Name": "Grauer Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 1,
+        "Name": "Cremefarbene Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 21,
+        "Name": "Schiefergraues Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 20,
+        "Name": "Schwarze Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 15,
+        "Name": "Tigermuster-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 8,
+        "Name": "Leopardenmuster-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 11,
+        "Name": "Pink gemusterte Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 10,
+        "Name": "Tigermuster-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 12,
+        "Name": "Pfirs. Digitaltarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 1,
+        "Name": "Cremefarbene Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 7,
+        "Name": "Beige flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 23,
+        "Name": "Schokobrauner Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 14,
+        "Name": "Rote Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 22,
+        "Name": "Weißer Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 19,
+        "Name": "Sandbraune Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 13,
+        "Name": "Moosgrünes Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 9,
+        "Name": "Br. Digitaltarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 16,
+        "Name": "Mind-Over-Matter-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 3,
+        "Name": "Moosgrüner Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 4,
+        "Name": "Br. Digitaltarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 2,
+        "Name": "Steingraue Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 22,
+        "Name": "Eisweißes Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 2,
+        "Name": "Steingraue Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 13,
+        "Name": "Herbsttarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 12,
+        "Name": "Pfirsichf. Digitaltarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 112,
+        "Texture": 15,
+        "Name": "Schokobraune Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 9,
+        "Name": "Br. Digitaltarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 24,
+        "Name": "Olivgrüner Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 21,
+        "Name": "Schiefergraue Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 23,
+        "Name": "Schokobrauner Kremp. (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 16,
+        "Name": "Polizei-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 14,
+        "Name": "Braunes Digitaltarn-Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 20,
+        "Name": "Schwarze Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 17,
+        "Name": "Rotweißer Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 3,
+        "Name": "Braune Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 5,
+        "Name": "Grauer Digitaltarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 4,
+        "Name": "Br. Digitaltarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 11,
+        "Name": "Pink gemusterte Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 8,
+        "Name": "Helle flache Waldtarn-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 10,
+        "Name": "Tigermuster-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 13,
+        "Name": "Herbsttarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 14,
+        "Name": "Dunkle Waldtarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 12,
+        "Name": "Pfirsichf. Digitaltarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 3,
+        "Name": "Braune Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 10,
+        "Name": "Tigermuster-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 23,
+        "Name": "Schokoladenbraunes Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 22,
+        "Name": "Weiße Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 17,
+        "Name": "Flammen-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 24,
+        "Name": "Olivgrüner Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 103,
+        "Texture": 25,
+        "Name": "Hellbrauner Krempenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 15,
+        "Name": "Beiges Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 5,
+        "Name": "Grauer Digitaltarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 6,
+        "Name": "Crosshatch-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 9,
+        "Name": "Graue flache Waldtarn-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 21,
+        "Name": "Schiefergraue Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 11,
+        "Name": "Pink gemusterte Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 4,
+        "Name": "Rote Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 18,
+        "Name": "Other-Side-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 11,
+        "Name": "Pink gemusterte Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 15,
+        "Name": "Crosshatch-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 4,
+        "Name": "Rote Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 24,
+        "Name": "Olivgrünes Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 14,
+        "Name": "Dunkle Waldtarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 23,
+        "Name": "Schokoladenbr. Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 18,
+        "Name": "Amerika-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 13,
+        "Name": "Herbsttarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 0,
+        "Name": "Burger-Shot-Hamburger-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 104,
+        "Texture": 25,
+        "Name": "Hellbrauner Krempenhut (hoch)"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 6,
+        "Name": "Crosshatch-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 16,
+        "Name": "Weißes Tarn-Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 12,
+        "Name": "Pfirs. Digitaltarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 22,
+        "Name": "Weiße Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 5,
+        "Name": "Blaue Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 7,
+        "Name": "Blauer Digitaltarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 19,
+        "Name": "STFU-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 10,
+        "Name": "Aquablaue flache Tarn-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 105,
+        "Texture": 25,
+        "Name": "Hellbraunes Barett"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 24,
+        "Name": "Olivgrüne Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 23,
+        "Name": "Schokoladenbr. Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 5,
+        "Name": "Blaue Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 6,
+        "Name": "Braune Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 16,
+        "Name": "Grün gemusterte Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 15,
+        "Name": "Crosshatch-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 20,
+        "Name": "Patriot-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 19,
+        "Name": "Patrioten-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 1,
+        "Name": "Burger-Shot-Fritten-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 14,
+        "Name": "Dunkle Waldtarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 8,
+        "Name": "Herbsttarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 12,
+        "Name": "Pfirs. Digitaltarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 11,
+        "Name": "Flache Tigermuster-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 17,
+        "Name": "Graues Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 7,
+        "Name": "Blauer Digitaltarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 13,
+        "Name": "Herbsttarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 0,
+        "Name": "Burger-Shot-Hamburger-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 16,
+        "Name": "Grün gemusterte Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 13,
+        "Name": "Herbsttarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 6,
+        "Name": "Braune Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 17,
+        "Name": "Graue Waldtarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 131,
+        "Texture": 0,
+        "Name": "Taco-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 113,
+        "Texture": 18,
+        "Name": "Zebramuster-Schiffchen"
+    },
+    {
+        "Component": 0,
+        "Drawable": 106,
+        "Texture": 25,
+        "Name": "Hellbraune Schirmmütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 24,
+        "Name": "Olivgrüne Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 20,
+        "Name": "Grüne-Sterne-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 7,
+        "Name": "Graue Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 21,
+        "Name": "Zebramuster-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 2,
+        "Name": "Burger-Shot-Logo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 12,
+        "Name": "Flache Trikolore-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 15,
+        "Name": "Crosshatch-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 9,
+        "Name": "Aquablauer Tarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 1,
+        "Name": "Burger-Shot-Fritten-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 8,
+        "Name": "Herbsttarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 14,
+        "Name": "Dunkle Waldtarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 17,
+        "Name": "Graue Waldtarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 18,
+        "Name": "Aquablaue Tarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 9,
+        "Name": "Aquablauer Tarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 111,
+        "Texture": 21,
+        "Name": "Frieden-Kampfhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 107,
+        "Texture": 25,
+        "Name": "Hellbraune Beaniekappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 14,
+        "Name": "Dunkle Waldtarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 10,
+        "Name": "Splitter-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 22,
+        "Name": "Tigermuster-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 13,
+        "Name": "Blau gestreifte flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 3,
+        "Name": "Burger-Shot-Volltreffer-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 8,
+        "Name": "Kontrasttarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 15,
+        "Name": "Crosshatch-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 16,
+        "Name": "Grün gemusterte Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 2,
+        "Name": "Burger-Shot-Logo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 131,
+        "Texture": 1,
+        "Name": "Burger-Shot-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 7,
+        "Name": "Graue Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 15,
+        "Name": "Crosshatch-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 11,
+        "Name": "Grauer Waldtarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 4,
+        "Name": "Gelbe Cluckin'-Bell-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 18,
+        "Name": "Aquablaue Tarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 17,
+        "Name": "Graue Waldtarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 9,
+        "Name": "Blaue Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 14,
+        "Name": "Flache Rastatrio-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 131,
+        "Texture": 2,
+        "Name": "Cluckin'-Bell-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 8,
+        "Name": "Kontrasttarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 19,
+        "Name": "Splitter-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 3,
+        "Name": "Burger-Shot-Volltreffer-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 23,
+        "Name": "Leopardenmuster-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 10,
+        "Name": "Splitter-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 16,
+        "Name": "Grün gemusterte Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 131,
+        "Texture": 3,
+        "Name": "Hotdogs-Leinenhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 16,
+        "Name": "Grün gemusterte Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 19,
+        "Name": "Splitter-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 18,
+        "Name": "Aquablaue Tarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 9,
+        "Name": "Blaue Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 20,
+        "Name": "Kontrasttarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 0,
+        "Name": "Weiße The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 15,
+        "Name": "Braun gestreifte flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 10,
+        "Name": "Herbsttarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 17,
+        "Name": "Graue Waldtarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 24,
+        "Name": "Haimaul-Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 5,
+        "Name": "Blaue Cluckin'-Bell-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 12,
+        "Name": "Pinselstrich-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 4,
+        "Name": "Gelbe Cluckin'-Bell-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 11,
+        "Name": "Grauer Waldtarn-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 19,
+        "Name": "Splitter-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 6,
+        "Name": "Cluckin'-Bell-Logo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 21,
+        "Name": "Pflasterstein-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 10,
+        "Name": "Herbsttarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 20,
+        "Name": "Kontrasttarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 17,
+        "Name": "Graue Waldtarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 1,
+        "Name": "Schwarze The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 0,
+        "Name": "Weiße The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 16,
+        "Name": "Flache Amerika-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 110,
+        "Texture": 25,
+        "Name": "Gelb-schwarzer Pilotenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 18,
+        "Name": "Aquablaue Tarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 13,
+        "Name": "Moosgr. Digitalt.-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 12,
+        "Name": "Pinselstrich-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 5,
+        "Name": "Blaue Cluckin'-Bell-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 11,
+        "Name": "Aquablaue Tarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 12,
+        "Name": "Helle Waldtarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 7,
+        "Name": "Schwarze Hotdogs-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 22,
+        "Name": "Pinselstrich-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 20,
+        "Name": "Kontrasttarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 11,
+        "Name": "Aquablaue Tarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 21,
+        "Name": "Pflasterstein-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 18,
+        "Name": "Aquablaue Tarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 14,
+        "Name": "MP-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 17,
+        "Name": "Flache Rastastreifen-Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 2,
+        "Name": "Weiße LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 1,
+        "Name": "Schwarze The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 136,
+        "Texture": 0,
+        "Name": "Gelber Feuerwehrhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 13,
+        "Name": "Moosgr. Digitalt.-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 6,
+        "Name": "Cluckin'-Bell-Logo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 19,
+        "Name": "Splitter-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 23,
+        "Name": "Flecktarn-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 19,
+        "Name": "Splitter-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 22,
+        "Name": "Pinselstrich-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 12,
+        "Name": "Helle Waldtarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 137,
+        "Texture": 0,
+        "Name": "Gelber Feuerwehrhelm & Brille"
+    },
+    {
+        "Component": 0,
+        "Drawable": 122,
+        "Texture": 15,
+        "Name": "LSPD-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 136,
+        "Texture": 1,
+        "Name": "Oranger Feuerwehrhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 8,
+        "Name": "Taco-Bomb-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 14,
+        "Name": "MP-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 7,
+        "Name": "Schwarze Hotdogs-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 18,
+        "Name": "Schwarzgelbe flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 2,
+        "Name": "Weiße LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 21,
+        "Name": "Pflasterstein-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 13,
+        "Name": "Splitter-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 3,
+        "Name": "Schwarze LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 20,
+        "Name": "Kontrasttarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 9,
+        "Name": "Violette Hotdogs-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 19,
+        "Name": "Blaugelbe flache Beanie"
+    },
+    {
+        "Component": 0,
+        "Drawable": 137,
+        "Texture": 1,
+        "Name": "Oranger Feuerwehrh. & Brille"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 13,
+        "Name": "Splitter-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 24,
+        "Name": "Schwarzrote Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 23,
+        "Name": "Flecktarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 22,
+        "Name": "Pinselstrich-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 4,
+        "Name": "Rote The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 20,
+        "Name": "Kontrasttarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 3,
+        "Name": "Schwarze LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 138,
+        "Texture": 0,
+        "Name": "Bugstars-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 14,
+        "Name": "Graue Waldtarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 136,
+        "Texture": 2,
+        "Name": "Weißer Feuerwehrhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 123,
+        "Texture": 15,
+        "Name": "LSPD-Einsatzhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 21,
+        "Name": "Pflasterstein-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 8,
+        "Name": "Taco-Bomb-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 137,
+        "Texture": 2,
+        "Name": "Weißer Feuerwehrh. & Brille"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 24,
+        "Name": "Schwarzrote Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 14,
+        "Name": "Graue Waldtarn-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 114,
+        "Texture": 25,
+        "Name": "Zebramuster-Vollmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 20,
+        "Name": "Grüne flache Hahnentritt-B."
+    },
+    {
+        "Component": 0,
+        "Drawable": 138,
+        "Texture": 1,
+        "Name": "Prison-Authority-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 23,
+        "Name": "Flecktarn-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 10,
+        "Name": "Pinke Hotdogs-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 5,
+        "Name": "Orange The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 21,
+        "Name": "Pflasterstein-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 4,
+        "Name": "Rote The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 15,
+        "Name": "Moosgr. Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 139,
+        "Texture": 0,
+        "Name": "Bugstars-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 22,
+        "Name": "Pinselstrich-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 9,
+        "Name": "Violette Hotdogs-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 115,
+        "Texture": 25,
+        "Name": "Zebramuster-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 15,
+        "Name": "Moosgr. Digitalt.-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 139,
+        "Texture": 1,
+        "Name": "Prison-Authority-Kappe, rück."
+    },
+    {
+        "Component": 0,
+        "Drawable": 138,
+        "Texture": 2,
+        "Name": "Yung-Ancestor-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 11,
+        "Name": "Weiße Lucky-Plucker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 119,
+        "Texture": 21,
+        "Name": "Beige flache Hahnentritt-B."
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 10,
+        "Name": "Pinke Hotdogs-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 5,
+        "Name": "Orange The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 22,
+        "Name": "Pinselstrich-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 16,
+        "Name": "Crosshatch-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 6,
+        "Name": "Blaue LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 24,
+        "Name": "Schwarzrote Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 23,
+        "Name": "Flecktarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 16,
+        "Name": "Crosshatch-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 116,
+        "Texture": 25,
+        "Name": "Zebramuster-Doppellinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 23,
+        "Name": "Flecktarn-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 139,
+        "Texture": 2,
+        "Name": "Yung-Ancestor-Kappe, rück."
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 6,
+        "Name": "Blaue LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 11,
+        "Name": "Weiße Lucky-Plucker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 7,
+        "Name": "Grüne The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 17,
+        "Name": "Anarchie-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 24,
+        "Name": "Schwarzrote Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 12,
+        "Name": "Rote Lucky-Plucker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 0,
+        "Name": "Schwarze Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 124,
+        "Texture": 18,
+        "Name": "Polizei-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 8,
+        "Name": "Orange LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 7,
+        "Name": "Grüne The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 13,
+        "Name": "Rote Lucky-Plucker-Muster-K."
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 17,
+        "Name": "Anarchie-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 24,
+        "Name": "Schwarzrote Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 1,
+        "Name": "Graue Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 0,
+        "Name": "Schwarze Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 117,
+        "Texture": 25,
+        "Name": "Zebramuster-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 12,
+        "Name": "Rote Lucky-Plucker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 125,
+        "Texture": 18,
+        "Name": "Polizei-Einsatzhaube"
+    },
+    {
+        "Component": 0,
+        "Drawable": 143,
+        "Texture": 0,
+        "Name": "Gruppe-Sechs-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 118,
+        "Texture": 25,
+        "Name": "Zebramuster-Vierfachlinse"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 8,
+        "Name": "Orange LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 9,
+        "Name": "Violette The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 13,
+        "Name": "Rote Lucky-Plucker-Muster-K."
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 14,
+        "Name": "Weiße Lucky-Plucker-Muster-K."
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 2,
+        "Name": "Hellgraue Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 1,
+        "Name": "Graue Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 10,
+        "Name": "Pinke LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 3,
+        "Name": "Rote Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 144,
+        "Texture": 0,
+        "Name": "Gelber Bauarbeiterhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 9,
+        "Name": "Violette The-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 14,
+        "Name": "Weiße Lucky-Plucker-Muster-K."
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 15,
+        "Name": "Weiße Pißwasser-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 2,
+        "Name": "Hellgraue Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 11,
+        "Name": "Weiße Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 10,
+        "Name": "Pinke LS-Diamond-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 16,
+        "Name": "Schwarze Pißwasser-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 3,
+        "Name": "Rote Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 144,
+        "Texture": 1,
+        "Name": "Oranger Bauarbeiterhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 4,
+        "Name": "Türkise Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 0,
+        "Name": "Schwarzer Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 15,
+        "Name": "Weiße Pißwasser-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 0,
+        "Name": "Schwarze Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 144,
+        "Texture": 2,
+        "Name": "Weißer Bauarbeiterhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 17,
+        "Name": "Weiße Taco-Bomb-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 11,
+        "Name": "Weiße Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 12,
+        "Name": "Schwarze Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 4,
+        "Name": "Türkise Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 16,
+        "Name": "Schwarze Pißwasser-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 5,
+        "Name": "Smiley-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 1,
+        "Name": "Dunkelgrauer Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 144,
+        "Texture": 3,
+        "Name": "Blauer Bauarbeiterhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 129,
+        "Texture": 18,
+        "Name": "Grüne Taco-Bomb-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 13,
+        "Name": "Türkise Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 12,
+        "Name": "Schwarze Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 5,
+        "Name": "Smiley-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 1,
+        "Name": "Salbeifarb. Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 6,
+        "Name": "Graue Digitaltarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 2,
+        "Name": "Violetter Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 0,
+        "Name": "Schwarze Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 17,
+        "Name": "Weiße Taco-Bomb-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 130,
+        "Texture": 18,
+        "Name": "Grüne Taco-Bomb-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 14,
+        "Name": "Rote Flying-Bravo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 13,
+        "Name": "Türkise Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 2,
+        "Name": "Beige Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 6,
+        "Name": "Graue Digitaltarn-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 1,
+        "Name": "Salbeifarb. Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 3,
+        "Name": "Hellgrauer Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 7,
+        "Name": "Blaue Digitaltarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 148,
+        "Texture": 0,
+        "Name": "Captain-Parademütze"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 3,
+        "Name": "Steingraue Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 0,
+        "Name": "Schwarzer fortschr. Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 8,
+        "Name": "Blaue-Welle-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 15,
+        "Name": "Grüne Flying-Bravo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 14,
+        "Name": "Rote Flying-Bravo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 4,
+        "Name": "Salbeigrüner Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 7,
+        "Name": "Blaue Digitaltarn-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 2,
+        "Name": "Beige Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 16,
+        "Name": "Schwarze SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 4,
+        "Name": "Weiße Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 15,
+        "Name": "Grüne Flying-Bravo-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 9,
+        "Name": "Amerika-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 1,
+        "Name": "Moosgrüner fortschr. Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 0,
+        "Name": "Enus-Yeti-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 8,
+        "Name": "Blaue-Welle-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 3,
+        "Name": "Steingraue Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 5,
+        "Name": "Dunkelpinker Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 0,
+        "Name": "Enus-Yeti-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 9,
+        "Name": "Amerika-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 5,
+        "Name": "Beige Digital-Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 10,
+        "Name": "Breites-Grinsen-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 16,
+        "Name": "Schwarze SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 1,
+        "Name": "720-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 4,
+        "Name": "Weiße Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 6,
+        "Name": "Roter Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 17,
+        "Name": "Türkise SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 2,
+        "Name": "Brauner fortschr. Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 10,
+        "Name": "Breites-Grinsen-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 1,
+        "Name": "720-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 17,
+        "Name": "Türkise SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 18,
+        "Name": "Violette SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 11,
+        "Name": "Wolf-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 6,
+        "Name": "Grüne Digital-Nachtsichtm."
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 2,
+        "Name": "Exsorbeo-720-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 3,
+        "Name": "Weißer fortschr. Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 152,
+        "Texture": 0,
+        "Name": "Frontierhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 5,
+        "Name": "Beige Digital-Nachtsichtmaske"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 7,
+        "Name": "Terracottafarbener Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 146,
+        "Texture": 7,
+        "Name": "Wüstenf. Digital-Nachtsichtm."
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 2,
+        "Name": "Exsorbeo-720-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 19,
+        "Name": "Rote SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 12,
+        "Name": "Graue Tarn-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 11,
+        "Name": "Wolf-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 18,
+        "Name": "Violette SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 3,
+        "Name": "Güffy-Doppellogo-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 0,
+        "Name": "Sprunk-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 6,
+        "Name": "Grüne Digital-Nachtsichtm."
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 8,
+        "Name": "Cremefarbener Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 3,
+        "Name": "Güffy-Doppellogo-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 0,
+        "Name": "Sprunk-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 147,
+        "Texture": 7,
+        "Name": "Wüstenf. Digital-Nachtsichtm."
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 12,
+        "Name": "Graue Tarn-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 4,
+        "Name": "Rockstar-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 13,
+        "Name": "Schwarze Schädelkappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 19,
+        "Name": "Rote SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 20,
+        "Name": "Weiße SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 9,
+        "Name": "Elfenbeinfarbener Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 1,
+        "Name": "eCola-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 4,
+        "Name": "Rockstar-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 14,
+        "Name": "Blutkreuz-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 21,
+        "Name": "Graue Yeti-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 1,
+        "Name": "eCola-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 0,
+        "Name": "Rosa gebogene Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 13,
+        "Name": "Schwarze Schädelkappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 5,
+        "Name": "Weiße Civilist-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 20,
+        "Name": "Weiße SC-Broker-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 10,
+        "Name": "Aschgrauer Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 2,
+        "Name": "Broker-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 6,
+        "Name": "Schwarze Civilist-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 5,
+        "Name": "Weiße Civilist-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 11,
+        "Name": "Dunkellila Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 15,
+        "Name": "Braune Schädelkappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 22,
+        "Name": "Bunte Yeti-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 14,
+        "Name": "Blutkreuz-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 21,
+        "Name": "Graue Yeti-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 3,
+        "Name": "Helle Dinka-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 2,
+        "Name": "Broker-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 1,
+        "Name": "Gelbe gebog. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 0,
+        "Name": "Rosa gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 134,
+        "Texture": 23,
+        "Name": "Yeti-Waldtarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 16,
+        "Name": "Grüne Tarn-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 6,
+        "Name": "Schwarze Civilist-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 8,
+        "Name": "Fortschr. Leopardenhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 3,
+        "Name": "Helle Dinka-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 2,
+        "Name": "Graue gebog. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 0,
+        "Name": "Rosa gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 150,
+        "Texture": 7,
+        "Name": "Orange Civilist-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 4,
+        "Name": "Dunkle Dinka-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 12,
+        "Name": "Eierschalenfarb. Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 22,
+        "Name": "Bunte Yeti-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 15,
+        "Name": "Braune Schädelkappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 1,
+        "Name": "Gelbe gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 151,
+        "Texture": 7,
+        "Name": "Orange Civilist-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 145,
+        "Texture": 13,
+        "Name": "Weißer Bestatterhut"
+    },
+    {
+        "Component": 0,
+        "Drawable": 135,
+        "Texture": 23,
+        "Name": "Yeti-Waldtarn-Kappe"
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 17,
+        "Name": "Neongrüne Tarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 9,
+        "Name": "Brauner fortschr. Digit.-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 16,
+        "Name": "Grüne Tarn-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 4,
+        "Name": "Dunkle Dinka-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 5,
+        "Name": "Weiße Güffy-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 3,
+        "Name": "Marinebl. geb. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 1,
+        "Name": "Gelbe gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 158,
+        "Texture": 0,
+        "Name": "Marinebl. ger. Prolaps-Kappe, v."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 2,
+        "Name": "Graue gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 0,
+        "Name": "Rosa gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 2,
+        "Name": "Graue gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 10,
+        "Name": "Fortschr. Tigerhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 17,
+        "Name": "Neongrüne Tarn-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 18,
+        "Name": "Neonlila Tarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 5,
+        "Name": "Weiße Güffy-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 6,
+        "Name": "Schwarze Güffy-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 4,
+        "Name": "Rote gebogene Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 158,
+        "Texture": 1,
+        "Name": "Grüne ger. Prolaps-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 3,
+        "Name": "Marinebl. geb. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 6,
+        "Name": "Schwarze Güffy-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 1,
+        "Name": "Gelbe gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 160,
+        "Texture": 0,
+        "Name": "Marinebl. ger. Prolaps-Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 19,
+        "Name": "Kopfstein-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 11,
+        "Name": "Pink gemusterter fortschr. Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 18,
+        "Name": "Neonlila Tarn-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 7,
+        "Name": "Annis-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 5,
+        "Name": "Beige gebogene Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 3,
+        "Name": "Marineblaue ger. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 4,
+        "Name": "Rote gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 160,
+        "Texture": 1,
+        "Name": "Grüne ger. Prolaps-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 20,
+        "Name": "Gr. Schlangenh.-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 7,
+        "Name": "Annis-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 12,
+        "Name": "Pfirsichf. fortschr. Digit.-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 4,
+        "Name": "Rote gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 6,
+        "Name": "Lachsrosa geb. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 2,
+        "Name": "Graue gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 0,
+        "Name": "Lila Broker-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 19,
+        "Name": "Kopfstein-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 8,
+        "Name": "Hellion-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 5,
+        "Name": "Beige gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 13,
+        "Name": "Fortschr. Herbsttarnhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 8,
+        "Name": "Hellion-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 3,
+        "Name": "Marineblaue ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 141,
+        "Texture": 21,
+        "Name": "Lila Schlangenh.-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 20,
+        "Name": "Gr. Schlangenh.-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 9,
+        "Name": "Emperor-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 5,
+        "Name": "Beige gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 7,
+        "Name": "Orange gebog. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 6,
+        "Name": "Lachsrosa geb. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 1,
+        "Name": "Graue Broker-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 0,
+        "Name": "Lila Broker-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 9,
+        "Name": "Emperor-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 14,
+        "Name": "Dunkler fortschr. Waldtarnhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 4,
+        "Name": "Rote gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 1,
+        "Name": "Graue Broker-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 142,
+        "Texture": 21,
+        "Name": "Lila Schlangenh.-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 10,
+        "Name": "Karin-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 6,
+        "Name": "Lachsrosa ger. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 2,
+        "Name": "Schwarze Trickster-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 8,
+        "Name": "Schokobraune geb. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 7,
+        "Name": "Orange geb. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 10,
+        "Name": "Karin-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 15,
+        "Name": "Fortschr. Crosshatch-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 11,
+        "Name": "Lampadati-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 5,
+        "Name": "Beige gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 7,
+        "Name": "Orange gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 2,
+        "Name": "Schwarze Trickster-Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 3,
+        "Name": "Gelbe Trickster-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 9,
+        "Name": "Schiefergraue geb. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 8,
+        "Name": "Schokobraune geb. Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 6,
+        "Name": "Lachsrosa ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 10,
+        "Name": "Weiße gebog. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 12,
+        "Name": "Omnis-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 3,
+        "Name": "Gelbe Trickster-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 8,
+        "Name": "Schokobraune ger. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 4,
+        "Name": "Gelbe Trickster-Tarnkappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 16,
+        "Name": "Grün gemusterter fortschr. Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 11,
+        "Name": "Lampadati-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 9,
+        "Name": "Schiefergraue geb. Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 12,
+        "Name": "Omnis-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 4,
+        "Name": "Gelbe Trickster-Tarnkappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 7,
+        "Name": "Orange gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 17,
+        "Name": "Grauer fortschr. Waldtarnhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 153,
+        "Texture": 13,
+        "Name": "Vapid-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 9,
+        "Name": "Schiefergraue ger. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 10,
+        "Name": "Weiße geb. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 5,
+        "Name": "Schwarze VDG-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 11,
+        "Name": "Karmesinrote geb. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 154,
+        "Texture": 13,
+        "Name": "Vapid-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 12,
+        "Name": "Grüne gebog. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 10,
+        "Name": "Weiße gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 6,
+        "Name": "Gelbe VDG-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 5,
+        "Name": "Schwarze VDG-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 8,
+        "Name": "Schokobraune ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 18,
+        "Name": "Aquablauer fortschr. Tarnhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 11,
+        "Name": "Karmesinrote geb. Kappe rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 9,
+        "Name": "Schiefergraue ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 19,
+        "Name": "Fortschr. Splitter-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 7,
+        "Name": "Schwarze Pounders-Kappe, v."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 13,
+        "Name": "Blaue gebogene Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 11,
+        "Name": "Karmesinrote ger. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 6,
+        "Name": "Gelbe VDG-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 12,
+        "Name": "Grüne gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 7,
+        "Name": "Schwarze Pounders-Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 20,
+        "Name": "Fortschr. Kontrasttarnhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 14,
+        "Name": "Olivengrüne geb. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 10,
+        "Name": "Weiße gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 161,
+        "Texture": 8,
+        "Name": "Weiße Pounders-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 13,
+        "Name": "Blaue gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 12,
+        "Name": "Grüne gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 162,
+        "Texture": 8,
+        "Name": "Weiße Pounders-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 13,
+        "Name": "Blaue gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 15,
+        "Name": "Weinrote gebog. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 21,
+        "Name": "Fortschr. Pflasterstein-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 11,
+        "Name": "Karmesinrote ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 14,
+        "Name": "Grüne gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 12,
+        "Name": "Grüne gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 15,
+        "Name": "Weinrote geb. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 22,
+        "Name": "Fortschr. Pinselstrich-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 16,
+        "Name": "Zitronengelbe geb. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 14,
+        "Name": "Olivengrüne ger. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 13,
+        "Name": "Blaue gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 23,
+        "Name": "Fortschr. Flecktarnhelm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 15,
+        "Name": "Weinrote gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 16,
+        "Name": "Zitronengelbe geb. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 17,
+        "Name": "Pinke gebogene Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 24,
+        "Name": "Schwarz-roter fortschr. Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 14,
+        "Name": "Olivengrüne ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 16,
+        "Name": "Zitronengelbe ger. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 18,
+        "Name": "Schwarze gebog. Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 17,
+        "Name": "Pinke gebog. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 15,
+        "Name": "Weinrote ger. Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 17,
+        "Name": "Pinke gerade Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 149,
+        "Texture": 25,
+        "Name": "Fortschr. Zebra-Helm"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 19,
+        "Name": "Geb. Kontrasttarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 18,
+        "Name": "Schwarze geb. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 16,
+        "Name": "Zitronengelbe ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 20,
+        "Name": "Hellblaue geb. Tarnkappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 19,
+        "Name": "Geb. Kontrasttarn-Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 18,
+        "Name": "Schwarze ger. Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 17,
+        "Name": "Pinke gerade Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 21,
+        "Name": "Geb. Pinselstrich-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 19,
+        "Name": "Ger. Kontrasttarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 20,
+        "Name": "Hellblaue geb. Tarnkappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 18,
+        "Name": "Schwarze ger. Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 20,
+        "Name": "Hellblaue ger. Tarnkappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 22,
+        "Name": "Br. geb. Digitaltarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 21,
+        "Name": "Geb. Pinselstrich-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 19,
+        "Name": "Ger. Kontrasttarn-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 22,
+        "Name": "Br. geb. Digitaltarn-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 21,
+        "Name": "Ger. Pinselstrich-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 23,
+        "Name": "Graue geb. Waldtarn-Kappe, v."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 24,
+        "Name": "Bunte gebog. Heat-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 20,
+        "Name": "Hellblaue ger. Tarnkappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 22,
+        "Name": "Br. ger. Digitaltarn-Kappe, vorw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 23,
+        "Name": "Graue geb. Waldtarn-Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 21,
+        "Name": "Ger. Pinselstrich-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 23,
+        "Name": "Graue ger. Waldtarn-Kappe, v."
+    },
+    {
+        "Component": 0,
+        "Drawable": 155,
+        "Texture": 25,
+        "Name": "Marinebl. geb. Prolaps-Kappe, v."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 24,
+        "Name": "Bunte gebog. Heat-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 22,
+        "Name": "Br. ger. Digitaltarn-Kappe, rückw."
+    },
+    {
+        "Component": 0,
+        "Drawable": 156,
+        "Texture": 25,
+        "Name": "Marinebl. geb. Prolaps-Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 24,
+        "Name": "Bunte ger. Heat-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 157,
+        "Texture": 25,
+        "Name": "Weiße ger. Prolaps-Kappe, vorwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 23,
+        "Name": "Graue ger. Waldtarn-Kappe, r."
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 24,
+        "Name": "Bunte ger. Heat-Kappe, rückwärts"
+    },
+    {
+        "Component": 0,
+        "Drawable": 159,
+        "Texture": 25,
+        "Name": "Weiße ger. Prolaps-Kappe, rückw."
+    }
+]

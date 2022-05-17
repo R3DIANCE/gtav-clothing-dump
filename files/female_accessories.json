@@ -1,0 +1,1603 @@
+[{
+        "Component": 7,
+        "Drawable": 10,
+        "Texture": 0,
+        "Name": "Blumen-Armreifen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 10,
+        "Texture": 1,
+        "Name": "MyMy Armreifen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 11,
+        "Texture": 0,
+        "Name": "Schwarze MyMy Herzkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 10,
+        "Texture": 2,
+        "Name": "Grüne Armreifen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 11,
+        "Texture": 1,
+        "Name": "Pinke MyMy Herzkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 12,
+        "Texture": 0,
+        "Name": "Weiße Perlen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 10,
+        "Texture": 3,
+        "Name": "Rote Armreifen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 11,
+        "Texture": 2,
+        "Name": "Rosa Herzkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 13,
+        "Texture": 0,
+        "Name": "Gepunkteter Schleifenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 12,
+        "Texture": 1,
+        "Name": "Silberne Perlen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 14,
+        "Texture": 0,
+        "Name": "Schwarzweiße Lederriemen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 11,
+        "Texture": 3,
+        "Name": "Komplett silberne Herzkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 12,
+        "Texture": 2,
+        "Name": "Schwarze Perlen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 13,
+        "Texture": 1,
+        "Name": "Blumen-Schleifenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 14,
+        "Texture": 1,
+        "Name": "Sommer-Lederriemen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 13,
+        "Texture": 2,
+        "Name": "Pinker Schleifenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 15,
+        "Texture": 0,
+        "Name": "Rotes Quastenhalstuch"
+    },
+    {
+        "Component": 7,
+        "Drawable": 14,
+        "Texture": 2,
+        "Name": "Bunte Lederriemen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 13,
+        "Texture": 3,
+        "Name": "Roter Schleifenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 15,
+        "Texture": 1,
+        "Name": "Lila Quastenhalstuch"
+    },
+    {
+        "Component": 7,
+        "Drawable": 13,
+        "Texture": 4,
+        "Name": "Leoparden-Schleifenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 14,
+        "Texture": 3,
+        "Name": "Pinke karierte Lederriemen"
+    },
+    {
+        "Component": 7,
+        "Drawable": 15,
+        "Texture": 2,
+        "Name": "Olivgrünes Quastenhalstuch"
+    },
+    {
+        "Component": 7,
+        "Drawable": 17,
+        "Texture": 0,
+        "Name": "Gestreifter Schal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 18,
+        "Texture": 0,
+        "Name": "Gestreifter Schal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 13,
+        "Texture": 5,
+        "Name": "Weißer Schleifenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 15,
+        "Texture": 3,
+        "Name": "Pinkes Quastenhalstuch"
+    },
+    {
+        "Component": 7,
+        "Drawable": 17,
+        "Texture": 1,
+        "Name": "Freudeschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 18,
+        "Texture": 1,
+        "Name": "Freudeschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 15,
+        "Texture": 4,
+        "Name": "Türkises Quastenhalstuch"
+    },
+    {
+        "Component": 7,
+        "Drawable": 19,
+        "Texture": 0,
+        "Name": "Schwarze lockere Fliege"
+    },
+    {
+        "Component": 7,
+        "Drawable": 17,
+        "Texture": 2,
+        "Name": "Schneeflockenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 0,
+        "Name": "Anthrazitgraue lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 17,
+        "Texture": 3,
+        "Name": "Sturmschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 18,
+        "Texture": 2,
+        "Name": "Schneeflockenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 18,
+        "Texture": 3,
+        "Name": "Sturmschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 1,
+        "Name": "Khakif. schraff. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 21,
+        "Texture": 0,
+        "Name": "Weiße schmale Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 21,
+        "Texture": 1,
+        "Name": "Graue schmale Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 2,
+        "Name": "Weiße gestr. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 0,
+        "Name": "Anthrazitgraue gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 3,
+        "Name": "Grüne lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 23,
+        "Texture": 0,
+        "Name": "Schwarze Fliege"
+    },
+    {
+        "Component": 7,
+        "Drawable": 21,
+        "Texture": 2,
+        "Name": "Schwarze schmale Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 1,
+        "Name": "Khakif. schraff. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 23,
+        "Texture": 1,
+        "Name": "Weiße Fliege"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 4,
+        "Name": "Lila lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 2,
+        "Name": "Weiße gestr. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 23,
+        "Texture": 2,
+        "Name": "Rote Fliege"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 5,
+        "Name": "Fuchsiaf. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 3,
+        "Name": "Grüne gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 6,
+        "Name": "Graue lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 0,
+        "Name": "Anthrazitgraue lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 4,
+        "Name": "Lila gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 7,
+        "Name": "Hellbraune lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 1,
+        "Name": "Khakif. schraff. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 27,
+        "Texture": 0,
+        "Name": "Weiße schmale Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 5,
+        "Name": "Fuchsiaf. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 6,
+        "Name": "Graue gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 27,
+        "Texture": 1,
+        "Name": "Graue schmale Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 8,
+        "Name": "Blaue gestr. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 2,
+        "Name": "Weiße gestr. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 0,
+        "Name": "Anthrazitgraue gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 9,
+        "Name": "Türkise lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 3,
+        "Name": "Grüne lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 29,
+        "Texture": 0,
+        "Name": "SN-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 27,
+        "Texture": 2,
+        "Name": "Schwarze schmale Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 7,
+        "Name": "Hellbraune gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 1,
+        "Name": "Khakif. schraff. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 29,
+        "Texture": 1,
+        "Name": "SN-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 8,
+        "Name": "Blaue gestr. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 10,
+        "Name": "Orange lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 4,
+        "Name": "Lila lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 2,
+        "Name": "Weiße gestr. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 30,
+        "Texture": 0,
+        "Name": "Totenkopf-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 9,
+        "Name": "Türkise gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 30,
+        "Texture": 1,
+        "Name": "Totenkopf-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 11,
+        "Name": "Blaue lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 5,
+        "Name": "Fuchsiaf. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 31,
+        "Texture": 0,
+        "Name": "Sturmhauben-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 12,
+        "Name": "Hellbr. gestr. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 6,
+        "Name": "Graue lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 32,
+        "Texture": 0,
+        "Name": "Zorse-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 4,
+        "Name": "Lila gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 10,
+        "Name": "Orange gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 13,
+        "Name": "Pinke lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 32,
+        "Texture": 1,
+        "Name": "Zorse-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 11,
+        "Name": "Blaue gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 5,
+        "Name": "Fuchsiaf. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 7,
+        "Name": "Hellbraune lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 33,
+        "Texture": 0,
+        "Name": "LC-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 8,
+        "Name": "Blaue gestr. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 14,
+        "Name": "Grüne lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 34,
+        "Texture": 0,
+        "Name": "Dix-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 33,
+        "Texture": 1,
+        "Name": "LC-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 12,
+        "Name": "Hellbr. gestr. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 6,
+        "Name": "Graue gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 20,
+        "Texture": 15,
+        "Name": "Blaue schraff. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 34,
+        "Texture": 1,
+        "Name": "Dix-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 9,
+        "Name": "Türkise lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 35,
+        "Texture": 0,
+        "Name": "Le Chien-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 7,
+        "Name": "Hellbraune gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 13,
+        "Name": "Pinke gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 35,
+        "Texture": 1,
+        "Name": "Le Chien-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 14,
+        "Name": "Grüne gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 10,
+        "Name": "Orange lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 8,
+        "Name": "Blaue gestr. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 36,
+        "Texture": 0,
+        "Name": "SN-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 11,
+        "Name": "Blaue lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 36,
+        "Texture": 1,
+        "Name": "SN-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 22,
+        "Texture": 15,
+        "Name": "Blaue schraff. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 9,
+        "Name": "Türkise gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 37,
+        "Texture": 0,
+        "Name": "Totenkopf-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 12,
+        "Name": "Hellbr. gestr. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 38,
+        "Texture": 0,
+        "Name": "Sturmhauben-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 37,
+        "Texture": 1,
+        "Name": "Totenkopf-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 10,
+        "Name": "Orange gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 13,
+        "Name": "Pinke lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 11,
+        "Name": "Blaue gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 39,
+        "Texture": 0,
+        "Name": "Zorse-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 39,
+        "Texture": 1,
+        "Name": "Zorse-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 14,
+        "Name": "Grüne lockere Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 12,
+        "Name": "Hellbr. gestr. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 40,
+        "Texture": 0,
+        "Name": "LC-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 40,
+        "Texture": 1,
+        "Name": "LC-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 26,
+        "Texture": 15,
+        "Name": "Blaue schraff. lockere Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 13,
+        "Name": "Pinke gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 41,
+        "Texture": 0,
+        "Name": "Dix-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 14,
+        "Name": "Grüne gerade Rauten-Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 41,
+        "Texture": 1,
+        "Name": "Dix-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 42,
+        "Texture": 0,
+        "Name": "Le Chien-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 42,
+        "Texture": 1,
+        "Name": "Le Chien-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 28,
+        "Texture": 15,
+        "Name": "Blaue schraff. gerade Krawatte"
+    },
+    {
+        "Component": 7,
+        "Drawable": 53,
+        "Texture": 0,
+        "Name": "Lockere Gold-Gliederkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 54,
+        "Texture": 0,
+        "Name": "Gold-Erbskette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 53,
+        "Texture": 1,
+        "Name": "Lockere Platin-Gliederkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 54,
+        "Texture": 1,
+        "Name": "Platin-Erbskette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 55,
+        "Texture": 0,
+        "Name": "Gold-Brezelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 55,
+        "Texture": 1,
+        "Name": "Platin-Brezelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 56,
+        "Texture": 0,
+        "Name": "Gold-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 57,
+        "Texture": 0,
+        "Name": "Gold-Flachpanzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 56,
+        "Texture": 1,
+        "Name": "Platin-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 57,
+        "Texture": 1,
+        "Name": "Platin-Flachpanzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 58,
+        "Texture": 0,
+        "Name": "Schwere Gold-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 58,
+        "Texture": 1,
+        "Name": "Schwere Platin-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 59,
+        "Texture": 0,
+        "Name": "Schwere Gold-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 60,
+        "Texture": 0,
+        "Name": "Gold-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 59,
+        "Texture": 1,
+        "Name": "Schwere Platin-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 60,
+        "Texture": 1,
+        "Name": "Platin-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 61,
+        "Texture": 0,
+        "Name": "Gold-Himbeerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 61,
+        "Texture": 1,
+        "Name": "Platin-Himbeerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 62,
+        "Texture": 0,
+        "Name": "Gold-Kordelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 63,
+        "Texture": 0,
+        "Name": "Blauer karierter Wollschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 62,
+        "Texture": 1,
+        "Name": "Platin-Kordelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 63,
+        "Texture": 1,
+        "Name": "Grüner karierter Wollschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 64,
+        "Texture": 0,
+        "Name": "Lockere Gold-Gliederkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 64,
+        "Texture": 1,
+        "Name": "Lockere Platin-Gliederkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 63,
+        "Texture": 2,
+        "Name": "Hellbrauner karierter Wollschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 65,
+        "Texture": 0,
+        "Name": "Gold-Erbskette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 63,
+        "Texture": 3,
+        "Name": "Grauer karierter Wollschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 66,
+        "Texture": 0,
+        "Name": "Gold-Brezelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 65,
+        "Texture": 1,
+        "Name": "Platin-Erbskette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 66,
+        "Texture": 1,
+        "Name": "Platin-Brezelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 63,
+        "Texture": 4,
+        "Name": "Schwarzer karierter Wollschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 67,
+        "Texture": 0,
+        "Name": "Gold-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 67,
+        "Texture": 1,
+        "Name": "Platin-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 63,
+        "Texture": 5,
+        "Name": "Pfirsichf. karierter Wollschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 68,
+        "Texture": 0,
+        "Name": "Gold-Flachpanzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 69,
+        "Texture": 0,
+        "Name": "Schwere Gold-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 68,
+        "Texture": 1,
+        "Name": "Platin-Flachpanzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 69,
+        "Texture": 1,
+        "Name": "Schwere Platin-Panzerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 70,
+        "Texture": 0,
+        "Name": "Schwere Gold-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 70,
+        "Texture": 1,
+        "Name": "Schwere Platin-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 71,
+        "Texture": 0,
+        "Name": "Gold-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 71,
+        "Texture": 1,
+        "Name": "Platin-Rechteckkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 72,
+        "Texture": 0,
+        "Name": "Gold-Himbeerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 72,
+        "Texture": 1,
+        "Name": "Platin-Himbeerkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 73,
+        "Texture": 0,
+        "Name": "Gold-Kordelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 73,
+        "Texture": 1,
+        "Name": "Platin-Kordelkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 81,
+        "Texture": 0,
+        "Name": "Magnetics-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 81,
+        "Texture": 1,
+        "Name": "Magnetics-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 82,
+        "Texture": 0,
+        "Name": "Magnetics-Goldkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 82,
+        "Texture": 1,
+        "Name": "Magnetics-Platinkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 83,
+        "Texture": 0,
+        "Name": "Hellbrauner Wüstenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 84,
+        "Texture": 0,
+        "Name": "Schwarze Perlenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 83,
+        "Texture": 1,
+        "Name": "Khakifarbener Wüstenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 83,
+        "Texture": 2,
+        "Name": "Schwarzer Wüstenschal"
+    },
+    {
+        "Component": 7,
+        "Drawable": 88,
+        "Texture": 0,
+        "Name": "Schwarze Hosenträger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 88,
+        "Texture": 1,
+        "Name": "Weiße Hosenträger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 89,
+        "Texture": 0,
+        "Name": "Gold-Felgenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 88,
+        "Texture": 2,
+        "Name": "Rote Hosenträger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 89,
+        "Texture": 1,
+        "Name": "Platin-Felgenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 90,
+        "Texture": 0,
+        "Name": "Gold-Felgenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 91,
+        "Texture": 0,
+        "Name": "Gold-Radkappenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 90,
+        "Texture": 1,
+        "Name": "Platin-Felgenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 91,
+        "Texture": 1,
+        "Name": "Platin-Radkappenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 92,
+        "Texture": 0,
+        "Name": "Gold-Radkappenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 93,
+        "Texture": 0,
+        "Name": "Goldene Perlenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 92,
+        "Texture": 1,
+        "Name": "Platin-Radkappenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 93,
+        "Texture": 1,
+        "Name": "Perlenkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 99,
+        "Texture": 0,
+        "Name": "Epsilon-Medaillon"
+    },
+    {
+        "Component": 7,
+        "Drawable": 100,
+        "Texture": 0,
+        "Name": "Epsilon-Medaillon"
+    },
+    {
+        "Component": 7,
+        "Drawable": 101,
+        "Texture": 0,
+        "Name": "Epsilon-Medaillon"
+    },
+    {
+        "Component": 7,
+        "Drawable": 103,
+        "Texture": 0,
+        "Name": "Hund-mit-Halskrause-Kette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 104,
+        "Texture": 0,
+        "Name": "Hund-mit-Halskrause-Kette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 105,
+        "Texture": 0,
+        "Name": "Goldener LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 105,
+        "Texture": 1,
+        "Name": "Silberner LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 106,
+        "Texture": 0,
+        "Name": "Goldener LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 105,
+        "Texture": 2,
+        "Name": "Kupferner LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 106,
+        "Texture": 1,
+        "Name": "Silberner LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 107,
+        "Texture": 0,
+        "Name": "Weiß glasierter LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 107,
+        "Texture": 1,
+        "Name": "Versilberter LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 108,
+        "Texture": 0,
+        "Name": "Weiß glasierter LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 106,
+        "Texture": 2,
+        "Name": "Kupferner LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 107,
+        "Texture": 2,
+        "Name": "Zweifarbiger LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 108,
+        "Texture": 1,
+        "Name": "Versilberter LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 109,
+        "Texture": 0,
+        "Name": "Goldene Hundemarken"
+    },
+    {
+        "Component": 7,
+        "Drawable": 110,
+        "Texture": 0,
+        "Name": "Goldene Hundemarken"
+    },
+    {
+        "Component": 7,
+        "Drawable": 108,
+        "Texture": 2,
+        "Name": "Zweifarbiger LS-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 109,
+        "Texture": 1,
+        "Name": "Silberne Hundemarken"
+    },
+    {
+        "Component": 7,
+        "Drawable": 110,
+        "Texture": 1,
+        "Name": "Silberne Hundemarken"
+    },
+    {
+        "Component": 7,
+        "Drawable": 111,
+        "Texture": 0,
+        "Name": "Goldener L$-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 109,
+        "Texture": 2,
+        "Name": "Bronzene Hundemarken"
+    },
+    {
+        "Component": 7,
+        "Drawable": 111,
+        "Texture": 1,
+        "Name": "Silberner L$-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 110,
+        "Texture": 2,
+        "Name": "Bronzene Hundemarken"
+    },
+    {
+        "Component": 7,
+        "Drawable": 112,
+        "Texture": 0,
+        "Name": "Goldener L$-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 113,
+        "Texture": 0,
+        "Name": "Goldmünzen-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 111,
+        "Texture": 2,
+        "Name": "Zweifarbiger L$-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 112,
+        "Texture": 1,
+        "Name": "Silberner L$-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 113,
+        "Texture": 1,
+        "Name": "Silbermünzen-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 114,
+        "Texture": 0,
+        "Name": "Goldmünzen-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 112,
+        "Texture": 2,
+        "Name": "Zweifarbiger L$-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 113,
+        "Texture": 2,
+        "Name": "Bronzemünzen-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 114,
+        "Texture": 1,
+        "Name": "Silbermünzen-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 114,
+        "Texture": 2,
+        "Name": "Bronzemünzen-Anhänger"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 0,
+        "Name": "Blaue Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 1,
+        "Name": "Rote Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 0,
+        "Name": "Blaue Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 2,
+        "Name": "Pinke Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 1,
+        "Name": "Rote Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 3,
+        "Name": "Gelbe Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 2,
+        "Name": "Pinke Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 4,
+        "Name": "Orange Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 3,
+        "Name": "Gelbe Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 5,
+        "Name": "Grüne Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 4,
+        "Name": "Orange Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 6,
+        "Name": "Festivalknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 5,
+        "Name": "Grüne Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 6,
+        "Name": "Festivalknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 7,
+        "Name": "Karnevalknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 7,
+        "Name": "Karnevalknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 8,
+        "Name": "Tropische Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 8,
+        "Name": "Tropische Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 9,
+        "Name": "Heiße Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 9,
+        "Name": "Heiße Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 10,
+        "Name": "Neonknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 11,
+        "Name": "Partyknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 10,
+        "Name": "Neonknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 11,
+        "Name": "Partyknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 12,
+        "Name": "Sonnenuntergangsknicklichtk."
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 13,
+        "Name": "Strahlende Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 12,
+        "Name": "Sonnenuntergangsknicklichtk."
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 13,
+        "Name": "Strahlende Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 14,
+        "Name": "Sonnenaufgangsknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 14,
+        "Name": "Sonnenaufgangsknicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 118,
+        "Texture": 15,
+        "Name": "Session-Knicklichtkette"
+    },
+    {
+        "Component": 7,
+        "Drawable": 119,
+        "Texture": 15,
+        "Name": "Session-Knicklichtkette"
+    }
+]

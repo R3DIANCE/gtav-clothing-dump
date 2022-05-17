@@ -1,0 +1,277 @@
+[{
+        "Component": 2,
+        "Drawable": 0,
+        "Texture": 0,
+        "Name": "Grauer Ohrhörer"
+    },
+    {
+        "Component": 2,
+        "Drawable": 1,
+        "Texture": 0,
+        "Name": "Roter Ohrhörer"
+    },
+    {
+        "Component": 2,
+        "Drawable": 2,
+        "Texture": 0,
+        "Name": "LCD-Ohrhörer"
+    },
+    {
+        "Component": 2,
+        "Drawable": 3,
+        "Texture": 0,
+        "Name": "Platinpendel"
+    },
+    {
+        "Component": 2,
+        "Drawable": 4,
+        "Texture": 0,
+        "Name": "Goldpendel"
+    },
+    {
+        "Component": 2,
+        "Drawable": 5,
+        "Texture": 0,
+        "Name": "Gold-Diamantringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 6,
+        "Texture": 0,
+        "Name": "Gold-Diamanttropfen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 6,
+        "Texture": 1,
+        "Name": "Platin-Diamanttropfen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 7,
+        "Texture": 0,
+        "Name": "Gold-Wasserfälle"
+    },
+    {
+        "Component": 2,
+        "Drawable": 6,
+        "Texture": 2,
+        "Name": "Schwarzgold-Diamanttropfen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 7,
+        "Texture": 1,
+        "Name": "Platin-Wasserfälle"
+    },
+    {
+        "Component": 2,
+        "Drawable": 8,
+        "Texture": 0,
+        "Name": "Gold-Totems"
+    },
+    {
+        "Component": 2,
+        "Drawable": 9,
+        "Texture": 0,
+        "Name": "Gold-Diamantketten"
+    },
+    {
+        "Component": 2,
+        "Drawable": 7,
+        "Texture": 2,
+        "Name": "Schwarzgold-Wasserfälle"
+    },
+    {
+        "Component": 2,
+        "Drawable": 8,
+        "Texture": 1,
+        "Name": "Schwarzgold-Totems"
+    },
+    {
+        "Component": 2,
+        "Drawable": 9,
+        "Texture": 1,
+        "Name": "Platin-Diamantketten"
+    },
+    {
+        "Component": 2,
+        "Drawable": 8,
+        "Texture": 2,
+        "Name": "Platin-Totems"
+    },
+    {
+        "Component": 2,
+        "Drawable": 10,
+        "Texture": 0,
+        "Name": "Gold-Smaragdketten"
+    },
+    {
+        "Component": 2,
+        "Drawable": 9,
+        "Texture": 2,
+        "Name": "Schwarzgold-Diamantketten"
+    },
+    {
+        "Component": 2,
+        "Drawable": 10,
+        "Texture": 1,
+        "Name": "Platin-Smaragdketten"
+    },
+    {
+        "Component": 2,
+        "Drawable": 11,
+        "Texture": 0,
+        "Name": "Gold-Sonnentropfen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 10,
+        "Texture": 2,
+        "Name": "Schwarzgold-Smaragdketten"
+    },
+    {
+        "Component": 2,
+        "Drawable": 11,
+        "Texture": 1,
+        "Name": "Platin-Sonnentropfen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 12,
+        "Texture": 0,
+        "Name": "Platin-Diamantstecker"
+    },
+    {
+        "Component": 2,
+        "Drawable": 12,
+        "Texture": 1,
+        "Name": "Gold-Diamantstecker"
+    },
+    {
+        "Component": 2,
+        "Drawable": 13,
+        "Texture": 0,
+        "Name": "Sturmreifen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 11,
+        "Texture": 2,
+        "Name": "Schwarzgold-Sonnentropfen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 12,
+        "Texture": 2,
+        "Name": "Schwarzgold-Diamantstecker"
+    },
+    {
+        "Component": 2,
+        "Drawable": 14,
+        "Texture": 0,
+        "Name": "Dicke Reifen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 15,
+        "Texture": 0,
+        "Name": "Klassische Reifen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 16,
+        "Texture": 0,
+        "Name": "FU-Reifen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 17,
+        "Texture": 0,
+        "Name": "Screw-You-Reifen"
+    },
+    {
+        "Component": 2,
+        "Drawable": 18,
+        "Texture": 0,
+        "Name": "Goldene FOS-Mikros"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 0,
+        "Name": "Kreuz-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 18,
+        "Texture": 1,
+        "Name": "Silberne FOS-Mikros"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 1,
+        "Name": "Karo-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 0,
+        "Name": "Weiße Würfel-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 0,
+        "Name": "Schwarze Jeton-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 2,
+        "Name": "Herz-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 1,
+        "Name": "Rote Würfel-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 19,
+        "Texture": 3,
+        "Name": "Pik-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 1,
+        "Name": "Gelbe Jeton-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 2,
+        "Name": "Hellbraune Würfel-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 20,
+        "Texture": 3,
+        "Name": "Graue Würfel-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 2,
+        "Name": "Rote Jeton-Ohrringe"
+    },
+    {
+        "Component": 2,
+        "Drawable": 21,
+        "Texture": 3,
+        "Name": "Pinke Jeton-Ohrringe"
+    }
+]
