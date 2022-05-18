@@ -1,0 +1,1363 @@
+[{
+    "Name": "Черные Pendulus Sport",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные Pfister Design",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые часы (спорт.)",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые часы (спорт.)",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие часы (спорт.)",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые часы",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные часы",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные часы",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные часы",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красно-белые часы",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красно-коричневые часы",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бело-золотые часы",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые часы",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Карбоновые Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Crowex",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Crowex",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Crowex",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые VG",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные VG",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые VG",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лаймовые iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "PRB iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Стальные Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медные Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Винтажные Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Карбоновые Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Стальные Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Pendulus",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Легкий браслет (л)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Тяжелый браслет (л)",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Прямоугольный браслет (л)",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Браслет с черепами (л)",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Широкий браслет (л)",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочки с черепами (л)",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Браслет с шипами (л)",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный браслет (л)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый браслет (л)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевый браслет (л)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовый браслет (л)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Enduring",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Enduring",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Enduring",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Enduring \"Колода\"",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Enduring \"Корона\"",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Enduring \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золото Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебро Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Tempo \"50\"",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Tempo \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Tempo барокко",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золото Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебро Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Pulse \"50\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Pulse \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Pulse \"Пики\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красн. \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зелен. \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Kronos Ära \"50\"",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ceaseless \"Пики\"",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ceaseless (два цвета)",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ceaseless \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебро Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золото Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crowex Époque \"Колесо\"",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crowex Époque \"Масти\"",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crowex Époque \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золото Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебро Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Quad \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Quad \"50\"",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kronos Quad \"Масти\"",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебро Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золото Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crowex Rond \"Пики\"",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crowex Rond \"Царские\"",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crowex Rond \"Кости\"",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Суперсерия\" серебро 2",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Суперсерия\" золото 2",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Суперсерия\" черный 2",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Суперсерия\" серебро 1",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Суперсерия\" золото 1",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Суперсерия\" черный 1",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые стильные",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные стильные",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медные стильные",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Стильные с черными деталями",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Didier Sachs Mignon, серебро",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Didier Sachs Mignon, розовые",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые Didier Sachs Mignon",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "PRB iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебр. Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лаймовые iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Неоновые iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Легкий браслет (л)",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Тяжелый браслет (л)",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Прямоугольный браслет (л)",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Браслет с черепами (л)",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Широкий браслет (л)",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочки с черепами (л)",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Браслет с шипами (л)",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черный браслет (л)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневый браслет (л)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевый браслет (л)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовый браслет (л)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые Enduring",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные Enduring",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Enduring",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Enduring \"Колода\"",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Enduring \"Корона\"",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Enduring \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золото Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебро Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Tempo \"50\"",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Tempo \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Tempo барокко",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золото Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебро Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Pulse \"50\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Pulse \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Pulse \"Пики\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красн. \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зелен. \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные \"Стыд или слава\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые Kronos Ära \"50\"",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ceaseless \"Пики\"",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ceaseless (два цвета)",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ceaseless \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебро Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золото Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crowex Époque \"Колесо\"",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crowex Époque \"Масти\"",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crowex Époque \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золото Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебро Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Quad \"Рулетка\"",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Quad \"50\"",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kronos Quad \"Масти\"",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебро Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золото Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crowex Rond \"Пики\"",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crowex Rond \"Царские\"",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crowex Rond \"Кости\"",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Суперсерия\" серебро 2",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Суперсерия\" золото 2",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Суперсерия\" черный 2",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Суперсерия\" серебро 1",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Суперсерия\" золото 1",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Суперсерия\" черный 1",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 2627665880
+}]

@@ -1,0 +1,73 @@
+[{
+    "Name": "Tan Utility Vest",
+    "Component": 9,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khaki Utility Vest",
+    "Component": 9,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Utility Vest",
+    "Component": 9,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Pocket Utility Vest",
+    "Component": 9,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khaki Pocket Utility Vest",
+    "Component": 9,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Pocket Utility Vest",
+    "Component": 9,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Utility Vest",
+    "Component": 9,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khaki Utility Vest",
+    "Component": 9,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Utility Vest",
+    "Component": 9,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Pocket Utility Vest",
+    "Component": 9,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khaki Pocket Utility Vest",
+    "Component": 9,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Pocket Utility Vest",
+    "Component": 9,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}]

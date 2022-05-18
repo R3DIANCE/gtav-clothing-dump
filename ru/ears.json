@@ -1,0 +1,907 @@
+[{
+    "Name": "Серая гарнитура",
+    "Component": 2,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красная гарнитура",
+    "Component": 2,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Гарнитура с экраном",
+    "Component": 2,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка-уголок (л)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная сережка-уголок (л)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платин. сережка-уголок (л)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка-уголок (п)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная сережка-уголок (п)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платин. сережка-уголок (п)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки-уголки",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные сережки-уголки",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки-уголки",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая круглая сережка (л)",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платин. круглая сережка (л)",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая круглая сережка (п)",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платин. круглая сережка (п)",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые круглые сережки",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые круглые сережки",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка-ромб (л)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная сережка-ромб (л)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая сережка-ромб (л)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка-ромб (п)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная сережка-ромб (п)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая сережка-ромб (п)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки-ромбы",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные сережки-ромбы",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки-ромбы",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подушечка (л)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная подушечка (л)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая подушечка (л)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подушечка (п)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная подушечка (п)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая подушечка (п)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки-подушечки",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные сережки-подушечки",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые подушечки",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая с самоцветом (л)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная с самоцветом (л)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая с самоцветом (л)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая с самоцветом (п)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная с самоцветом (п)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая с самоцветом (п)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые серьги с самоцветом",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные с самоцветом",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые с самоцветом",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Иллюзия\" (л)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Сетка\" (л)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Нуар\" (л)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Сетка\" (л)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Нуар\" (л)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Иллюзия\" (п)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Сетка\" (п)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Нуар\" (п)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Сетка\" (п)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Нуар\" (п)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки \"Иллюзия\"",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки \"Сетка\"",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки \"Нуар\"",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки \"Сетка\"",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки \"Нуар\"",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка SN (л)",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая сережка SN (л)",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка SN (п)",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая сережка SN (п)",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки SN",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки SN",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная \"Череп\" (л)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Череп\" (л)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная \"Череп\" (л)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Череп\" (л)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная \"Череп\" (п)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Череп\" (п)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная \"Череп\" (п)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Череп\" (п)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные сережки \"Череп\"",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки \"Череп\"",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные сережки \"Череп\"",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки \"Череп\"",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Шип\" (л)",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка \"Шип\" (л)",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Шип\" (п)",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая сережка \"Шип\" (п)",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки \"Шип\"",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки \"Шип\"",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Оникс\" (л)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная \"Оникс\" (л)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Оникс\" (л)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая \"Оникс\" (п)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черная \"Оникс\" (п)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Оникс\" (п)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые сережки \"Оникс\"",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные сережки \"Оникс\"",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновые сережки \"Оникс\"",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная платиновая SN (л)",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная золотая SN (л)",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная платиновая SN (п)",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная золотая SN (п)",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивные плат. сережки SN",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массив. золот. сережки SN",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Стыд или слава\" золото",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "\"Стыд или слава\" серебро",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серьги \"Трефы\"",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серьги \"Бубны\"",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серьги \"Червы\"",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серьги \"Пики\"",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые кости",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные кости",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровые кости",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые кости",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серая гарнитура",
+    "Component": 2,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красная гарнитура",
+    "Component": 2,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Гарнитура с экраном",
+    "Component": 2,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновые маятники",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые маятники",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые с круглым алмазом",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые серьги-ромбы",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновые серьги-ромбы",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные серьги-ромбы",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые каскады",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновые каскады",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные каскады",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые тотемы",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные золотые тотемы",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновые тотемы",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые цепочки с алмазом",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платин. цепочки с алмазом",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные цепочки с алмазом",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые цепочки с изумрудом",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платин. цепочки с изумрудом",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные цепочки с изумрудом",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые солнечные капли",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновые солнечные капли",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные солнечные капли",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновые с алмазом",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые сережки с алмазом",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные сережки с алмазом",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые серьги-кольца",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Толстые серьги-кольца",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Классические серьги-кольца",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серьги FU",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серьги \"Пошел ты...\"",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Стыд или слава\" золото",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "\"Стыд или слава\" серебро",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Трефы",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бубны",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Червы",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Пики",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые кости",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные кости",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые кости",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые кости",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}]

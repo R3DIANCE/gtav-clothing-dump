@@ -1,0 +1,6697 @@
+[{
+    "Name": "Серые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сиреневые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двухцветные шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые шлепанцы - цветы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Городские шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие шлепанцы Stank",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Башмаки эльфа",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с черным носком",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с белым носком",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Гамаши",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шоколадные оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Каштановые оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровые оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Пепельные оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-серые оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двухцветные оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лаймовые оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие оксфорды",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лоферы \"кобра\"",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медные лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двухцветные лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровые лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-белые лоферы",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовые кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые двухцветные кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Клетчатые кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Камуфляжные кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды кофейного цвета",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды в клетку",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые клетчатые кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные кеды",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ультрамариновые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Камуфляжные туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Изысканные туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шоколадные туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Пепельные туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оливковые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные летные ботинки",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Армейские черные ботинки",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Потертые черные ботинки",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые клепаные кеды",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные клепаные кеды",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Багровые клепаные кеды",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные клепаные кеды",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые клепаные кеды",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие клепаные кеды",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Высокие золотые кеды",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Универсальные лоферы",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые лоферы для вождения",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кроссовки Calypso",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кроссовки Buzz",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кроссовки Fresh",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кроссовки Jinx",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кроссовки Animal",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные кеды Hi Top",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые кеды Hi Top",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двухцветные кеды Hi Top",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Яд\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Лед\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Трио\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые кеды Hi Top",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Опасность\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Камуфляжные кеды Hi Top",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Отскок\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Земля\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Неон\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Алые кеды Hi Top",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые кеды Hi Top",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Жало\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кеды Hi Top \"Корт\"",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Без обуви",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые походные ботинки",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Походные ботинки цвета хаки",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровые лоферы",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые лоферы",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шоколадные лоферы",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные лоферы",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полностью черные сапоги",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кремовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые ковбойские",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полностью черные сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кремовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые ковбойские",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с синим носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с белым носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с темным носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с фиолет. носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с серым носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с голубым носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с бурым носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с черным носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с красным носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с черным носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с розовым носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оксфорды с лазурным носком",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные замшевые лоферы",
+    "Component": 6,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие матерчатые в клетку",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полосатые матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Камуфляжные матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Тропические матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые матерчатые",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-серые ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Джинсовые ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-белые ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные ботильоны",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ярко-розовые ковбойские",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Алые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовые ковбойские",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые ковбойские",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие ковбойские",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ярко-розовые ковбойские",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Алые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовые ковбойские",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые ковбойские",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие ковбойские",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые черные застегнутые",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бурые застегнутые",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые черные застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бурые застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные расстегнутые",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовые расстегнутые",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые расстегнутые ботинки",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые черные ботинки",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бордовые ботинки",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бурые ботинки",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные расстегнутые",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовые расстегнутые",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые расстегнутые ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые черные ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бордовые ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Старые бурые ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Персиковые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бледно-голубые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бронзовые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Жемчужные кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медные кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Вишневые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые кеды",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие цифровые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые цифровые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые цифр. кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые цифровые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые цифр. кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Осенние кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лесные кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кроссовки в сетку",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные цифр. кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сероватые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Морские кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оскольчатые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Контрастные кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Галечные кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Мазковые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кроссовки флектарн",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полевые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-синие кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные кроссовки",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-желтые спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Токсичные спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кофейные спецботинки",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурые спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-желтые спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Токсичные спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кофейные спецботинки",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые армейские",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-зеленые армейские",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие армейские",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Армейские цвета хаки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-серые армейские",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ореховые армейские",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебристые армейские",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оливковые армейские",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые армейские",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-зеленые армейские",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие армейские",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Армейские цвета хаки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-серые армейские",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ореховые армейские",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебристые армейские",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оливковые армейские",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Классические прошитые",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные прошитые ботинки",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Угольно-черные прошитые",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Каштановые прошитые",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ржавые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Рыжие прошитые ботинки",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Классические прошитые",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные прошитые ботинки",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Угольно-черные прошитые",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Каштановые прошитые",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ржавые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Рыжие прошитые ботинки",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желто-зеленые ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-красные ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки цвета хаки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки цвета ржавчины",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лесные камуфляжные",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые камуфляжные",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые камуфляжные",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светло-синие ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки с узором",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Осенние камуфляжные",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оскольчатые ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красно-белые ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-красные ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-синие ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые ботинки",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желто-зеленые ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-красные ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки цвета хаки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки цвета ржавчины",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лесные камуфляжные",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые камуфляжные",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые камуфляжные",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светло-синие ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки с узором",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Осенние камуфляжные",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оскольчатые ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красно-белые ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-красные ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-синие ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые ботинки",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-желтые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-синие походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-желтые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Осенние походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-коричневые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-коричневые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лесные походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-серые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Походные цвета хаки",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Угольные походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сине-коричневые походные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-желтые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-синие походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-желтые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Осенние походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-коричневые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-коричневые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лесные походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-серые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Болотные походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Походные цвета хаки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Угольные походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синие походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сине-коричневые походные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовая вспышка",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полночь",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Закат",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кремово-розовые беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-красные беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевая вспышка",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовая вспышка",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бело-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Беговые ярких цветов",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Пепельные беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оттенки серого",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синяя вспышка",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Беговые графитового цвета",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Мокко",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Одноцветные беговые",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовая вспышка",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полночь",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Закат",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кремово-розовые беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-красные беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевая вспышка",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовая вспышка",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бело-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Беговые ярких цветов",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Пепельные беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оттенки серого",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синяя вспышка",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Беговые графитового цвета",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Мокко",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Одноцветные беговые",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые с голубой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые с зеленой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые с розовой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые с красной подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые с голубой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые с зеленой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые с розовой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые с красной подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные (голубая подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные (зеленая подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные (розовая подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные (красная подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые (синяя подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовые (зеленая подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темные (розовая подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные с подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светлые (голубая подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темные (зеленая подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "С ярко-розовой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светлые (красная подсветка)",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "С красной подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "С розовой подсветкой",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки с горящим черепом",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные с горящим черепом",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ботинки с горящим черепом",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные с горящим черепом",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные с черепом",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-коричневые с черепом",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные ботинки с черепом",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные с черепом",
+    "Component": 6,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-коричневые с черепом",
+    "Component": 6,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочные ботинки с черепом",
+    "Component": 6,
+    "Drawable": 82,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-бурые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричнево-белые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светло-зеленые с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "С защитой и в сетку",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Стальные с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие с защитой",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светло-зеленые с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Голубые с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "С защитой и в сетку",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Стальные с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие с защитой",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые слипоны FB",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие слипоны FB",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные слипоны FB",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтые слипоны FB",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двухцветные ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Однотонные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие выцветшие ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лиловые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сиреневые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Пепельные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые ретро с узором",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые ретро с узором",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двухцветные ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Однотонные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синие выцветшие ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лиловые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сиреневые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Пепельные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые ретро с узором",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые ретро с узором",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Лоферы: собачий воротник",
+    "Component": 6,
+    "Drawable": 95,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Тяжелые форменные ботинки",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Тяжелые форменные ботинки",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белоснежные тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "С аквамариновой подошвой",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черные тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кремовые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Дымчатые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "С лаймовыми полосами",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ярко-розовые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сиреневые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "С красными полосами",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Выцветшие голубые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Выцветшие фиолетовые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-голубые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-аквамариновые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черно-лаймовые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бирюзовые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-фиолетовые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-пурпурные",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серо-желтые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бело-золотые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бело-розовые тканевые",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-серые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Охровые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шлепанцы Gutter & Blood",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-розовые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Камуфляжные шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шлепанцы Hawaiian Snow",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые шлепанцы",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шлепанцы Swingers",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шлепанцы Penetrators",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Башмаки эльфа",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оливковые туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленоватые туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-красные туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-розовые туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Туфли \"Кошечка\"",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Алые туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежево-розовые туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Персиковые туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Трехцветные туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Разноцветные туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие туфли",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые леопардовые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оливковые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроваво-красные туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые леопардовые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-синие туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ярко-розовые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ярко-желтые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжево-белые туфли",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Туфли \"зебра\"",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Охровые сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Каштановые сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовые сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красноватые сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сапоги кофейного цвета",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сапоги с оттенком охры",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светло-фиолетовые сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сероватые сапоги",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кофейные сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-белые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оливковые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светлые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красноватые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шоколадные сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розоватые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медноватые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Леопардовые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золоченые сапоги (подв.)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие блестящие туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные блестящие туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые блестящие туфли",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные летные ботинки",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Армейские черные ботинки",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Потертые черные ботинки",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные кеды",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Sports",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные оксфорды",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые оксфорды",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые оксфорды",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кожаные клепаные сапоги",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Высокие золотые кеды",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроссовки Calypso",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроссовки Buzz",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроссовки Fresh",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроссовки Jinx",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроссовки Animal",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые Canvas и гетры",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Без обуви",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые походные ботинки",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Походные ботинки цвета хаки",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Охровые лоферы",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые лоферы",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шоколадные лоферы",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные лоферы",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Полностью черные сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Охровые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кремовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Полностью черные сапоги",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Охровые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кремовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лиловые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ярко-розовые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Багровые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лиловые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кремовые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Леопардовые туфли (закруг.)",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные блестящие туфли",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые ботинки на танкетке",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые кроссовки (с кабл.)",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ярко-розовые ковбойские",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Алые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лиловые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые ковбойские",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-синие ковбойские",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ярко-розовые ковбойские",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Алые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лиловые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые ковбойские",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-синие ковбойские",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые ковбойские сапоги",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые черные застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бурые застегнутые",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые застегнутые ботинки",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые черные застегнутые",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бордовые застегнутые",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бурые застегнутые",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные расстегнутые",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые расстегнутые",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые расстегнутые ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые черные ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бордовые ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бурые ботинки",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные расстегнутые",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые расстегнутые",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые расстегнутые ботинки",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые черные ботинки",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бордовые ботинки",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Старые бурые ботинки",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные байкерские сапоги",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые байкерские сапоги",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые байкерские сапоги",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные байкерские сапоги",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовые байкерские сапоги",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые байкерские сапоги",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные ботинки со сбруей",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Персиковые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бледно-голубые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бронзовые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Жемчужные кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медные кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Вишневые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые кеды",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие цифровые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые цифровые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые цифр. кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые цифровые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые цифр. кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Осенние кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лесные кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроссовки в сетку",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные цифр. кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сероватые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Морские кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оскольчатые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Контрастные кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Галечные кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Мазковые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кроссовки флектарн",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Полевые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочные кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-синие кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные кроссовки",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-желтые спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Токсичные спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кофейные спецботинки",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бурые спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-желтые спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Токсичные спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кофейные спецботинки",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые армейские",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-зеленые армейские",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие армейские",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Армейские цвета хаки",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-серые армейские",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ореховые армейские",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебристые армейские",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оливковые армейские",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые армейские",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-зеленые армейские",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие армейские",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Армейские цвета хаки",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-серые армейские",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ореховые армейские",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебристые армейские",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оливковые армейские",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Классические прошитые",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные прошитые ботинки",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольно-черные прошитые",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Каштановые прошитые",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ржавые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Рыжие прошитые ботинки",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Классические прошитые",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные прошитые ботинки",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольно-черные прошитые",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Каштановые прошитые",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ржавые прошитые ботинки",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Рыжие прошитые ботинки",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желто-зеленые ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-красные ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки цвета хаки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочные ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки цвета ржавчины",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лесные камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светло-синие ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-синие ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки с узором",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Осенние камуфляжные",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оскольчатые ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красно-белые ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-красные ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-синие ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые ботинки",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желто-зеленые ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-красные ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки цвета хаки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочные ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки цвета ржавчины",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лесные камуфляжные",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые камуфляжные",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые камуфляжные",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светло-синие ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-синие ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки с узором",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Осенние камуфляжные",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оскольчатые ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красно-белые ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-красные ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-синие ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые ботинки",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-желтые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-синие походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-желтые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Осенние походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-коричневые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-коричневые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лесные походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-серые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочные походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Походные цвета хаки",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольные походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-синие походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сине-коричневые походные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-желтые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-синие походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-желтые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Осенние походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-коричневые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-коричневые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лесные походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-серые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочные походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Болотные походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Походные цвета хаки",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольные походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-синие походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сине-коричневые походные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые камуфляжные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Морские камуфляжные",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные для кэтсьюта",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые для кэтсьюта",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые для кэтсьюта",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые для кэтсьюта",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые для кэтсьюта",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовая вспышка",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Полночь",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Закат",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кремово-розовые беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-красные беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевая вспышка",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовая вспышка",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бело-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Яркие беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Пепельные беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оттенки серого",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синяя вспышка",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Беговые цвета графита",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Мокко",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Одноцветные беговые",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовая вспышка",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Полночь",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Закат",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кремово-розовые беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-красные беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевая вспышка",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовая вспышка",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бело-оранжевые беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Яркие беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Пепельные беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оттенки серого",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синяя вспышка",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Беговые цвета графита",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Мокко",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Одноцветные беговые",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые с голубой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые с зеленой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые с розовой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые с красной подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые с голубой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые с зеленой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые с розовой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые с красной подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные (голубая подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные (зеленая подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные (розовая подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные (красная подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые (синяя подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые (зеленая подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темные (розовая подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные с подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светлые (голубая подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темные (зеленая подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "С ярко-розовой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светлые (красная подсветка)",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "С красной подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "С розовой подсветкой",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки с горящим черепом",
+    "Component": 6,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные с горящим черепом",
+    "Component": 6,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ботинки с горящим черепом",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные с горящим черепом",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные с черепом",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-коричневые с черепом",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочные ботинки с черепом",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные с черепом",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-коричневые с черепом",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочные ботинки с черепом",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Темно-бурые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричнево-белые \"Налетчик\"",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светло-зеленые с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "С защитой и в сетку",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Стальные с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие с защитой",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светло-зеленые с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Голубые с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "С защитой и в сетку",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Стальные с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие с защитой",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Двухцветные ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Однотонные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие выцветшие ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лиловые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сиреневые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Пепельные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые ретро с узором",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые ретро с узором",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Двухцветные ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Однотонные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие выцветшие ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лиловые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сиреневые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые выцветшие ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Пепельные кроссовки ретро",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые ретро с узором",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые ретро с узором",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые слипоны FB",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые слипоны FB Manor",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синие слипоны FB",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные слипоны FB",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтые слипоны FB",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Лоферы: собачий воротник",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Тяжелые форменные ботинки",
+    "Component": 6,
+    "Drawable": 100,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Тяжелые форменные ботинки",
+    "Component": 6,
+    "Drawable": 101,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белоснежные тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "С аквамариновой подошвой",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кремовые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Дымчатые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "С лаймовыми полосами",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ярко-розовые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сиреневые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "С красными полосами",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Выцветшие голубые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Выцветшие фиолетовые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-голубые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-аквамариновые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-лаймовые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бирюзовые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-фиолетовые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-пурпурные",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серо-желтые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бело-золотые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бело-розовые тканевые",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 23,
+    "PedModel": 2627665880
+}]

@@ -1,0 +1,1669 @@
+[{
+    "Name": "Großes Crew-Emblem",
+    "Component": 10,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Steel-Horse-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Steel-Horse-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Western-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Western-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Nagasaki-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß-roter Nagasaki-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Nagasaki-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Purple-Helmets-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Principe-Hoodie",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Großes Crew-Emblem",
+    "Component": 10,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Hawk-&-Little-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Hawk-&-Little-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Shrewsbury-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Shrewsbury-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Vom-Feuer-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Vom-Feuer-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Coil-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Coil-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Ammu-Nation Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißer Ammu-Nation-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Warstock-Hoodie",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 47,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 48,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 49,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Street-Crimes-Boxart-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Street-Crimes-Action-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Street-Crimes-Bikers-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Street-Crimes-Hoods-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Street-Crimes-Punks-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Street-Crimes-Yokels-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Street-Crimes-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Claim-What's-Yours-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Choose-Your-Side-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Invade-and-Persuade-RON-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Invade-and-Persuade-Tour-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Invade-and-Persuade-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mission-I-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mission-II-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mission-IV-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mission-III-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Invade-and-Persuade-Boxart-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Invade-and-Persuade-Invader-T-Sh.",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Invade-and-Persuade-Suck-T-Shirt",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Open-Wheel-Sponsoren-T-Shirt",
+    "Component": 10,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 87,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crash-Out-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lucky-Penny-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Never-Crosshair-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Never-Triangle-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Life-Static-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Life-ZigZag-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Life-Binary-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 94,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hiding-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 95,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Never-Barcode-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 96,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crash-Out-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 97,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lucky-Penny-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 98,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Never-Crosshair-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Never-Triangle-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 100,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Life-Static-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 101,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Life-ZigZag-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 102,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Life-Binary-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 103,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hiding-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 104,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Never-Barcode-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 105,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schw. \"Born x Raised\"-T-Shirt",
+    "Component": 10,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißes \"Born x Raised\"-T-Shirt",
+    "Component": 10,
+    "Drawable": 110,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 117,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Circoloco-T-Shirt",
+    "Component": 10,
+    "Drawable": 119,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 120,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 121,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 122,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 123,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 124,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 125,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Record-A-Studios-Hoodie",
+    "Component": 10,
+    "Drawable": 126,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Record-A-Studios-Hoodie",
+    "Component": 10,
+    "Drawable": 127,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marathon-Hoodie",
+    "Component": 10,
+    "Drawable": 128,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marathon-Hoodie",
+    "Component": 10,
+    "Drawable": 129,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißes HSW-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 130,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes HSW-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 130,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißes HSW-Rennen-T-Shirt",
+    "Component": 10,
+    "Drawable": 130,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes HSW-Rennen-T-Shirt",
+    "Component": 10,
+    "Drawable": 130,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißes HSW-Marken-T-Shirt",
+    "Component": 10,
+    "Drawable": 130,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes HSW-Marken-T-Shirt",
+    "Component": 10,
+    "Drawable": 130,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Großes Crew-Emblem",
+    "Component": 10,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Steel-Horse-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Steel-Horse-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Western-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Western-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Nagasaki-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-roter Nagasaki-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Nagasaki-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Purple-Helmets-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Principe-Hoodie",
+    "Component": 10,
+    "Drawable": 14,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kleines Crew-Emblem",
+    "Component": 10,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Großes Crew-Emblem",
+    "Component": 10,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem vorne und hinten",
+    "Component": 10,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Großes Crew-Emblem",
+    "Component": 10,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 47,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 48,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 49,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Hawk-&-Little-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Hawk-&-Little-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Shrewsbury-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Shrewsbury-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Vom-Feuer-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Vom-Feuer-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Coil-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Coil-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Ammu-Nation Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Ammu-Nation-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Warstock-Hoodie",
+    "Component": 10,
+    "Drawable": 52,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 58,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 67,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Street-Crimes-Boxart-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Street-Crimes-Action-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Street-Crimes-Bikers-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Street-Crimes-Hoods-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Street-Crimes-Punks-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Street-Crimes-Yokels-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Street-Crimes-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Claim-What's-Yours-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Choose-Your-Side-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Invade-and-Persuade-RON-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Invade-and-Persuade-Tour-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Invade-and-Persuade-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mission-I-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mission-II-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mission-IV-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mission-III-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Invade-and-Persuade-Boxart-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Invade-and-Persuade-Invader-T-Sh.",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Invade-and-Persuade-Suck-T-Shirt",
+    "Component": 10,
+    "Drawable": 72,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 78,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Open-Wheel-Sponsoren-T-Shirt",
+    "Component": 10,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 94,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 95,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 96,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crash-Out-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 97,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lucky-Penny-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 98,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Never-Crosshair-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Never-Triangle-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 100,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Life-Static-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 101,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Life-ZigZag-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 102,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Life-Binary-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 103,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hiding-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 104,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Never-Barcode-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 105,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crash-Out-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 106,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lucky-Penny-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 107,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Never-Crosshair-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 108,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Never-Triangle-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 109,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Life-Static-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Life-ZigZag-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 111,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Life-Binary-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 112,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hiding-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 113,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Never-Barcode-Print-Hoodie",
+    "Component": 10,
+    "Drawable": 114,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schw. \"Born x Raised\"-T-Shirt",
+    "Component": 10,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißes \"Born x Raised\"-T-Shirt",
+    "Component": 10,
+    "Drawable": 118,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 125,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 126,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Circoloco-T-Shirt",
+    "Component": 10,
+    "Drawable": 127,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 128,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 129,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 130,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 131,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 132,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 133,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 134,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crew-Emblem, Rücken",
+    "Component": 10,
+    "Drawable": 135,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Record-A-Studios-Hoodie",
+    "Component": 10,
+    "Drawable": 136,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Record-A-Studios-Hoodie",
+    "Component": 10,
+    "Drawable": 137,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marathon-Hoodie",
+    "Component": 10,
+    "Drawable": 138,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marathon-Hoodie",
+    "Component": 10,
+    "Drawable": 139,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißes HSW-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 140,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzes HSW-Logo-T-Shirt",
+    "Component": 10,
+    "Drawable": 140,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißes HSW-Rennen-T-Shirt",
+    "Component": 10,
+    "Drawable": 140,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzes HSW-Rennen-T-Shirt",
+    "Component": 10,
+    "Drawable": 140,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißes HSW-Marken-T-Shirt",
+    "Component": 10,
+    "Drawable": 140,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzes HSW-Marken-T-Shirt",
+    "Component": 10,
+    "Drawable": 140,
+    "Texture": 5,
+    "PedModel": 2627665880
+}]

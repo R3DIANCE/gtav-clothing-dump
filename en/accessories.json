@@ -1,0 +1,3979 @@
+[{
+    "Name": "Covgari Silver Chain",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gaulle Gold Chain",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronze Chain",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Covgari Silver Chain",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gaulle Gold Chain",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronze Chain",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Christmas Tie",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Skinny Christmas Tie",
+    "Component": 7,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Vest Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Vest Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ivory Vest Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Vest Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Vest Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Striped Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ocean Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sandy Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Earth Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Berry Bowtie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Skinny Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Striped Tie",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Skinny Tie",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Striped Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Striped Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stone Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Smoky Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Striped Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gent Skinny Tie",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Scarf",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Scarf",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Scarf",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Scarf",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Scarf",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Scarf",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Scarf",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Scarf",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Scarf",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Scarf",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Scarf",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Scarf",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "USA Bow Tie",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Star Bow Tie",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Star Bow Tie",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stripy Scarf",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Joy Scarf",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Snowflake Scarf",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Storm Scarf",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stripy Scarf",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Joy Scarf",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Snowflake Scarf",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Storm Scarf",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Charcoal Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khaki Hatch Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fuchsia Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Teal Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Hatch Loose Tie",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Charcoal Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khaki Hatch Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fuchsia Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Teal Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Hatch Straight Tie",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Charcoal Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khaki Hatch Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Stripy Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Diamond Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fuchsia Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Diamond Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Stripy Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Teal Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Diamond Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Stripy Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Diamond Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Hatch Slack Tie",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Necklace",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Necklace",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Skull Necklace",
+    "Component": 7,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Skull Necklace",
+    "Component": 7,
+    "Drawable": 43,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Balaclava Necklace",
+    "Component": 7,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Zorse Necklace",
+    "Component": 7,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Zorse Necklace",
+    "Component": 7,
+    "Drawable": 45,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold LC Necklace",
+    "Component": 7,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum LC Necklace",
+    "Component": 7,
+    "Drawable": 46,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Dix Necklace",
+    "Component": 7,
+    "Drawable": 47,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Dix Necklace",
+    "Component": 7,
+    "Drawable": 47,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 48,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 48,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Necklace",
+    "Component": 7,
+    "Drawable": 49,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Necklace",
+    "Component": 7,
+    "Drawable": 49,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Skull Necklace",
+    "Component": 7,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Skull Necklace",
+    "Component": 7,
+    "Drawable": 50,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Balaclava Necklace",
+    "Component": 7,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Zorse Necklace",
+    "Component": 7,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Zorse Necklace",
+    "Component": 7,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold LC Necklace",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum LC Necklace",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Dix Necklace",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Dix Necklace",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Loose Link Chain",
+    "Component": 7,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Loose Link Chain",
+    "Component": 7,
+    "Drawable": 74,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Belcher Chain",
+    "Component": 7,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Belcher Chain",
+    "Component": 7,
+    "Drawable": 75,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pretzel Chain",
+    "Component": 7,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Pretzel Chain",
+    "Component": 7,
+    "Drawable": 76,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Curb Chain",
+    "Component": 7,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Curb Chain",
+    "Component": 7,
+    "Drawable": 77,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 78,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 78,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 79,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 80,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Square Chain",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Square Chain",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Popcorn Chain",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Popcorn Chain",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Rope Chain",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Rope Chain",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Peach Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Loose Link Chain",
+    "Component": 7,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Loose Link Chain",
+    "Component": 7,
+    "Drawable": 85,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Belcher Chain",
+    "Component": 7,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Belcher Chain",
+    "Component": 7,
+    "Drawable": 86,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pretzel Chain",
+    "Component": 7,
+    "Drawable": 87,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Pretzel Chain",
+    "Component": 7,
+    "Drawable": 87,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Curb Chain",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Curb Chain",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Square Chain",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Square Chain",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Popcorn Chain",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Popcorn Chain",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Rope Chain",
+    "Component": 7,
+    "Drawable": 94,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Rope Chain",
+    "Component": 7,
+    "Drawable": 94,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Desert Scarf",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khaki Desert Scarf",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Desert Scarf",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Bead Necklace",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Full Bowtie",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Rim Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Rim Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Rim Necklace",
+    "Component": 7,
+    "Drawable": 120,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Rim Necklace",
+    "Component": 7,
+    "Drawable": 120,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Alloy Necklace",
+    "Component": 7,
+    "Drawable": 121,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Alloy Necklace",
+    "Component": 7,
+    "Drawable": 121,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Alloy Necklace",
+    "Component": 7,
+    "Drawable": 122,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Alloy Necklace",
+    "Component": 7,
+    "Drawable": 122,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Bead Necklace",
+    "Component": 7,
+    "Drawable": 123,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pearl Bead Necklace",
+    "Component": 7,
+    "Drawable": 123,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Epsilon Medallion",
+    "Component": 7,
+    "Drawable": 129,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Epsilon Medallion",
+    "Component": 7,
+    "Drawable": 130,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Epsilon Medallion",
+    "Component": 7,
+    "Drawable": 131,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mocha Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beige Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Pattern Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Pattern Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Pattern Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Pattern Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dog With Cone Chain",
+    "Component": 7,
+    "Drawable": 134,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dog With Cone Chain",
+    "Component": 7,
+    "Drawable": 135,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold LS Pendant",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver LS Pendant",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Copper LS Pendant",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold LS Pendant",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver LS Pendant",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Copper LS Pendant",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Enamel LS Pendant",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Plate LS Pendant",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Two-Tone LS Pendant",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Enamel LS Pendant",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Plate LS Pendant",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Two-Tone LS Pendant",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Tags",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Tags",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronze Tags",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Tags",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Tags",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronze Tags",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold L$ Pendant",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver L$ Pendant",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Two-Tone L$ Pendant",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold L$ Pendant",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver L$ Pendant",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Two-Tone L$ Pendant",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Coin Pendant",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Coin Pendant",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronze Coin Pendant",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Coin Pendant",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Coin Pendant",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronze Coin Pendant",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Festival Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carnival Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tropical Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hot Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Neon Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Party Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sunset Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Radiant Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sunrise Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Session Glow Necklace",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Festival Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carnival Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tropical Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hot Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Neon Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Party Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sunset Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Radiant Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sunrise Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Session Glow Necklace",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Floral Bangles",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "MyMy Psychedelic Bangles",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Bangles",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Bangles",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "MyMy Black Heart Necklace",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "MyMy Pink Heart Necklace",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rose Heart Necklace",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "All Silver Heart Necklace",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Beads",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Beads",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Beads",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Spotted Bow Scarf",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Floral Bow Scarf",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Bow Scarf",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Bow Scarf",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leopard Bow Scarf",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Bow Scarf",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black & White Leather Straps",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Summer Leather Straps",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Candy Leather Straps",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Check Leather Straps",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Tassel Scarf",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Tassel Scarf",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Olive Tassel Scarf",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Tassel Scarf",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Tassel Scarf",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stripy Scarf",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Joy Scarf",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Snowflake Scarf",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Storm Scarf",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stripy Scarf",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Joy Scarf",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Snowflake Scarf",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Storm Scarf",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Loose Bow Tie",
+    "Component": 7,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Charcoal Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khaki Hatch Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsia Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Hatch Loose Tie",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Skinny Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Skinny Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Skinny Tie",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Charcoal Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khaki Hatch Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsia Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Hatch Straight Tie",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Bow Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Bow Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Bow Tie",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Charcoal Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khaki Hatch Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsia Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Stripy Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Diamond Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Hatch Loose Tie",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Skinny Tie",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Charcoal Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khaki Hatch Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsia Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Stripy Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Diamond Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Hatch Straight Tie",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold SN Necklace",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum SN Necklace",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Skull Necklace",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Skull Necklace",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Balaclava Necklace",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Zorse Necklace",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Zorse Necklace",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold LC Necklace",
+    "Component": 7,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum LC Necklace",
+    "Component": 7,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Dix Necklace",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Dix Necklace",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold SN Necklace",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum SN Necklace",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Skull Necklace",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Skull Necklace",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Balaclava Necklace",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Zorse Necklace",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Zorse Necklace",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold LC Necklace",
+    "Component": 7,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum LC Necklace",
+    "Component": 7,
+    "Drawable": 40,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Dix Necklace",
+    "Component": 7,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Dix Necklace",
+    "Component": 7,
+    "Drawable": 41,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Le Chien Necklace",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Loose Link Chain",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Loose Link Chain",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Belcher Chain",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Belcher Chain",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Pretzel Chain",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Pretzel Chain",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Curb Chain",
+    "Component": 7,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Curb Chain",
+    "Component": 7,
+    "Drawable": 56,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 57,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 58,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 58,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 59,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Square Chain",
+    "Component": 7,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Square Chain",
+    "Component": 7,
+    "Drawable": 60,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Popcorn Chain",
+    "Component": 7,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Popcorn Chain",
+    "Component": 7,
+    "Drawable": 61,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Rope Chain",
+    "Component": 7,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Rope Chain",
+    "Component": 7,
+    "Drawable": 62,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Peach Plaid Woolen Scarf",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Loose Link Chain",
+    "Component": 7,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Loose Link Chain",
+    "Component": 7,
+    "Drawable": 64,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Belcher Chain",
+    "Component": 7,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Belcher Chain",
+    "Component": 7,
+    "Drawable": 65,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Pretzel Chain",
+    "Component": 7,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Pretzel Chain",
+    "Component": 7,
+    "Drawable": 66,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Curb Chain",
+    "Component": 7,
+    "Drawable": 67,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Curb Chain",
+    "Component": 7,
+    "Drawable": 67,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Diamond Curb Chain",
+    "Component": 7,
+    "Drawable": 68,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Heavy Curb Chain",
+    "Component": 7,
+    "Drawable": 69,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 70,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Heavy Square Chain",
+    "Component": 7,
+    "Drawable": 70,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Square Chain",
+    "Component": 7,
+    "Drawable": 71,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Square Chain",
+    "Component": 7,
+    "Drawable": 71,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Popcorn Chain",
+    "Component": 7,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Popcorn Chain",
+    "Component": 7,
+    "Drawable": 72,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Rope Chain",
+    "Component": 7,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Rope Chain",
+    "Component": 7,
+    "Drawable": 73,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Magnetics Necklace",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Desert Scarf",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khaki Desert Scarf",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Desert Scarf",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Bead Necklace",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Suspenders",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Suspenders",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Suspenders",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Rim Necklace",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Rim Necklace",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Rim Necklace",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Rim Necklace",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Alloy Necklace",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Alloy Necklace",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Alloy Necklace",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Alloy Necklace",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Bead Necklace",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pearl Bead Necklace",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Epsilon Medallion",
+    "Component": 7,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Epsilon Medallion",
+    "Component": 7,
+    "Drawable": 100,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Epsilon Medallion",
+    "Component": 7,
+    "Drawable": 101,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dog With Cone Chain",
+    "Component": 7,
+    "Drawable": 103,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dog With Cone Chain",
+    "Component": 7,
+    "Drawable": 104,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold LS Pendant",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver LS Pendant",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Copper LS Pendant",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold LS Pendant",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver LS Pendant",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Copper LS Pendant",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Enamel LS Pendant",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Plate LS Pendant",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Two-Tone LS Pendant",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Enamel LS Pendant",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Plate LS Pendant",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Two-Tone LS Pendant",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Tags",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Tags",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronze Tags",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Tags",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Tags",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronze Tags",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold L$ Pendant",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver L$ Pendant",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Two-Tone L$ Pendant",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold L$ Pendant",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver L$ Pendant",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Two-Tone L$ Pendant",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Coin Pendant",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Coin Pendant",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronze Coin Pendant",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Coin Pendant",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Coin Pendant",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronze Coin Pendant",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Festival Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Carnival Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tropical Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hot Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neon Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Party Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sunset Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Radiant Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sunrise Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Session Glow Necklace",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Festival Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Carnival Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tropical Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hot Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neon Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Party Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sunset Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Radiant Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sunrise Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Session Glow Necklace",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 15,
+    "PedModel": 2627665880
+}]

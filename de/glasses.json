@@ -1,0 +1,2557 @@
+[{
+    "Name": "Pinke breite Broker-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila breite Broker-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange breite Broker-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote breite Broker-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karmesinrote breite Broker-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne breite Broker-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe breite Broker-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldbraune breite Modebrille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze breite Modebrille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße breite Modebrille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, Silber",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, Gold",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, braun",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, Stahl, grell getönt",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, Stahl, dunkel getönt",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, schwarz-gelb",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, anthrazitgrau",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elegant, schwarz",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldbraune elegante Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze elegante Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße elegante Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, Gold",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, Stahl",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, schwarz",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, Silber",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, blau",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, Bronze, grell getönt",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, weiß, dunkel getönt",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Edelbrille, Silber, rot getönt",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldbraune Edel-Modebrille",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Edel-Modebrille",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Edel-Modebrille",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzgoldene Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzsilberne Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbige Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karmesinrote Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzorange Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißgoldene Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldbraune Trend-Modebrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Trend-Modebrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Trend-Modebrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sonnenuntergangs-Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karierte Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karmesinrote Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelb-schwarze Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldbraune Dock-Modebrille",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Dock-Modebrille",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Dock-Modebrille",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sternrahmenbrille",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sternenbannerbrille",
+    "Component": 1,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mono-Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beige Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot-blaue Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-violette Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graustufen-Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pilotenbrille mit Punktverlauf",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orangegetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Walnussbraune Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Horizont-Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pilotenbrille mit lila Ranken",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fischgräten-Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldgetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Magentagetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaugetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Rauten-Pilotenbrille",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pilotenbr. mit schwarzem Rand",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pilotenbr. mit weißem Rand",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbige, tiefe Sonnenbr.",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aquablaue, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne, tiefe Urban-Sonnenbr.",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke, tiefe Urban-Sonnenbr.",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tiefe Splitter-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tiefe Zebra-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tiefe Hahnentritt-Sonnenbr.",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gedeckte, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tiefe Sonnenaufgang-Sonn.",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gestreifte, tiefe Sonnenbr.",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige, tiefe Sonnenbr.",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze FOS-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote FOS-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue FOS-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße FOS-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-pinke Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-magenta Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, Mitternacht",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, Sonnenunt.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, schwarz",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, blau",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, gold",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, grün",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, orange",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, rot",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, pink",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, gelb",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, zitroneng.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Übergr. Sonnenbrille, Goldgestell",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, weiß kariert",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, pink kariert",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, gelb kariert",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, rot kariert",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße runde Sonnenbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze runde Sonnenbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, pink",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, blau",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, grün kariert",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, blau kariert",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, oran. kariert",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Sonnenbrille, grün",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marmorierte eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Eckige Sonnenbrille, pink",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Eckige Sonnenbrille, blau",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Komplett weiße eckige Sonnenb.",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rosa runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Brille m. gold. Gestell",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Brille m. blauem Gestell",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silber marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Runde Goldwirbel-Brille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Brille mit Verlauf",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rosa quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-rote quadrat. Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-braune quadrat. Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-blaue quadrat. Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braun marm. quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold marm. quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau marm. quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marmorierte quadratische Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink-schwarze quadrat. Brille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marmorierte Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-grüne Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkel marm. Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-türkise Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-rote Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-schwarze Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink-schwarze Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold marmorierte Cateye-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hell marmor. rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weinrot marmor. rechteck. Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-rote rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Türkise rechteck. Brille m. Verl.",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote rechteck. Brille m. Verlauf",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkel marm. rechteckige Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marmorierte ergonom. Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkel marm. ergonom. Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Türkise ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-schwarze ergon. Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Getigerte ergonomische Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune DS Bugs-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "DS Bugs-Brille, blau getönt",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte DS Bugs-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise DS Bugs-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße DS Bugs-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke DS Bugs-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote DS Bugs-Brille",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Quadrat-Brille, lila getönt",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leopard-Quadrat-Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Quadrat-Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise Quadrat-Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Quadrat-Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Quadrat-Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Quadrat-Brille",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, Stahl",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, Zinn",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, Gold",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, schwarz",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, gelb",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, Kupfer",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, Goldbügel",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schmale Brille, Silberbügel",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Plastikbrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Plastikbrille, oranges Gelenk",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Plastikbrille, pinkes Gelenk",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte Plastikbrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Cremefarbene Plastikbrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Plastikbrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sonnengelbe Plastikbrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bunte Plastikbrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldbraune Plastik-Modebrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Plastik-Modebrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Plastik-Modebrille",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbige Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mehrfarbige Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pfirsichfarbene Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Babyblaue Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellgrüne Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beschichtete Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leuchtend pinke Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sternrahmenbrille",
+    "Component": 1,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sternenbannerbrille",
+    "Component": 1,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bunte Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tarnfarbene Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zitronengelbe Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote Freizeitbrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldbraune Freizeit-Modebrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Freizeit-Modebrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Freizeit-Modebrille",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mono-Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beige Outlaw-Schutzbrille",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot-blaue Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-violette Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graustufen-Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Urban-Skibrille",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pilotenbrille mit Punktverlauf",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orangegetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Walnussbraune Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Horizont-Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pilotenbrille mit lila Ranken",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fischgräten-Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldgetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Magentagetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaugetönte Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Rauten-Pilotenbrille",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pilotenbr. mit schwarzem Rand",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pilotenbr. mit weißem Rand",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbige, tiefe Sonnenbr.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aquablaue, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne, tiefe Urban-Sonnenbr.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke, tiefe Urban-Sonnenbr.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tiefe Splitter-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tiefe Zebra-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tiefe Hahnentritt-Sonnenbr.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gedeckte, tiefe Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tiefe Sonnenaufgang-Sonn.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gestreifte, tiefe Sonnenbr.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige, tiefe Sonnenbr.",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze FOS-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote FOS-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue FOS-Sonnebrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße FOS-Sonnenbrille",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-pinke Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-magenta Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot-gelbe Knicklichtbrille",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, Mitternacht",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, Sonnenunt.",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, schwarz",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, blau",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, gold",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, grün",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, orange",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, rot",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, pink",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, gelb",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, zitroneng.",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Übergr. Sonnenbrille, Goldgestell",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, weiß kariert",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, pink kariert",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, gelb kariert",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, rot kariert",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße runde Sonnenbrille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze runde Sonnenbrille",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, pink",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, blau",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, grün kariert",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, blau kariert",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, oran. kariert",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Sonnenbrille, grün",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Eckige Sonnenbrille, pink",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Eckige Sonnenbrille, blau",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Komplett weiße eckige Sonnenb.",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige eckige Sonnenbrille",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rosa runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Brille m. gold. Gestell",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Brille m. blauem Gestell",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silber marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau marmorierte runde Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Goldwirbel-Brille",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Brille mit Verlauf",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rosa quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-rote quadrat. Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-braune quadrat. Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-blaue quadrat. Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braun marm. quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold marm. quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau marm. quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte quadratische Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink-schwarze quadrat. Brille",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-grüne Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkel marm. Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-türkise Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-rote Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-schwarze Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marineblaue Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink-schwarze Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold marmorierte Cateye-Brille",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hell marmor. rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weinrot marmor. rechteck. Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-rote rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise rechteck. Brille m. Verl.",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote rechteck. Brille m. Verlauf",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkel marm. rechteckige Brille",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marmorierte ergonom. Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkel marm. ergonom. Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-schwarze ergon. Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Getigerte ergonomische Brille",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 11,
+    "PedModel": 2627665880
+}]

@@ -1,0 +1,2557 @@
+[{
+    "Name": "Broker Pink Wraparounds",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Broker Purple Wraparounds",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Broker Orange Wraparounds",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Broker Red Wraparounds",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Broker Crimson Wraparounds",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Broker Lime Wraparounds",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Broker Yellow Wraparounds",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Shell Wraparound Glasses",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Wraparound Glasses",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Wraparound Glasses",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Refined",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Refined",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Refined",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steel Refined, Warm Tint",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steel Refined, Cool Tint",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hornet Refined",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Charcoal Refined",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Refined",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Shell Refined Glasses",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Refined Glasses",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Refined Glasses",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Superior",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steel Superior",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Superior",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Superior",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Superior",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronze Superior, Warm Tint",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Superior, Cool Tint",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Superior, Hot Tint",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Shell Superior Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Superior Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Superior Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Gold Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Silver Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Dipped Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crimson Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Dipped Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "White & Gold Trends",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Shell Trend Glasses",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Trend Glasses",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Trend Glasses",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sunset Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Checked Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crimson Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Docks",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Shell Dock Glasses",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Dock Glasses",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Dock Glasses",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Star Frame Shades",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Star Spangled Shades",
+    "Component": 1,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mono Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ox Blood Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beige Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tropical Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dusk Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grayscale Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Urban Ski",
+    "Component": 1,
+    "Drawable": 25,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dot Fade Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Fade Tint Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Walnut Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Horizon Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple Vine Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Herringbone Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Tint Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Magenta Tint Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Electric Blue Tint Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Argyle Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Rim Tint Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Rim Tint Aviators",
+    "Component": 1,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Two Tone Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aqua Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Urban Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Urban Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Digital Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Splinter Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zebra Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Houndstooth Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mute Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sunrise Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Striped Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mono Deep Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 29,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue & Pink Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue & Magenta Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Purple & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Midnight Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sunset Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lemon Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Rimmed Oversize Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Checked Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Checked Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Checked Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Checked Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Tinted Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Tinted Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Checked Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Checked Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Checked Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Tinted Round Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Tinted Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Tinted Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "All White Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mono Square Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rose Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Framed Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Framed Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell & Silver Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell & Gold Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Tortoiseshell Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Swirl Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Fade Round",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rose Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Red Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Brown Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Blue Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell & Brown Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold & Tortoiseshell Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Tortoiseshell Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink & Black Square",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Green Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dark Tortoiseshell Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Teal Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black & Red Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold & Black Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Navy Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink & Black Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Tortoiseshell Cat Eye",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Light Tortoiseshell Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Claret Tortoiseshell Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray & Red Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Teal Fade Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Fade Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dark Tortoiseshell Rectangular",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tortoiseshell Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dark Tortoiseshell Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Teal Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold & Black Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tiger Ergonomic",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "DS Brown Bugs",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "DS Blue Tint Bugs",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "DS Green Marble Bugs",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "DS Teal Bugs",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "DS White Bugs",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "DS Pink Bugs",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "DS Red Bugs",
+    "Component": 1,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Tint Squared",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Leopard Squared",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Squared",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Squared",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Squared",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Striped Squared",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Squared",
+    "Component": 1,
+    "Drawable": 17,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Steel Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pewter Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Copper Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Stem Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Stem Slim Glasses",
+    "Component": 1,
+    "Drawable": 18,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Hinge Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Hinge Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marbled Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Latte Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Vixen Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sunshine Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Eccentric Plastic Frames",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Shell Plastic Glasses",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Plastic Glasses",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Plastic Glasses",
+    "Component": 1,
+    "Drawable": 19,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Two-Tone Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Marble Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Multicolored Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Peach Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Baby Blue Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lime Retro Classics",
+    "Component": 1,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marble Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dipped Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hot Pink Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Brown Hipsters",
+    "Component": 1,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Star Frame Shades",
+    "Component": 1,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Star Spangled Shades",
+    "Component": 1,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zap Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Camo Collection Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lemon Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blood Casuals",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Shell Casual Glasses",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Casual Glasses",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Casual Glasses",
+    "Component": 1,
+    "Drawable": 24,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mono Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ox Blood Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beige Outlaw Goggles",
+    "Component": 1,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tropical Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dusk Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grayscale Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Brown Urban Ski",
+    "Component": 1,
+    "Drawable": 27,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dot Fade Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Fade Tint Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Walnut Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Horizon Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple Vine Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Herringbone Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Tint Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Magenta Tint Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Electric Blue Tint Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Argyle Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Rim Tint Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Rim Tint Aviators",
+    "Component": 1,
+    "Drawable": 30,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Two Tone Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aqua Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Urban Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Urban Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Digital Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Splinter Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zebra Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Houndstooth Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mute Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sunrise Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Striped Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mono Deep Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Fame or Shame Shades",
+    "Component": 1,
+    "Drawable": 31,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue & Pink Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue & Magenta Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Purple & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red & Yellow Glow Shades",
+    "Component": 1,
+    "Drawable": 32,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Midnight Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sunset Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lemon Tint Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Rimmed Oversize Shades",
+    "Component": 1,
+    "Drawable": 33,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Checked Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Checked Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Checked Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Checked Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Tinted Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Tinted Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Checked Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Checked Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Checked Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Tinted Round Shades",
+    "Component": 1,
+    "Drawable": 34,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Brown Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Tinted Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Tinted Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "All White Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mono Square Shades",
+    "Component": 1,
+    "Drawable": 35,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rose Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Framed Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Framed Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell & Silver Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell & Gold Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Tortoiseshell Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Swirl Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Fade Round",
+    "Component": 1,
+    "Drawable": 36,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rose Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black & Red Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black & Brown Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black & Blue Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell & Brown Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold & Tortoiseshell Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Tortoiseshell Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink & Black Square",
+    "Component": 1,
+    "Drawable": 37,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black & Green Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dark Tortoiseshell Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black & Teal Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black & Red Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold & Black Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Navy Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink & Black Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Tortoiseshell Cat Eye",
+    "Component": 1,
+    "Drawable": 38,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Light Tortoiseshell Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Claret Tortoiseshell Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray & Red Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Fade Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Yellow Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Fade Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dark Tortoiseshell Rectangular",
+    "Component": 1,
+    "Drawable": 39,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tortoiseshell Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dark Tortoiseshell Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Teal Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold & Black Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tiger Ergonomic",
+    "Component": 1,
+    "Drawable": 40,
+    "Texture": 11,
+    "PedModel": 2627665880
+}]

@@ -1,0 +1,907 @@
+[{
+    "Name": "Gray Earpiece",
+    "Component": 2,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Earpiece",
+    "Component": 2,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "LCD Earpiece",
+    "Component": 2,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Angled Hoop (L)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Angled Hoop (L)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Angled Hoop (L)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Angled Hoop (R)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Angled Hoop (R)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Angled Hoop (R)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Angled Hoops",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Angled Hoops",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Angled Hoops",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Circle Stud (L)",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Circle Stud (L)",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Circle Stud (R)",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Circle Stud (R)",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Circle Studs",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Circle Studs",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Diamond Stud (L)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Diamond Stud (L)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Diamond Stud (L)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Diamond Stud (R)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Diamond Stud (R)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Diamond Stud (R)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Diamond Studs",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Diamond Studs",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Diamond Studs",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pillow Stud (L)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Pillow Stud (L)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Pillow Stud (L)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pillow Stud (R)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Pillow Stud (R)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Pillow Stud (R)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pillow Studs",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Pillow Studs",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Pillow Studs",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Gem Stud (L)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Gem Stud (L)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Gem Stud (L)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Gem Stud (R)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Gem Stud (R)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Gem Stud (R)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Gem Studs",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Gem Studs",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Gem Studs",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Illusion Square Stud (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Grid Square Stud (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Noir Square Stud (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Grid Square Stud (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Noir Square Stud (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Illusion Square Stud (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Grid Square Stud (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Noir Square Stud (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Grid Square Stud (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Noir Square Stud (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Illusion Square Studs",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Grid Square Studs",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Noir Square Studs",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Grid Square Studs",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Noir Square Studs",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Stud (L)",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Stud (L)",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Stud (R)",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Stud (R)",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Studs",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Studs",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Skull Stud (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Skull Stud (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Skull Stud (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Skull Stud (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Skull Stud (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Skull Stud (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Skull Stud (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Skull Stud (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Skull Studs",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Skull Studs",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Skull Studs",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Skull Studs",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Spike Stud (L)",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Spike Stud (L)",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Spike Stud (R)",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Spike Stud (R)",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Spike Studs",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Spike Studs",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Onyx Stud (L)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Onyx Stud (L)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Onyx Stud (L)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Onyx Stud (R)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Onyx Stud (R)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Onyx Stud (R)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Onyx Studs",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Onyx Studs",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Onyx Studs",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Bullion Stud (L)",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Bullion Stud (L)",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Bullion Stud (R)",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Bullion Stud (R)",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum SN Bullion Studs",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SN Bullion Studs",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Fame or Shame Mics",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Fame or Shame Mics",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Clubs Earrings",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Diamonds Earrings",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hearts Earrings",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Spades Earrings",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Dice Earrings",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Dice Earrings",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Dice Earrings",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Dice Earrings",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gray Earpiece",
+    "Component": 2,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Earpiece",
+    "Component": 2,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "LCD Earpiece",
+    "Component": 2,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Pendulums",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Pendulums",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Diamond Rounds",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Diamond Drops",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Diamond Drops",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gold Diamond Drops",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Waterfalls",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Waterfalls",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gold Waterfalls",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Totems",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gold Totems",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Totems",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Diamond Chains",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Diamond Chains",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gold Diamond Chains",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Emerald Chains",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Emerald Chains",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gold Emerald Chains",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Sun Drops",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Sun Drops",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gold Sun Drops",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinum Diamond Studs",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Diamond Studs",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gold Diamond Studs",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Assault Hoops",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Chunky Hoops",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Classic Hoops",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "FU Hoops",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Screw You Hoops",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Fame or Shame Mics",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Fame or Shame Mics",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Clubs Earrings",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Diamonds Earrings",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hearts Earrings",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Spades Earrings",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "White Dice Earrings",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Dice Earrings",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Dice Earrings",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Dice Earrings",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}]

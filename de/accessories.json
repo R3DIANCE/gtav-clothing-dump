@@ -1,0 +1,3979 @@
+[{
+    "Name": "Covgari Silberkette",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gaulle Goldkette",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronzekette",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Covgari Silberkette",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gaulle Goldkette",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronzekette",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weihnachtskrawatte 1",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weihnachtskrawatte 2",
+    "Component": 7,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Feine rote Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Feine pinke Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Feine weiße Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Feine braune Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Feine blaue Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune karierte Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue karierte Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange karierte Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune karierte Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote karierte Fliege",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune karierte Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune karierte Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune karierte Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steingraue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue karierte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot gestreifte schmale Krawatte",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißes Tuch",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graues Tuch",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes Tuch",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaues Tuch",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rotes Tuch",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grünes Tuch",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißes Tuch",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graues Tuch",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes Tuch",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaues Tuch",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rotes Tuch",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grünes Tuch",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "USA-Fliege",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Sternenfliege",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Sternenfliege",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gestreifter Schal",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Freudeschal",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schneeflockenschal",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sturmschal",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gestreifter Schal",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Freudeschal",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schneeflockenschal",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sturmschal",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze lockere Fliege",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakif. schraff. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fuchsiaf. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Türkise lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbr. gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schraff. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakif. schraff. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fuchsiaf. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Türkise gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbr. gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schraff. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakif. schraff. lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße gestr. lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila lässige Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fuchsiaf. lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue lässige Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue gestreifte lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Türkise lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue lässige Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbr. gestr. lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne lässige Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schraff. lässige Krawatte",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "SN-Goldkette",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "SN-Platinkette",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Totenkopf-Goldkette",
+    "Component": 7,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Totenkopf-Platinkette",
+    "Component": 7,
+    "Drawable": 43,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sturmhauben-Platinkette",
+    "Component": 7,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zorse-Goldkette",
+    "Component": 7,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zorse-Platinkette",
+    "Component": 7,
+    "Drawable": 45,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "LC-Goldkette",
+    "Component": 7,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "LC-Platinkette",
+    "Component": 7,
+    "Drawable": 46,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dix-Goldkette",
+    "Component": 7,
+    "Drawable": 47,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dix-Platinkette",
+    "Component": 7,
+    "Drawable": 47,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Le Chien-Goldkette",
+    "Component": 7,
+    "Drawable": 48,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Le Chien-Platinkette",
+    "Component": 7,
+    "Drawable": 48,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "SN-Goldkette",
+    "Component": 7,
+    "Drawable": 49,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "SN-Platinkette",
+    "Component": 7,
+    "Drawable": 49,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Totenkopf-Goldkette",
+    "Component": 7,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Totenkopf-Platinkette",
+    "Component": 7,
+    "Drawable": 50,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sturmhauben-Platinkette",
+    "Component": 7,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zorse-Goldkette",
+    "Component": 7,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zorse-Platinkette",
+    "Component": 7,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "LC-Goldkette",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "LC-Platinkette",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dix-Goldkette",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dix-Platinkette",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Le Chien-Goldkette",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Le Chien-Platinkette",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lockere Gold-Gliederkette",
+    "Component": 7,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lockere Platin-Gliederkette",
+    "Component": 7,
+    "Drawable": 74,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Erbskette",
+    "Component": 7,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Erbskette",
+    "Component": 7,
+    "Drawable": 75,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Brezelkette",
+    "Component": 7,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Brezelkette",
+    "Component": 7,
+    "Drawable": 76,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 77,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 78,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 78,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 79,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 80,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Himbeerkette",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Himbeerkette",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Kordelkette",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Kordelkette",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blauer karierter Wollschal",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüner karierter Wollschal",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbrauner karierter Wollschal",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grauer karierter Wollschal",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer karierter Wollschal",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pfirsichf. karierter Wollschal",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lockere Gold-Gliederkette",
+    "Component": 7,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lockere Platin-Gliederkette",
+    "Component": 7,
+    "Drawable": 85,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Erbskette",
+    "Component": 7,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Erbskette",
+    "Component": 7,
+    "Drawable": 86,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Brezelkette",
+    "Component": 7,
+    "Drawable": 87,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Brezelkette",
+    "Component": 7,
+    "Drawable": 87,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Himbeerkette",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Himbeerkette",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Kordelkette",
+    "Component": 7,
+    "Drawable": 94,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Kordelkette",
+    "Component": 7,
+    "Drawable": 94,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Magnetics-Goldkette",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Magnetics-Platinkette",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Magnetics-Goldkette",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Magnetics-Platinkette",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbrauner Wüstenschal",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbener Wüstenschal",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Wüstenschal",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Perlenkette",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze enge Fliege",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Felgenkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Felgenkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Felgenkette",
+    "Component": 7,
+    "Drawable": 120,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Felgenkette",
+    "Component": 7,
+    "Drawable": 120,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Radkappenkette",
+    "Component": 7,
+    "Drawable": 121,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Radkappenkette",
+    "Component": 7,
+    "Drawable": 121,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Radkappenkette",
+    "Component": 7,
+    "Drawable": 122,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Radkappenkette",
+    "Component": 7,
+    "Drawable": 122,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Perlenkette",
+    "Component": 7,
+    "Drawable": 123,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Perlenkette",
+    "Component": 7,
+    "Drawable": 123,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Epsilon-Medaillon",
+    "Component": 7,
+    "Drawable": 129,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Epsilon-Medaillon",
+    "Component": 7,
+    "Drawable": 130,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Epsilon-Medaillon",
+    "Component": 7,
+    "Drawable": 131,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue ungebundene Fl.",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Violette ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mokkabr. ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beige ungebundene Fliege",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau gemusterte ungebun. Fl.",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelb gemusterte ungebun. Fl.",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braun gemusterte ungebun. Fl.",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink gemusterte ungebun. Fl.",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hund-mit-Halskrause-Kette",
+    "Component": 7,
+    "Drawable": 134,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hund-mit-Halskrause-Kette",
+    "Component": 7,
+    "Drawable": 135,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldener LS-Anhänger",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kupferner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldener LS-Anhänger",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kupferner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß glasierter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Versilberter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbiger LS-Anhänger",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß glasierter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Versilberter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbiger LS-Anhänger",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Hundemarken",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Hundemarken",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronzene Hundemarken",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Hundemarken",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Hundemarken",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronzene Hundemarken",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldener L$-Anhänger",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberner L$-Anhänger",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbiger L$-Anhänger",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldener L$-Anhänger",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberner L$-Anhänger",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbiger L$-Anhänger",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldmünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silbermünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronzemünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldmünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silbermünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronzemünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Festivalknicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karnevalknicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tropische Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Heiße Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Neonknicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Partyknicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sonnenuntergangsknicklichtk.",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Strahlende Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sonnenaufgangsknicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Session-Knicklichtkette",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Festivalknicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karnevalknicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tropische Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Heiße Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Neonknicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Partyknicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sonnenuntergangsknicklichtk.",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Strahlende Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sonnenaufgangsknicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Session-Knicklichtkette",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blumen-Armreifen",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "MyMy Armreifen",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Armreifen",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Armreifen",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze MyMy Herzkette",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke MyMy Herzkette",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rosa Herzkette",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Komplett silberne Herzkette",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Perlen",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Perlen",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Perlen",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gepunkteter Schleifenschal",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blumen-Schleifenschal",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinker Schleifenschal",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roter Schleifenschal",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leoparden-Schleifenschal",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißer Schleifenschal",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzweiße Lederriemen",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sommer-Lederriemen",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bunte Lederriemen",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke karierte Lederriemen",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rotes Quastenhalstuch",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Quastenhalstuch",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Olivgrünes Quastenhalstuch",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinkes Quastenhalstuch",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkises Quastenhalstuch",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gestreifter Schal",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Freudeschal",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schneeflockenschal",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sturmschal",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gestreifter Schal",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Freudeschal",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schneeflockenschal",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sturmschal",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze lockere Fliege",
+    "Component": 7,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakif. schraff. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsiaf. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbr. gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue schraff. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße schmale Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze schmale Krawatte",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakif. schraff. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsiaf. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbr. gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue schraff. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Fliege",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Fliege",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Fliege",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakif. schraff. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsiaf. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbr. gestr. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne lockere Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue schraff. lockere Krawatte",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze schmale Krawatte",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakif. schraff. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fuchsiaf. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbr. gestr. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne gerade Rauten-Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue schraff. gerade Krawatte",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "SN-Goldkette",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "SN-Platinkette",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Totenkopf-Goldkette",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Totenkopf-Platinkette",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sturmhauben-Platinkette",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zorse-Goldkette",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zorse-Platinkette",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "LC-Goldkette",
+    "Component": 7,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "LC-Platinkette",
+    "Component": 7,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dix-Goldkette",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dix-Platinkette",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Le Chien-Goldkette",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Le Chien-Platinkette",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "SN-Goldkette",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "SN-Platinkette",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Totenkopf-Goldkette",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Totenkopf-Platinkette",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sturmhauben-Platinkette",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zorse-Goldkette",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zorse-Platinkette",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "LC-Goldkette",
+    "Component": 7,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "LC-Platinkette",
+    "Component": 7,
+    "Drawable": 40,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dix-Goldkette",
+    "Component": 7,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dix-Platinkette",
+    "Component": 7,
+    "Drawable": 41,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Le Chien-Goldkette",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Le Chien-Platinkette",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lockere Gold-Gliederkette",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lockere Platin-Gliederkette",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Erbskette",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Erbskette",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Brezelkette",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Brezelkette",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 56,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 57,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 58,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 58,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 59,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 60,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Himbeerkette",
+    "Component": 7,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Himbeerkette",
+    "Component": 7,
+    "Drawable": 61,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Kordelkette",
+    "Component": 7,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Kordelkette",
+    "Component": 7,
+    "Drawable": 62,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blauer karierter Wollschal",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüner karierter Wollschal",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbrauner karierter Wollschal",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grauer karierter Wollschal",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer karierter Wollschal",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pfirsichf. karierter Wollschal",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lockere Gold-Gliederkette",
+    "Component": 7,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lockere Platin-Gliederkette",
+    "Component": 7,
+    "Drawable": 64,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Erbskette",
+    "Component": 7,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Erbskette",
+    "Component": 7,
+    "Drawable": 65,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Brezelkette",
+    "Component": 7,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Brezelkette",
+    "Component": 7,
+    "Drawable": 66,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 67,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 67,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Flachpanzerkette",
+    "Component": 7,
+    "Drawable": 68,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Gold-Panzerkette",
+    "Component": 7,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Platin-Panzerkette",
+    "Component": 7,
+    "Drawable": 69,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 70,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 70,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Rechteckkette",
+    "Component": 7,
+    "Drawable": 71,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Rechteckkette",
+    "Component": 7,
+    "Drawable": 71,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Himbeerkette",
+    "Component": 7,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Himbeerkette",
+    "Component": 7,
+    "Drawable": 72,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Kordelkette",
+    "Component": 7,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Kordelkette",
+    "Component": 7,
+    "Drawable": 73,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Magnetics-Goldkette",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Magnetics-Platinkette",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Magnetics-Goldkette",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Magnetics-Platinkette",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbrauner Wüstenschal",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbener Wüstenschal",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzer Wüstenschal",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Perlenkette",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Hosenträger",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Hosenträger",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Hosenträger",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Felgenkette",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Felgenkette",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Felgenkette",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Felgenkette",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Radkappenkette",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Radkappenkette",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Radkappenkette",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Radkappenkette",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Perlenkette",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Perlenkette",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Epsilon-Medaillon",
+    "Component": 7,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Epsilon-Medaillon",
+    "Component": 7,
+    "Drawable": 100,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Epsilon-Medaillon",
+    "Component": 7,
+    "Drawable": 101,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hund-mit-Halskrause-Kette",
+    "Component": 7,
+    "Drawable": 103,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hund-mit-Halskrause-Kette",
+    "Component": 7,
+    "Drawable": 104,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldener LS-Anhänger",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kupferner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldener LS-Anhänger",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kupferner LS-Anhänger",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß glasierter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Versilberter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbiger LS-Anhänger",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß glasierter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Versilberter LS-Anhänger",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbiger LS-Anhänger",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Hundemarken",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Hundemarken",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronzene Hundemarken",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Hundemarken",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Hundemarken",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronzene Hundemarken",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldener L$-Anhänger",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberner L$-Anhänger",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbiger L$-Anhänger",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldener L$-Anhänger",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberner L$-Anhänger",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbiger L$-Anhänger",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldmünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silbermünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronzemünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldmünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silbermünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronzemünzen-Anhänger",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Festivalknicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Karnevalknicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tropische Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Heiße Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neonknicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Partyknicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sonnenuntergangsknicklichtk.",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Strahlende Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sonnenaufgangsknicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Session-Knicklichtkette",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Festivalknicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Karnevalknicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tropische Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Heiße Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neonknicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Partyknicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sonnenuntergangsknicklichtk.",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Strahlende Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sonnenaufgangsknicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Session-Knicklichtkette",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 15,
+    "PedModel": 2627665880
+}]

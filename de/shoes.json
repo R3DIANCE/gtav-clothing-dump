@@ -1,0 +1,6697 @@
+[{
+    "Name": "Graue Anna Rex Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Perseus Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Lezard Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Violette Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue zweifarbige Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Double P Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zitronengelbe Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gestreifte Heat Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Prolaps Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Blumen-Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Suburban Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Stank Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Elfenschuhe",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, schwarze Kappen",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, weiße Kappen",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gamaschen",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokobraune Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aschgraue Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue zweifarbige Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Topazfarbene Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Limettengrüne Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Oxfords",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kobra-Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kupferfarbene Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Abgesetzte Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-weiße Slipper",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Himmelblaue Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbige Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karierte Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tarnfarben-Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kaffeebraune Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Farbig-karierte Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grün karierte Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Leinenschuhe",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brogues mit gelben Sohlen",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brogues mit orangen Sohlen",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Burgunderrote Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brogues mit blauen Sohlen",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Waldtarn-Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gentleman-Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brogues mit pinken Sohlen",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokobraune Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brogues mit grünen Sohlen",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aschgraue Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Olivgrüne Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Brogues",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Fliegerstiefel",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze taktische Stiefel",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze abgetragene Stiefel",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Nieten-Sneaker",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Nieten-Sneaker",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ganz rote Nieten-Sneaker",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Nieten-Sneaker",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Nieten-Sneaker",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Nieten-Sneaker",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbige Auto-Mokassins",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Auto-Mokassins",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Calypso-Laufschuhe",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Buzz-Laufschuhe",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fresh-Laufschuhe",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Jinx-Laufschuhe",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Animal-Laufschuhe",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbige Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Venom-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Frost-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dreifarbige Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Radioaktiv-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tarnfarbene Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bounce-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Öko-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Neon-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karmesinrote Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Morgenrot-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sting-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sportplatz-Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Keine Schuhe",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Wanderstiefel",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene Wanderstiefel",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sienafarbene Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ganz schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sienafarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Cremefarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Cowboystiefel",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ganz schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sienafarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Cremefarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, blaue Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Oxfords, weiße Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Oxfords, dunkle Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, lila Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, graue Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, himmelblaue Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, schokobraune Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Oxfords, schw. Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ganz rote Oxfords",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Klassische Oxfords",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, pinke Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Oxfords, königsblaue Kappen",
+    "Component": 6,
+    "Drawable": 40,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Wildleder-Mokassins",
+    "Component": 6,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gestreifte Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tarn-Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tropische Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Leinenslipper",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkelgraue Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Jeans-Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ganz schwarze Halbstiefel",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karmesinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rosa Cowboystiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karmesinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rosa Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Schnürstiefel",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote Schnürstiefel",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Schnürstiefel",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 50,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Gurtstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Gurtstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze offene Stiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote offene Stiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune offene Stiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schw. abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schw. abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrote abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Gurtstiefel",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Gurtstiefel",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pfirsichfarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lila Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bronzefarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Perlmuttfarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kupferfarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kirschrote Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rosa Turnschuhe",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pfirsichf. Digitaltarn-Crosssch.",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Herbsttarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkle Waldtarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Crosshatch-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgr. Digitaltarn-Crosssch.",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Waldtarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aquablaue Tarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Splitter-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kontrasttarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pflasterstein-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pfirsichf. Tarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinselstrich-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Flecktarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Helle Waldtarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgrüne Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sandbraune Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schiefergraue Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Crossschuhe",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgrüne Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbbraune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Giftige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Wüstenbeige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokoladenbr. Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgrüne Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbbraune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Giftige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Wüstenbeige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokoladenbr. Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 61,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Wüstenbeige taktische Stiefel",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Salbeigrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene taktische Stiefel",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Walnussbraune taktische Stief.",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Olivgrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Wüstenbeige taktische Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Salbeigrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene taktische Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Walnussbraune taktische Stief.",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Olivgrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Klassische Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokobraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rostbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rostrote Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Klassische Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokobraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rostbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rostrote Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Erdbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Stiefel in Graustufen",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rostbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Waldtarn-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere aquabl. Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Zyan-Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere pinke Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere graue Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-braune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblau-br. schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Hahnentritt-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgrüne schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkelblaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Herbsttarn-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Splitter-Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot-weiße schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokobraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 70,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Erdbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Stiefel in Graustufen",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rostbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Waldtarn-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere aquabl. Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Zyan-Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere pinke Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere graue Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-braune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblau-br. schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Hahnentritt-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgrüne schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkelblaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Herbsttarn-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Splitter-Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot-weiße schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schokobraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 71,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-sandbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Leder-Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-gelbe Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Herbsttarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-hellbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Waldtarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schiefergraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgrüne Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Erdbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aquablaue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 72,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-sandbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Leder-Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-gelbe Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Herbsttarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-hellbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Waldtarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schiefergraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Moosgrüne Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Marineblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Erdbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blau-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aquablaue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. mit lila Welle",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mitternachts-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sonnenuntergangs-Retro-Laufs.",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Cremef.-pinke Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzrote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. m. oranger Welle",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. m. pinker Welle",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bunte Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aschgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Salbeigrüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grauton-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graustufen-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. m. blauer Welle",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graphitgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mokkabraune Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. mit lila Welle",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mitternachts-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Sonnenuntergangs-Retro-Laufs.",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Cremef.-pinke Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzrote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. m. oranger Welle",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. m. pinker Welle",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bunte Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aschgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Salbeigrüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grauton-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graustufen-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-Laufs. m. blauer Welle",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graphitgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mokkabraune Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 24,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 25,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißblaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißgrüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißpinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißrote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graublaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graugrüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graupinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graurote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzblaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzgrüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzpinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzrote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinkblaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink-grüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aschgraupinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Tarn-LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pinke Tarn-LED-Schuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Flammende Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot flammende Schädel-St.",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Flammende Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rot flammende Schädel-St.",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkelbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkelbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 82,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dunkelbraune Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beigefarbene Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braunweiße Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellgrüne Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beigefarbene Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schraffierte Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stahlplattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Plattenstiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellgrüne Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beigefarbene Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schraffierte Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stahlplattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Plattenstiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne FB-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue FB-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote FB-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe FB-Slipper",
+    "Component": 6,
+    "Drawable": 92,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Violette Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit blauem Verlauf",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit lila Verlauf",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit violettem Verlauf",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit orangenem Verlauf",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graustufen-Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aschgraue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau gemusterte Retro-Turnsch.",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß gemusterte Retro-Turn.",
+    "Component": 6,
+    "Drawable": 93,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Violette Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zweifarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Einfarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit blauem Verlauf",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit lila Verlauf",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit violettem Verlauf",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Retro-T. mit orangenem Verlauf",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graustufen-Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Aschgraue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau gemusterte Retro-Turnsch.",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß gemusterte Retro-Turn.",
+    "Component": 6,
+    "Drawable": 94,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hund-mit-Halskrause-Slipper",
+    "Component": 6,
+    "Drawable": 95,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Uniformstiefel",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwere Uniformstiefel",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Komplett weiße Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stoffturnschuhe mit bl. Sohle",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Cremefarbene Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rauchmuster-Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stoffturnsch. m. grün. Muster",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Knallpinke Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Violette Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stoffturnsch. m. rotem Muster",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stoffturnschuhe m. zyanf. Verlauf",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stoffturnschuhe mit lila Verlauf",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Beige Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graustufen-Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-zyanf. Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-aquabl. Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarz-lim. Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 16,
+    "PedModel": 1885233650
+}, {
+    "Name": "Türkise Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 17,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-lila Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 18,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-magentaf. Stoffturnsch.",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 19,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grau-gelbe Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 20,
+    "PedModel": 1885233650
+}, {
+    "Name": "Orange Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 21,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß-goldene Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 22,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiß-pinke Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 23,
+    "PedModel": 1885233650
+}, {
+    "Name": "Anthrazitgraue Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gutter & Blood Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hummerrote Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Waldtarn-Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hawaiian Snow Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Swingers Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Penetrators Flip-Flops",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Elfenschuhe",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Olivgrüne Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Erdbraune Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-rote Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-pinke Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kitty Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rouge Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-pinke Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-rosa Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-schwarze Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bunte Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Plateauschuhe",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Leoparden-Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Olivgrüne Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Burgunderrote Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Leoparden-Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Himmelblaue Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neonpinke Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neongelbe Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zebra-Lackschuhe",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ockerfarbene Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kastanienbraune Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Burgunderrote Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot abgesetzte Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kaffeebraune Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ocker abgesetzte Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila abgesetzte Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau abgesetzte Kniestiefel",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beige Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kaffeebraune Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzweiße Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Olivgrüne Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot abgesetzte Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schokobraune Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink abgesetzte Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kupferfarbene Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leoparden-Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldnieten-Stulpenstiefel",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Glitzerschuhe",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Glitzerschuhe",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Glitzerschuhe",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Fliegerstiefel",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze taktische Stiefel",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze abgetragene Stiefel",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ganz schwarze Backsides",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ganz schwarze Sportschuhe",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ganz schwarze Oxfords",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Oxfords",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Oxfords",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Nietenlederstiefel",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Knöchelturnschuhe",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Calypso-Laufschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Buzz-Laufschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fresh-Laufschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Jinx-Laufschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Animal-Laufschuhe",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Turnschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schw. Leinenschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Leinenschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Leinenschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Leinenschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Leinenschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Leinenschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Br. Leinenschuhe mit Stulpen",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Keine Schuhe",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Wanderstiefel",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene Wanderstiefel",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sienafarbene Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Leder-Mokassins",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ganz schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sienafarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Cremefarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ganz schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sienafarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Cremefarbene Cowboystiefel",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Cowboystiefel",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Cowboystiefel",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hautfarbene runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Violette runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grell pinke runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rosa runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Karmesinrote runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blasslila runde Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Cremefarbene runde Lacksch.",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Runde Leoparden-Lackschuhe",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot funkelnde runde Lacksch.",
+    "Component": 6,
+    "Drawable": 42,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Plateau-Turnschuhe",
+    "Component": 6,
+    "Drawable": 43,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Turnschuh-Stiefel",
+    "Component": 6,
+    "Drawable": 44,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Karmesinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marineblaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rosa Cowboystiefel",
+    "Component": 6,
+    "Drawable": 45,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Karmesinrote Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marineblaue Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rosa Cowboystiefel",
+    "Component": 6,
+    "Drawable": 46,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 51,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Schnürstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote Schnürstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Schnürstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune abgetr. Schnürstiefel",
+    "Component": 6,
+    "Drawable": 52,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Gurtstiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Gurtstiefel",
+    "Component": 6,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schw. abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 54,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze offene Stiefel",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote offene Stiefel",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune offene Stiefel",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schw. abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune abgetr. offene Stiefel",
+    "Component": 6,
+    "Drawable": 55,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Wadenstiefel",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote Wadenstiefel",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Wadenstiefel",
+    "Component": 6,
+    "Drawable": 56,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Wadenstiefel",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrote Wadenstiefel",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Wadenstiefel",
+    "Component": 6,
+    "Drawable": 57,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Gurtstiefel",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Gurtstiefel",
+    "Component": 6,
+    "Drawable": 59,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pfirsichfarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lila Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bronzefarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Perlmuttfarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kupferfarbene Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kirschrote Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rosa Turnschuhe",
+    "Component": 6,
+    "Drawable": 60,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Digitaltarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pfirsichf. Digitaltarn-Crosssch.",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Herbsttarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkle Waldtarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Crosshatch-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgr. Digitaltarn-Crosssch.",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Waldtarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aquablaue Tarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Splitter-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kontrasttarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pflasterstein-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pfirsichf. Tarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinselstrich-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flecktarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Helle Waldtarn-Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgrüne Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sandbraune Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schiefergraue Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Crossschuhe",
+    "Component": 6,
+    "Drawable": 62,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgrüne Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbbraune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Giftige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wüstenbeige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schokoladenbr. Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 63,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgrüne Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbbraune Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Giftige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wüstenbeige Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schokoladenbr. Tech-Stiefel",
+    "Component": 6,
+    "Drawable": 64,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wüstenbeige taktische Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Salbeigrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene taktische Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Walnussbraune taktische Stief.",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Olivgrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 65,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wüstenbeige taktische Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Salbeigrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene taktische Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue taktische Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Walnussbraune taktische Stief.",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Olivgrüne taktische Stiefel",
+    "Component": 6,
+    "Drawable": 66,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Klassische Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schokobraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rostbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rostrote Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 68,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Klassische Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schokobraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rostbraune Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rostrote Moc-Stiefel",
+    "Component": 6,
+    "Drawable": 69,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Erdbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Stiefel in Graustufen",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rostbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Waldtarn-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere aquabl. Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Zyan-Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere pinke Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere graue Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-braune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marineblau-br. schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Hahnentritt-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgrüne schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkelblaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Herbsttarn-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Splitter-Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot-weiße schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schokobraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 73,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Erdbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Stiefel in Graustufen",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rostbraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Waldtarn-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere aquabl. Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Zyan-Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere pinke Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere graue Tarn-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-braune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marineblau-br. schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Hahnentritt-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgrüne schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkelblaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Herbsttarn-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Splitter-Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot-weiße schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-rote schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-blaue schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schokobraune schwere Stiefel",
+    "Component": 6,
+    "Drawable": 74,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-sandbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leder-Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-gelbe Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Herbsttarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-hellbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Waldtarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schiefergraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgrüne Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marineblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Erdbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aquablaue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 75,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-sandbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leder-Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-gelbe Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Herbsttarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-hellbr. Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Waldtarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schiefergraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Moosgrüne Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Anthrazitgraue Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Marineblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Erdbraune Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellblaue Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blau-braune Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aquablaue Tarn-Schneestiefel",
+    "Component": 6,
+    "Drawable": 76,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Catsuit-Lackschuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Catsuit-Lackschuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkelbr. Catsuit-Lackschuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Catsuit-Lackschuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Catsuit-Lackschuhe",
+    "Component": 6,
+    "Drawable": 77,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. lila Welle",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mitternachts-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sonnenuntergangs-Retro-Laufs.",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Cremef.-pinke Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzrote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. oranger Welle",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. pinker Welle",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bunte Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aschgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Salbeigrüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grauton-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graustufen-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. blauer Welle",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graphitgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mokkabraune Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 79,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. lila Welle",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mitternachts-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sonnenuntergangs-Retro-Laufs.",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Cremef.-pinke Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzrote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. oranger Welle",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. pinker Welle",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-orange Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bunte Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aschgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Salbeigrüne Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grauton-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graustufen-Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-Laufs. m. blauer Welle",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graphitgraue Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 23,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mokkabraune Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 24,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige Retro-Laufschuhe",
+    "Component": 6,
+    "Drawable": 80,
+    "Texture": 25,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißblaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißgrüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißpinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weißrote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graublaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graugrüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graupinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graurote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzblaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgrüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzpinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzrote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinkblaue LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink-grüne LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aschgraupinke LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote bedruckte LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Tarn-LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke Tarn-LED-Schuhe",
+    "Component": 6,
+    "Drawable": 81,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flammende Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot flammende Schädel-St.",
+    "Component": 6,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flammende Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rot flammende Schädel-St.",
+    "Component": 6,
+    "Drawable": 84,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkelbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 85,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkelbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Schädel-Stiefel",
+    "Component": 6,
+    "Drawable": 86,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dunkelbraune Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beigefarbene Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braunweiße Raider-Stiefel",
+    "Component": 6,
+    "Drawable": 88,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellgrüne Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beigefarbene Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schraffierte Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stahlplattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Plattenstiefel",
+    "Component": 6,
+    "Drawable": 89,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellgrüne Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beigefarbene Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Tarn-Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schraffierte Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stahlplattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Plattenstiefel",
+    "Component": 6,
+    "Drawable": 90,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Violette Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit blauem Verlauf",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit lila Verlauf",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit violettem Verlauf",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit orangenem Verlauf",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graustufen-Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aschgraue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau gemusterte Retro-Turnsch.",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß gemusterte Retro-Turn.",
+    "Component": 6,
+    "Drawable": 96,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Violette Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zweifarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfarbige Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit blauem Verlauf",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit lila Verlauf",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit violettem Verlauf",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Retro-T. mit orangenem Verlauf",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graustufen-Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Aschgraue Retro-Turnschuhe",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau gemusterte Retro-Turnsch.",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß gemusterte Retro-Turn.",
+    "Component": 6,
+    "Drawable": 97,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne FB-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe FB-Manor-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue FB-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote FB-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelbe FB-Slipper",
+    "Component": 6,
+    "Drawable": 98,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hund-mit-Halskrause-Slipper",
+    "Component": 6,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Uniformstiefel",
+    "Component": 6,
+    "Drawable": 100,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwere Uniformstiefel",
+    "Component": 6,
+    "Drawable": 101,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Komplett weiße Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stoffturnschuhe mit bl. Sohle",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Cremefarbene Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rauchmuster-Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stoffturnsch. m. grün. Muster",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Knallpinke Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Violette Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stoffturnsch. m. rotem Muster",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stoffturnschuhe m. zyanf. Verlauf",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stoffturnschuhe mit lila Verlauf",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Beige Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graustufen-Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-zyanf. Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-aquabl. Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarz-lim. Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 16,
+    "PedModel": 2627665880
+}, {
+    "Name": "Türkise Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 17,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-lila Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 18,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-magentaf. Stoffturnsch.",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 19,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grau-gelbe Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 20,
+    "PedModel": 2627665880
+}, {
+    "Name": "Orange Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 21,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-goldene Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 22,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiß-pinke Stoffturnschuhe",
+    "Component": 6,
+    "Drawable": 103,
+    "Texture": 23,
+    "PedModel": 2627665880
+}]

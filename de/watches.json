@@ -1,0 +1,1363 @@
+[{
+    "Name": "Schwarze Pendulus Sportuhr",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Pfister Sportuhr",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Sportuhr",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Sportuhr",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Sportuhr",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Uhr",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Uhr",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Uhr",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weißgoldene Uhr",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote LED, weißes Armband",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote LED, braunes Armband",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße LED, Goldarmband",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe LED, gelbes Armband",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rotgoldene Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Siberne Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rotgold. Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Crowex Chromosphere",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold. Crowex Chromosphere",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Crowex Chromosphere",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rotgold. Vangelico Geomeister",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Vangelico Geomeister",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Vangelico Geomeister",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rotgoldene iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Limettengrüne iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "PRB-iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rotgoldene Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stahl-Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kupfer-Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vintage-Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stahl-Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon-Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelbe Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mintgrüne iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Leichte Armkette (L)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grobe Armkette (L)",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Quadrat-Armkette (L)",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schädel-Armkette (L)",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Profil-Armreif (L)",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Motorradkette (L)",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Nietenarmband (L)",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braunes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraunes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrotes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Robuste Golduhr",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Robuste Silberuhr",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Robuste schwarze Uhr",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Robuste Kartenuhr",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Robuste Royaluhr",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Robuste Rouletteuhr",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Fifty Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold. Roulette-Kronos-Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Barock-Kronos-Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Fifty Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Roulette-Kronos-Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pik-Kronos-Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grüne Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blaue Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schw. Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Fifty Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Pik-Kronos-Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braune Pik-Kronos-Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pik-Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Metallmischungs-Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roulette-Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rad-Crowex-Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kartenfarben-Crowex-Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roulette-Crowex-Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roulette-Kronos-Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fifty Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kartenfarben-Kronos-Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pik-Crowex-Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Königliche Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Würfel-Crowex-Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silbernes SASS-Armband",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldenes SASS-Armband",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes SASS-Armband",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne SASS-Armkette",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene SASS-Armkette",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze SASS-Armkette",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene Modeuhr",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Modeuhr",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kupferne Modeuhr",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Modeuhr",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rotgoldene CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Didier Sachs Mignon",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rotgold. Didier Sachs Mignon",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Didier Sachs Mignon",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rotgoldene iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pinke iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "PRB-iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rotgold. Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Carbon-Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Limettengrüne iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neonfarbene iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leichte Armkette (L)",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grobe Armkette (L)",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Quadrat-Armkette (L)",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schädel-Armkette (L)",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Profil-Armreif (L)",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Motorradkette (L)",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Nietenarmband (L)",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braunes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraunes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrotes Lederarmband (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Robuste Golduhr",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Robuste Silberuhr",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Robuste schwarze Uhr",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Robuste Kartenuhr",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Robuste Royaluhr",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Robuste Rouletteuhr",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Fifty Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold. Roulette-Kronos-Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Barock-Kronos-Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Fifty Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Roulette-Kronos-Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pik-Kronos-Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grüne Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blaue Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schw. Fame-or-Shame-Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Fifty Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Pik-Kronos-Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braune Pik-Kronos-Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pik-Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Metallmischungs-Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roulette-Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rad-Crowex-Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kartenfarben-Crowex-Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roulette-Crowex-Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roulette-Kronos-Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fifty Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kartenfarben-Kronos-Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pik-Crowex-Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Königliche Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Würfel-Crowex-Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silbernes SASS-Armband",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldenes SASS-Armband",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzes SASS-Armband",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne SASS-Armkette",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene SASS-Armkette",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze SASS-Armkette",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 2627665880
+}]

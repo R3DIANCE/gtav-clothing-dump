@@ -1,0 +1,175 @@
+[{
+    "Name": "Leichte Armkette (R)",
+    "Component": 7,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grobe Armkette (R)",
+    "Component": 7,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Quadrat-Armkette (R)",
+    "Component": 7,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schädel-Armkette (R)",
+    "Component": 7,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Profil-Armreif (R)",
+    "Component": 7,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Motorradkette (R)",
+    "Component": 7,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Nietenarmband (R)",
+    "Component": 7,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Braunes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraunes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blutrotes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schlangen-Goldmanschette",
+    "Component": 7,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Diamant-Goldmanschette",
+    "Component": 7,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Einfache Goldmanschette",
+    "Component": 7,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Le Chien-Goldmanschette",
+    "Component": 7,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fein verzierte Goldmanschette",
+    "Component": 7,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wirbel-Goldmanschette",
+    "Component": 7,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Textur-Goldmanschette",
+    "Component": 7,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Leichte Armkette (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Grobe Armkette (R)",
+    "Component": 7,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Quadrat-Armkette (R)",
+    "Component": 7,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schädel-Armkette (R)",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Profil-Armreif (R)",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Motorradkette (R)",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Nietenarmband (R)",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Braunes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraunes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blutrotes Lederarmband (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 3,
+    "PedModel": 2627665880
+}]

@@ -1,0 +1,175 @@
+[{
+    "Name": "Light Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Chunky Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Square Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Skull Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tread Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gear Wrist Chains (R)",
+    "Component": 7,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Spiked Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Chocolate Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ox Blood Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Snake Cuff",
+    "Component": 7,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Diamond Cuff",
+    "Component": 7,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Plain Cuff",
+    "Component": 7,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Le Chien Cuff",
+    "Component": 7,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Detail Cuff",
+    "Component": 7,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Swirl Cuff",
+    "Component": 7,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Textured Cuff",
+    "Component": 7,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Light Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Chunky Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Square Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Skull Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tread Wrist Chain (R)",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gear Wrist Chains (R)",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Spiked Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Chocolate Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ox Blood Gauntlet (R)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 3,
+    "PedModel": 2627665880
+}]

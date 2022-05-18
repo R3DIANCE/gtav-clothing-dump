@@ -1,0 +1,73 @@
+[{
+    "Name": "Hellbraune Einsatzweste",
+    "Component": 9,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakifarbene Einsatzweste",
+    "Component": 9,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Einsatzweste",
+    "Component": 9,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Taschen-Einsatzweste",
+    "Component": 9,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Khakif. Taschen-Einsatzweste",
+    "Component": 9,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Taschen-Einsatzweste",
+    "Component": 9,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Einsatzweste",
+    "Component": 9,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakifarbene Einsatzweste",
+    "Component": 9,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Einsatzweste",
+    "Component": 9,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Taschen-Einsatzweste",
+    "Component": 9,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Khakif. Taschen-Einsatzweste",
+    "Component": 9,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarze Taschen-Einsatzweste",
+    "Component": 9,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}]

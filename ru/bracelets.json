@@ -1,0 +1,175 @@
+[{
+    "Name": "Легкий браслет (п)",
+    "Component": 7,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Тяжелый браслет (п)",
+    "Component": 7,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Прямоугольный браслет (п)",
+    "Component": 7,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Браслет с черепами (п)",
+    "Component": 7,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Широкий браслет (п)",
+    "Component": 7,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочки с черепами (п)",
+    "Component": 7,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Браслет с шипами (п)",
+    "Component": 7,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный браслет (п)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый браслет (п)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевый браслет (п)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бордовый браслет (п)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой браслет-змейка",
+    "Component": 7,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бриллиантовый браслет",
+    "Component": 7,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотой плоский браслет",
+    "Component": 7,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотой браслет Le Chien",
+    "Component": 7,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотой браслет",
+    "Component": 7,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотой узорный браслет",
+    "Component": 7,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотой рельефный браслет",
+    "Component": 7,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Легкий браслет (п)",
+    "Component": 7,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Тяжелый браслет (п)",
+    "Component": 7,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Прямоугольный браслет (п)",
+    "Component": 7,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Браслет с черепами (п)",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Широкий браслет (п)",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочки с черепами (п)",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Браслет с шипами (п)",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черный браслет (п)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Коричневый браслет (п)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевый браслет (п)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бордовый браслет (п)",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 3,
+    "PedModel": 2627665880
+}]

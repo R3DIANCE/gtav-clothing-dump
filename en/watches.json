@@ -1,0 +1,1363 @@
+[{
+    "Name": "Pendulus Sport Black Sports",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pfister Design Red Sports",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Sports",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Sports",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Sports",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Watch",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Watch",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Watch",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "White Gold Watch",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red LED, White Strap",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red LED, Brown Strap",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "White LED, Gold Strap",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow LED, Yellow Strap",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Gold Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Kronos Quantum",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Gaulle Retro Hex",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Gold Covgari Supernova",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pendulus Galaxis",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Crowex Chromosphere",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Crowex Chromosphere",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Crowex Chromosphere",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Gold Vangelico Geomeister",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Vangelico Geomeister",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Vangelico Geomeister",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Gold iFruit Link",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Lime iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "PRB iFruit Tech",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pink Gold Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Covgari Explorer",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platinum Pendulus Gravity",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steel Covgari Universe",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Copper Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vintage Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Gaulle Destiny",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Steel Medici Radial",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Pendulus Timestar",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Carbon Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Yellow Kronos Submariner",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mint iFruit Snap",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Light Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Chunky Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Square Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Skull Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tread Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gear Wrist Chains (L)",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Spiked Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Chocolate Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ox Blood Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Enduring Watch",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Enduring Watch",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Enduring Watch",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Deck Enduring Watch",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Royal Enduring Watch",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roulette Enduring Watch",
+    "Component": 6,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Fifty Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Roulette Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Baroque Kronos Tempo",
+    "Component": 6,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Fifty Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Roulette Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Spade Kronos Pulse",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Red Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Green Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blue Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 32,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Fifty Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Tan Spade Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Brown Spade Kronos Ära",
+    "Component": 6,
+    "Drawable": 33,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Spade Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mixed Metals Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roulette Ceaseless",
+    "Component": 6,
+    "Drawable": 34,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Wheel Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Suits Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roulette Crowex Époque",
+    "Component": 6,
+    "Drawable": 35,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roulette Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Fifty Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Suits Kronos Quad",
+    "Component": 6,
+    "Drawable": 36,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Spade Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Royalty Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dice Crowex Rond",
+    "Component": 6,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver SASS Wrist Piece",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SASS Wrist Piece",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black SASS Wrist Piece",
+    "Component": 6,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silver SASS Bracelet",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold SASS Bracelet",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Black SASS Bracelet",
+    "Component": 6,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold Fashion",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Fashion",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Copper Fashion",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Fashion",
+    "Component": 6,
+    "Drawable": 2,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Gold CaCa Di Lusso",
+    "Component": 6,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Didier Sachs Mignon",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Gold Didier Sachs Mignon",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Didier Sachs Mignon",
+    "Component": 6,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Gold iFruit Link",
+    "Component": 6,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "White iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "PRB iFruit Tech",
+    "Component": 6,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pink Gold Le Chien Marquise",
+    "Component": 6,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gray Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Fufu Jeunesse",
+    "Component": 6,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Carbon Anna Rex Prestige",
+    "Component": 6,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lime iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "White iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Neon iFruit Snap",
+    "Component": 6,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Light Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Chunky Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Square Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Skull Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tread Wrist Chain (L)",
+    "Component": 6,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gear Wrist Chains (L)",
+    "Component": 6,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Spiked Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Chocolate Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ox Blood Gauntlet (L)",
+    "Component": 6,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Enduring Watch",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Enduring Watch",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Enduring Watch",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Deck Enduring Watch",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Royal Enduring Watch",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roulette Enduring Watch",
+    "Component": 6,
+    "Drawable": 19,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Fifty Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Roulette Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Baroque Kronos Tempo",
+    "Component": 6,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Fifty Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Roulette Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Spade Kronos Pulse",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Red Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Green Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blue Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Fame or Shame Kronos",
+    "Component": 6,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Fifty Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Tan Spade Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Brown Spade Kronos Ära",
+    "Component": 6,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Spade Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Mixed Metals Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roulette Ceaseless",
+    "Component": 6,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wheel Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Suits Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roulette Crowex Époque",
+    "Component": 6,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roulette Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Fifty Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Suits Kronos Quad",
+    "Component": 6,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Spade Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Royalty Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dice Crowex Rond",
+    "Component": 6,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver SASS Wrist Piece",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold SASS Wrist Piece",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black SASS Wrist Piece",
+    "Component": 6,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silver SASS Bracelet",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold SASS Bracelet",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Black SASS Bracelet",
+    "Component": 6,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 2627665880
+}]

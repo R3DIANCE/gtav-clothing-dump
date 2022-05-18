@@ -1,0 +1,1099 @@
+[{
+    "Name": "Zottellocken, dunkelbraun",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zottellocken, hellbraun",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zottellocken, rotbraun",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zottellocken, blond",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zottellocken, schwarz",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Surferfrisur, dunkelbraun",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Surferfrisur, hellbraun",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Surferfrisur, rotbraun",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Surferfrisur, blond",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Surferfrisur, schwarz",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Seitenscheitel, dunkelbraun",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Seitenscheitel, hellbraun",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Seitenscheitel, rotbraun",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Seitenscheitel, blond",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Seitenscheitel, schwarz",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hochgekämmt, dunkelbraun",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hochgekämmt, hellbraun",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hochgekämmt, rotbraun",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hochgekämmt, blond",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hochgekämmt, schwarz",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelfrisur, lang, dunkelbraun",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelfrisur, lang, hellbraun",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelfrisur, lang, rotbraun",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelfrisur, lang, blond",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelfrisur, lang, schwarz",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Junger Hipster, dunkelbraun",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Junger Hipster, blond",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Junger Hipster, rotbraun",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Junger Hipster, hellbraun",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Junger Hipster, schwarz",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vokuhila, dunkelbraun",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vokuhila, hellbraun",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vokuhila, rotbraun",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vokuhila, blond",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vokuhila, schwarz",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Klassische Flechtreihen",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Palmen-Flechtreihen",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blitz-Flechtreihen",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Peitschen-Flechtreihen",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zickzack-Flechtreihen",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schnecken-Flechtreihen",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hightop",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Locker zurückgekämmt",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zurückgekämmter Undercut",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zur Seite gekämmter Undercut",
+    "Component": 2,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stacheliger Iro",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mod",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stufenmod",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kurzgeschoren",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Iro, modisch",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hipster",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Seitenscheitel",
+    "Component": 2,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kurzhaarschnitt",
+    "Component": 2,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Bikerfrisur",
+    "Component": 2,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pferdeschwanz",
+    "Component": 2,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Flechtreihen",
+    "Component": 2,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelfrisur",
+    "Component": 2,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kurz gekämmt",
+    "Component": 2,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stachelfrisur",
+    "Component": 2,
+    "Drawable": 47,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Cäsarenfrisur",
+    "Component": 2,
+    "Drawable": 48,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zerzaust",
+    "Component": 2,
+    "Drawable": 49,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Dreadlocks",
+    "Component": 2,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Langhaarfrisur",
+    "Component": 2,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zottellocken, dunkelbraun",
+    "Component": 2,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Surferfrisur, dunkelbraun",
+    "Component": 2,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Seitenscheitel, dunkelbraun",
+    "Component": 2,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hochgekämmt, dunkelbraun",
+    "Component": 2,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gelfrisur, lang, dunkelbraun",
+    "Component": 2,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Junger Hipster, dunkelbraun",
+    "Component": 2,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Vokuhila, dunkelbraun",
+    "Component": 2,
+    "Drawable": 58,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Klassische Flechtreihen",
+    "Component": 2,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Palmen-Flechtreihen",
+    "Component": 2,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Blitz-Flechtreihen",
+    "Component": 2,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Peitschen-Flechtreihen",
+    "Component": 2,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zickzack-Flechtreihen",
+    "Component": 2,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schnecken-Flechtreihen",
+    "Component": 2,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hightop",
+    "Component": 2,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Locker zurückgekämmt",
+    "Component": 2,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zurückgekämmter Undercut",
+    "Component": 2,
+    "Drawable": 67,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Zur Seite gekämmter Undercut",
+    "Component": 2,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stacheliger Iro",
+    "Component": 2,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Mod",
+    "Component": 2,
+    "Drawable": 70,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Stufenmod",
+    "Component": 2,
+    "Drawable": 71,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Flattop-Bürstenschnitt",
+    "Component": 2,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Militär-Stoppeln",
+    "Component": 2,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Ohnmächtiger Zorn",
+    "Component": 2,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Afro mit Übergang",
+    "Component": 2,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pin-up-Girl, kastanienbraun",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pin-up-Girl, blond",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pin-up-Girl, rotbraun",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pin-up-Girl, schwarz",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pin-up-Girl, braun",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wilder Dutt, kastanienbraun",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wilder Dutt, blond",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wilder Dutt, rotbraun",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wilder Dutt, schwarz",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wilder Dutt, braun",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flapper-Bob, kastanienbraun",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flapper-Bob, blond",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flapper-Bob, rotbraun",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flapper-Bob, schwarz",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flapper-Bob, braun",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flapper-Bob, blau",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kleiner Dutt, schwarz",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kleiner Dutt, braun",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kleiner Dutt, rotbraun",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kleiner Dutt, kastanienbraun",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kleiner Dutt, blond",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelockter Bob, kastanienbraun",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelockter Bob, schwarz",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelockter Bob, rotbraun",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelockter Bob, braun",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelockter Bob, blond",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Langer Pony, kastanienbraun",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Langer Pony, blond",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Langer Pony, rotbraun",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Langer Pony, schwarz",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Langer Pony, braun",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flechtdutt, kastanienbraun",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flechtdutt, blond",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flechtdutt, rotbraun",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flechtdutt, schwarz",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flechtdutt, braun",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Vokuhila, kastanienbraun",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Vokuhila, blond",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Vokuhila, rotbraun",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Vokuhila, schwarz",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Vokuhila, braun",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gedrückte Flechtreihen",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blätter-Flechtreihen",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zickzack-Flechtreihen",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zöpfe und Pony",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wellenzöpfe",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wickelzöpfe",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gerollte Haartolle",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Locker zurückgekämmt",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zurückgekämmter Undercut",
+    "Component": 2,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zur Seite gekämmter Undercut",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stacheliger Iro",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bandana und Flechtzopf",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Skinbyrd",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stufenmod",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kurz",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stufenbob",
+    "Component": 2,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zöpfe",
+    "Component": 2,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pferdeschwanz",
+    "Component": 2,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Iro, geflochten",
+    "Component": 2,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flechtzöpfe",
+    "Component": 2,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bob",
+    "Component": 2,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Iro, modisch",
+    "Component": 2,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bananenfrisur",
+    "Component": 2,
+    "Drawable": 47,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Langer Bob",
+    "Component": 2,
+    "Drawable": 48,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Locker",
+    "Component": 2,
+    "Drawable": 49,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pixieschnitt",
+    "Component": 2,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rasierter Pony",
+    "Component": 2,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dutt",
+    "Component": 2,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Lockiger Bob",
+    "Component": 2,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wilder Dutt, kastanienbraun",
+    "Component": 2,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pin-up-Girl, kastanienbraun",
+    "Component": 2,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kleiner Dutt, schwarz",
+    "Component": 2,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gelockter Bob, kastanienbraun",
+    "Component": 2,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flapper-Bob, kastanienbraun",
+    "Component": 2,
+    "Drawable": 58,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Langer Pony, kastanienbraun",
+    "Component": 2,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Flechtdutt, kastanienbraun",
+    "Component": 2,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Vokuhila, kastanienbraun",
+    "Component": 2,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gedrückte Flechtreihen",
+    "Component": 2,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Blätter-Flechtreihen",
+    "Component": 2,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zickzack-Flechtreihen",
+    "Component": 2,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zöpfe und Pony",
+    "Component": 2,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wellenzöpfe",
+    "Component": 2,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Wickelzöpfe",
+    "Component": 2,
+    "Drawable": 67,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gerollte Haartolle",
+    "Component": 2,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Locker zurückgekämmt",
+    "Component": 2,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zurückgekämmter Undercut",
+    "Component": 2,
+    "Drawable": 70,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Zur Seite gekämmter Undercut",
+    "Component": 2,
+    "Drawable": 71,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stacheliger Iro",
+    "Component": 2,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Bandana und Flechtzopf",
+    "Component": 2,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Stufenmod",
+    "Component": 2,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Skinbyrd",
+    "Component": 2,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Strenger Dutt",
+    "Component": 2,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kurzer Bob",
+    "Component": 2,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Ohnmächtiger Zorn",
+    "Component": 2,
+    "Drawable": 78,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Afro",
+    "Component": 2,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 2627665880
+}]

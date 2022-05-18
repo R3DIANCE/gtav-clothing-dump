@@ -1,0 +1,907 @@
+[{
+    "Name": "Grauer Ohrhörer",
+    "Component": 2,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Roter Ohrhörer",
+    "Component": 2,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "LCD-Ohrhörer",
+    "Component": 2,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Winkelkreole (L)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Winkelkreole (L)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Winkelkreole (L)",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Winkelkreole (R)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Winkelkreole (R)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Winkelkreole (R)",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Winkelkreolen",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Winkelkreolen",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Winkelkreolen",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Ringstecker (L)",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Ringstecker (L)",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Ringstecker (R)",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Ringstecker (R)",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Ringstecker",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Ringstecker",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Diamantstecker (L)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Diamantst. (L)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Diamantstecker (L)",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Diamantstecker (R)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Diamantst. (R)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Diamantstecker (R)",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Diamantstecker",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Diamantstecker",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Diamantstecker",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Kissenstecker (L)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Kissenstecker (L)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Kissenstecker (L)",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Kissenstecker (R)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Kissenstecker (R)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Kissenstecker (R)",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Kissenstecker",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Kissenstecker",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Kissenstecker",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Edelsteinstecker (L)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Edelsteinst. (L)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Edelsteinstecker (L)",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Edelsteinstecker (R)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Edelsteinst. (R)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Edelsteinstecker (R)",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Edelsteinstecker",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Edelsteinstecker",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Edelsteinstecker",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Illusion-Viereckst. (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Raster-Viereckst. (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Noir-Viereckstecker (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Raster-Viereckst. (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Noir-Viereckstecker (L)",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Illusion-Viereckst. (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Raster-Viereckst. (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Noir-Viereckstecker (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Raster-Viereckst. (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Noir-Viereckstecker (R)",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Illusion-Viereckstecker",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Raster-Viereckstecker",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Noir-Viereckstecker",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Raster-Viereckstecker",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Noir-Viereckstecker",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-SN-Stecker (L)",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-SN-Stecker (L)",
+    "Component": 2,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-SN-Stecker (R)",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-SN-Stecker (R)",
+    "Component": 2,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-SN-Stecker",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-SN-Stecker",
+    "Component": 2,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silber-Totenkopfstecker (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Totenkopfstecker (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Totenkopfst. (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Totenkopfstecker (L)",
+    "Component": 2,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silber-Totenkopfstecker (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Totenkopfstecker (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Totenkopfst. (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Totenkopfstecker (R)",
+    "Component": 2,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silber-Totenkopfstecker",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Totenkopfstecker",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Totenkopfstecker",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Totenkopfstecker",
+    "Component": 2,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Stachelstecker (L)",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Stachelstecker (L)",
+    "Component": 2,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Stachelstecker (R)",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Stachelstecker (R)",
+    "Component": 2,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Stachelstecker",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Stachelstecker",
+    "Component": 2,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Onyxstecker (L)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Onyxstecker (L)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Onyxstecker (L)",
+    "Component": 2,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Onyxstecker (R)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarzer Onyxstecker (R)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Onyxstecker (R)",
+    "Component": 2,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-Onyxstecker",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Schwarze Onyxstecker",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-Onyxstecker",
+    "Component": 2,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-SN-Barren-Stecker (L)",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-SN-Barren-Stecker (L)",
+    "Component": 2,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-SN-Barren-Stecker (R)",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-SN-Barren-Stecker (R)",
+    "Component": 2,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Platin-SN-Barren-Stecker",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Gold-SN-Barren-Stecker",
+    "Component": 2,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Goldene FOS-Mikros",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Silberne FOS-Mikros",
+    "Component": 2,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Kreuz-Ohrringe",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Karo-Ohrringe",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Herz-Ohrringe",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Pik-Ohrringe",
+    "Component": 2,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Weiße Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Rote Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Hellbraune Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Graue Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Grauer Ohrhörer",
+    "Component": 2,
+    "Drawable": 0,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Roter Ohrhörer",
+    "Component": 2,
+    "Drawable": 1,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "LCD-Ohrhörer",
+    "Component": 2,
+    "Drawable": 2,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platinpendel",
+    "Component": 2,
+    "Drawable": 3,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldpendel",
+    "Component": 2,
+    "Drawable": 4,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Diamantringe",
+    "Component": 2,
+    "Drawable": 5,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Diamanttropfen",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Diamanttropfen",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgold-Diamanttropfen",
+    "Component": 2,
+    "Drawable": 6,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Wasserfälle",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Wasserfälle",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgold-Wasserfälle",
+    "Component": 2,
+    "Drawable": 7,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Totems",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgold-Totems",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Totems",
+    "Component": 2,
+    "Drawable": 8,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Diamantketten",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Diamantketten",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgold-Diamantketten",
+    "Component": 2,
+    "Drawable": 9,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Smaragdketten",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Smaragdketten",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgold-Smaragdketten",
+    "Component": 2,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Sonnentropfen",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Sonnentropfen",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgold-Sonnentropfen",
+    "Component": 2,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Platin-Diamantstecker",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Gold-Diamantstecker",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Schwarzgold-Diamantstecker",
+    "Component": 2,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Sturmreifen",
+    "Component": 2,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Dicke Reifen",
+    "Component": 2,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Klassische Reifen",
+    "Component": 2,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "FU-Reifen",
+    "Component": 2,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Screw-You-Reifen",
+    "Component": 2,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Goldene FOS-Mikros",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Silberne FOS-Mikros",
+    "Component": 2,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Kreuz-Ohrringe",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Karo-Ohrringe",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Herz-Ohrringe",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Pik-Ohrringe",
+    "Component": 2,
+    "Drawable": 19,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Weiße Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Rote Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Hellbraune Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Graue Würfel-Ohrringe",
+    "Component": 2,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}]

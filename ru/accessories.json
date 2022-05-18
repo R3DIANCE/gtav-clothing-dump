@@ -1,0 +1,3979 @@
+[{
+    "Name": "Серебряная цепь Covgari",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Gaulle",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бронзовая цепь",
+    "Component": 7,
+    "Drawable": 16,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная цепь Covgari",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Gaulle",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бронзовая цепь",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Рождественский галстук",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Узкий праздничный галстук",
+    "Component": 7,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный галстук",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовый галстук",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый галстук",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый галстук",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий галстук",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Дымчатый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой галстук в полоску",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный полосатый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синяя бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синяя бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красная бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синяя бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бурая бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красная бабочка",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Клетчатый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Дымчатый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой галстук в полоску",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный полосатый галстук",
+    "Component": 7,
+    "Drawable": 24,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Клетчатый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 25,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Дымчатый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой галстук в полоску",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный полосатый галстук",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Клетчатый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Дымчатый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый клетчатый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой галстук в полоску",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный полосатый галстук",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фиолетовый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Коричневый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Клетчатый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Охровый узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный узкий галстук",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый шарф",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый шарф",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный шарф",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий шарф",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный шарф",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый шарф",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Белый шарф",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый шарф",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный шарф",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Темно-синий шарф",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красный шарф",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый шарф",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бабочка USA",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бабочка с синей звездой",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бабочка с белой звездой",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полосатый шарф",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шарф \"Радость\"",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шарф \"Снежки\"",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шарф \"Буря\"",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Полосатый шарф",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шарф \"Радость\"",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шарф \"Снежки\"",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шарф \"Буря\"",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная черная бабочка",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Угольно-черный (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Со штриховкой (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "В белую полоску (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "В лиловую клетку (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовый (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "С серыми ромбами (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочного цвета (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "В синюю полоску (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сине-зеленый (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "В синюю клетку (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "В песочную полоску (своб.)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовый (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "С зелеными ромбами (своб.)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий (свободный)",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Угольно-черный (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Со штриховкой (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "В белую полоску (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "В лиловую клетку (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовый (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "С серыми ромбами (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочного цвета (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "В синюю полоску (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сине-зеленый (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "В синюю клетку (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "В песочную полоску (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовый (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "С зелеными ромбами (строг.)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий (строгий)",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Угольно-черный (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Со штриховкой (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "В белую полоску (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "В лиловую клетку (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовый (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "С серыми ромбами (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Песочного цвета (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "В синюю полоску (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сине-зеленый (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранжевый (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "В синюю клетку (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "В пес. полоску (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовый (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "С зелеными ромбами (небреж.)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий (небрежный)",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь SN",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь SN",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь \"Череп\"",
+    "Component": 7,
+    "Drawable": 43,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь \"Череп\"",
+    "Component": 7,
+    "Drawable": 43,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Балаклава\"",
+    "Component": 7,
+    "Drawable": 44,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Zorse",
+    "Component": 7,
+    "Drawable": 45,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь Zorse",
+    "Component": 7,
+    "Drawable": 45,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь LC",
+    "Component": 7,
+    "Drawable": 46,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь LC",
+    "Component": 7,
+    "Drawable": 46,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Dix",
+    "Component": 7,
+    "Drawable": 47,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь Dix",
+    "Component": 7,
+    "Drawable": 47,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 48,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 48,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь SN",
+    "Component": 7,
+    "Drawable": 49,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь SN",
+    "Component": 7,
+    "Drawable": 49,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь \"Череп\"",
+    "Component": 7,
+    "Drawable": 50,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь \"Череп\"",
+    "Component": 7,
+    "Drawable": 50,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая \"Балаклава\"",
+    "Component": 7,
+    "Drawable": 51,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Zorse",
+    "Component": 7,
+    "Drawable": 52,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь Zorse",
+    "Component": 7,
+    "Drawable": 52,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь LC",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь LC",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Dix",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь Dix",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Крупная золотая цепочка",
+    "Component": 7,
+    "Drawable": 74,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Крупная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 74,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Бельцер\"",
+    "Component": 7,
+    "Drawable": 75,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Бельцер\", платина",
+    "Component": 7,
+    "Drawable": 75,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Крендель\"",
+    "Component": 7,
+    "Drawable": 76,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Крендель\", платина",
+    "Component": 7,
+    "Drawable": 76,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Плотная золотая цепочка",
+    "Component": 7,
+    "Drawable": 77,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Плотная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 77,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 78,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 78,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная золотая цепь",
+    "Component": 7,
+    "Drawable": 79,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная платиновая цепь",
+    "Component": 7,
+    "Drawable": 79,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая плотная \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 80,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Плотная \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 80,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Попкорн\"",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Попкорн\", платина",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Веревка\"",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Веревка\", платина",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синий клетчатый шарф",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бежевый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный клетчатый шарф",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Персиковый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Крупная золотая цепочка",
+    "Component": 7,
+    "Drawable": 85,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Крупная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 85,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Бельцер\"",
+    "Component": 7,
+    "Drawable": 86,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Бельцер\", платина",
+    "Component": 7,
+    "Drawable": 86,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Крендель\"",
+    "Component": 7,
+    "Drawable": 87,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Крендель\", платина",
+    "Component": 7,
+    "Drawable": 87,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Плотная золотая цепочка",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Плотная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная золотая цепь",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Массивная платиновая цепь",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая плотная \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Плотная \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Попкорн\"",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Попкорн\", платина",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая цепочка \"Веревка\"",
+    "Component": 7,
+    "Drawable": 94,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепочка \"Веревка\", платина",
+    "Component": 7,
+    "Drawable": 94,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотое ожерелье Magnetics",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платин. ожерелье Magnetics",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотое ожерелье Magnetics",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платин. ожерелье Magnetics",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желто-коричневый шарф",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Шарф цвета хаки",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черный шарф",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Черное ожерелье",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Парадная бабочка",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновый кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотой кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 120,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Платиновый кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 120,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кулон из золотого сплава",
+    "Component": 7,
+    "Drawable": 121,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кулон из платинового сплава",
+    "Component": 7,
+    "Drawable": 121,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кулон из золотого сплава",
+    "Component": 7,
+    "Drawable": 122,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Кулон из платинового сплава",
+    "Component": 7,
+    "Drawable": 122,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотое ожерелье",
+    "Component": 7,
+    "Drawable": 123,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Жемчужное ожерелье",
+    "Component": 7,
+    "Drawable": 123,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медальон \"Эпсилон\"",
+    "Component": 7,
+    "Drawable": 129,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медальон \"Эпсилон\"",
+    "Component": 7,
+    "Drawable": 130,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медальон \"Эпсилон\"",
+    "Component": 7,
+    "Drawable": 131,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная черная бабочка",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная белая бабочка",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная серая бабочка",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная голубая",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная темно-синяя",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная красная бабочка",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная зеленая бабочка",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная оранжевая",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная желтая бабочка",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная фиолетовая",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная кофейная",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Свободная бежевая бабочка",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синяя свободная с узором",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтая свободная с узором",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Сепия свободная с узором",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовая свободная с узором",
+    "Component": 7,
+    "Drawable": 132,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепь: собачий воротник",
+    "Component": 7,
+    "Drawable": 134,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Цепь: собачий воротник",
+    "Component": 7,
+    "Drawable": 135,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подвеска LS",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная подвеска LS",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медная подвеска LS",
+    "Component": 7,
+    "Drawable": 136,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подвеска LS",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная подвеска LS",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Медная подвеска LS",
+    "Component": 7,
+    "Drawable": 137,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Эмалированная подвеска LS",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Посеребренная подвеска LS",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двуцветная подвеска LS",
+    "Component": 7,
+    "Drawable": 138,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Эмалированная подвеска LS",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Посеребренная подвеска LS",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двуцветная подвеска LS",
+    "Component": 7,
+    "Drawable": 139,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые жетоны",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные жетоны",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бронзовые жетоны",
+    "Component": 7,
+    "Drawable": 140,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотые жетоны",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряные жетоны",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бронзовые жетоны",
+    "Component": 7,
+    "Drawable": 141,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подвеска L$",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная подвеска L$",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двуцветная подвеска L$",
+    "Component": 7,
+    "Drawable": 142,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подвеска L$",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная подвеска L$",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Двуцветная подвеска L$",
+    "Component": 7,
+    "Drawable": 143,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подвеска с монетой",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная с монетой",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бронзовая с монетой",
+    "Component": 7,
+    "Drawable": 144,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Золотая подвеска с монетой",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Серебряная с монетой",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Бронзовая с монетой",
+    "Component": 7,
+    "Drawable": 145,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красное светящееся",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранж. светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фестивальное светящееся",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Карнавальное светящееся",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Тропическое светящееся",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Горячее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Неоновое светящееся",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Праздничное светящееся",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся ожерелье \"Закат\"",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся \"Сияние\"",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся \"Восход\"",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся \"Сессия\"",
+    "Component": 7,
+    "Drawable": 149,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Синее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 0,
+    "PedModel": 1885233650
+}, {
+    "Name": "Красное светящееся",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 1,
+    "PedModel": 1885233650
+}, {
+    "Name": "Розовое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 2,
+    "PedModel": 1885233650
+}, {
+    "Name": "Желтое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 3,
+    "PedModel": 1885233650
+}, {
+    "Name": "Оранж. светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 4,
+    "PedModel": 1885233650
+}, {
+    "Name": "Зеленое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 5,
+    "PedModel": 1885233650
+}, {
+    "Name": "Фестивальное светящееся",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 6,
+    "PedModel": 1885233650
+}, {
+    "Name": "Карнавальное светящееся",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 7,
+    "PedModel": 1885233650
+}, {
+    "Name": "Тропическое светящееся",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 8,
+    "PedModel": 1885233650
+}, {
+    "Name": "Горячее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 9,
+    "PedModel": 1885233650
+}, {
+    "Name": "Неоновое светящееся",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 10,
+    "PedModel": 1885233650
+}, {
+    "Name": "Праздничное светящееся",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 11,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся ожерелье \"Закат\"",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 12,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся \"Сияние\"",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 13,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся \"Восход\"",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 14,
+    "PedModel": 1885233650
+}, {
+    "Name": "Светящееся \"Сессия\"",
+    "Component": 7,
+    "Drawable": 150,
+    "Texture": 15,
+    "PedModel": 1885233650
+}, {
+    "Name": "Браслеты - цветы",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кислотные браслеты MyMy",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленые браслеты",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные браслеты",
+    "Component": 7,
+    "Drawable": 10,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черное ожерелье MyMy",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовое ожерелье MyMy",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовое ожерелье",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряное ожерелье",
+    "Component": 7,
+    "Drawable": 11,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые бусы",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные бусы",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные бусы",
+    "Component": 7,
+    "Drawable": 12,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф в горошек",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф в цветочек",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый шарф",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красный шарф",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Леопардовый шарф",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белый шарф",
+    "Component": 7,
+    "Drawable": 13,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черно-белые ремешки",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Летние ремешки",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Разноцветные ремешки",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовые ремешки в клеточку",
+    "Component": 7,
+    "Drawable": 14,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красный шарф",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фиолетовый шарф",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оливковый шарф",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый шарф",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сине-зеленый шарф",
+    "Component": 7,
+    "Drawable": 15,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Полосатый шарф",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф \"Радость\"",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф \"Снежки\"",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф \"Буря\"",
+    "Component": 7,
+    "Drawable": 17,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Полосатый шарф",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф \"Радость\"",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф \"Снежки\"",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф \"Буря\"",
+    "Component": 7,
+    "Drawable": 18,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Свободная черная бабочка",
+    "Component": 7,
+    "Drawable": 19,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольно-черный (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Со штриховкой (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "В белую полоску (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленый (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "В лиловую клетку (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "С серыми ромбами (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочного цвета (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю полоску (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сине-зеленый (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевый (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю клетку (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "В песочную полоску (своб.)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "С зелеными ромбами (своб.)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синий (свободный)",
+    "Component": 7,
+    "Drawable": 20,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белый галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черный узкий галстук",
+    "Component": 7,
+    "Drawable": 21,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольно-черный (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Со штриховкой (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "В белую полоску (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленый (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "В лиловую клетку (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "С серыми ромбами (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочного цвета (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю полоску (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сине-зеленый (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевый (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю клетку (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "В песочную полоску (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "С зелеными ромбами (строг.)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синий (строгий)",
+    "Component": 7,
+    "Drawable": 22,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черная бабочка",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белая бабочка",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красная бабочка",
+    "Component": 7,
+    "Drawable": 23,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольно-черный (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Со штриховкой (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "В белую полоску (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленый (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "В лиловую клетку (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "С серыми ромбами (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочного цвета (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю полоску (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сине-зеленый (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевый (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю клетку (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "В песочную полоску (своб.)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "С зелеными ромбами (своб.)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синий (свободный)",
+    "Component": 7,
+    "Drawable": 26,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белый галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серый узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черный узкий галстук",
+    "Component": 7,
+    "Drawable": 27,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Угольно-черный (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Со штриховкой (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "В белую полоску (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "В лиловую клетку (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "С серыми ромбами (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Песочного цвета (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю полоску (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Сине-зеленый (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранжевый (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "В синюю клетку (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "В песочную полоску (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовый (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "С зелеными ромбами (строг.)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синий (строгий)",
+    "Component": 7,
+    "Drawable": 28,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь SN",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь SN",
+    "Component": 7,
+    "Drawable": 29,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь с черепом",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь с черепом",
+    "Component": 7,
+    "Drawable": 30,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая \"Балаклава\"",
+    "Component": 7,
+    "Drawable": 31,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь Zorse",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь Zorse",
+    "Component": 7,
+    "Drawable": 32,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь LC",
+    "Component": 7,
+    "Drawable": 33,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь LC",
+    "Component": 7,
+    "Drawable": 33,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь Dix",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь Dix",
+    "Component": 7,
+    "Drawable": 34,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 35,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь SN",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь SN",
+    "Component": 7,
+    "Drawable": 36,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь с черепом",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь с черепом",
+    "Component": 7,
+    "Drawable": 37,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая \"Балаклава\"",
+    "Component": 7,
+    "Drawable": 38,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь Zorse",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь Zorse",
+    "Component": 7,
+    "Drawable": 39,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь LC",
+    "Component": 7,
+    "Drawable": 40,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь LC",
+    "Component": 7,
+    "Drawable": 40,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь Dix",
+    "Component": 7,
+    "Drawable": 41,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь Dix",
+    "Component": 7,
+    "Drawable": 41,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепь Le Chien",
+    "Component": 7,
+    "Drawable": 42,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Крупная золотая цепочка",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Крупная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 53,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Бельцер\"",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Бельцер\", платина",
+    "Component": 7,
+    "Drawable": 54,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Крендель\"",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Крендель\", платина",
+    "Component": 7,
+    "Drawable": 55,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Плотная золотая цепочка",
+    "Component": 7,
+    "Drawable": 56,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Плотная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 56,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 57,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 57,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Массивная золотая цепь",
+    "Component": 7,
+    "Drawable": 58,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Массивная платиновая цепь",
+    "Component": 7,
+    "Drawable": 58,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая плотная \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 59,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Плотная \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 59,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 60,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 60,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Попкорн\"",
+    "Component": 7,
+    "Drawable": 61,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Попкорн\", платина",
+    "Component": 7,
+    "Drawable": 61,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Веревка\"",
+    "Component": 7,
+    "Drawable": 62,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Веревка\", платина",
+    "Component": 7,
+    "Drawable": 62,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синий клетчатый шарф",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бежевый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черный клетчатый шарф",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Персиковый клетчатый шарф",
+    "Component": 7,
+    "Drawable": 63,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Крупная золотая цепочка",
+    "Component": 7,
+    "Drawable": 64,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Крупная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 64,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Бельцер\"",
+    "Component": 7,
+    "Drawable": 65,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Бельцер\", платина",
+    "Component": 7,
+    "Drawable": 65,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Крендель\"",
+    "Component": 7,
+    "Drawable": 66,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Крендель\", платина",
+    "Component": 7,
+    "Drawable": 66,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Плотная золотая цепочка",
+    "Component": 7,
+    "Drawable": 67,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Плотная платиновая цепочка",
+    "Component": 7,
+    "Drawable": 67,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 68,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновая цепочка \"Ромбы\"",
+    "Component": 7,
+    "Drawable": 68,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Массивная золотая цепь",
+    "Component": 7,
+    "Drawable": 69,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Массивная платиновая цепь",
+    "Component": 7,
+    "Drawable": 69,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая плотная \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 70,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Плотная \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 70,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Квадрат\"",
+    "Component": 7,
+    "Drawable": 71,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Квадрат\", платина",
+    "Component": 7,
+    "Drawable": 71,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Попкорн\"",
+    "Component": 7,
+    "Drawable": 72,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Попкорн\", платина",
+    "Component": 7,
+    "Drawable": 72,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая цепочка \"Веревка\"",
+    "Component": 7,
+    "Drawable": 73,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепочка \"Веревка\", платина",
+    "Component": 7,
+    "Drawable": 73,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотое ожерелье Magnetics",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновое Magnetics",
+    "Component": 7,
+    "Drawable": 81,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотое ожерелье Magnetics",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновое Magnetics",
+    "Component": 7,
+    "Drawable": 82,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желто-коричневый шарф",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Шарф цвета хаки",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черный шарф",
+    "Component": 7,
+    "Drawable": 83,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черное ожерелье",
+    "Component": 7,
+    "Drawable": 84,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Черные подтяжки",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Белые подтяжки",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красные подтяжки",
+    "Component": 7,
+    "Drawable": 88,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотой кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновый кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 89,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотой кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Платиновый кулон \"колесо\"",
+    "Component": 7,
+    "Drawable": 90,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кулон из золотого сплава",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кулон из платинового сплава",
+    "Component": 7,
+    "Drawable": 91,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кулон из золотого сплава",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Кулон из платинового сплава",
+    "Component": 7,
+    "Drawable": 92,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотое ожерелье",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Жемчужное ожерелье",
+    "Component": 7,
+    "Drawable": 93,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медальон \"Эпсилон\"",
+    "Component": 7,
+    "Drawable": 99,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медальон \"Эпсилон\"",
+    "Component": 7,
+    "Drawable": 100,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медальон \"Эпсилон\"",
+    "Component": 7,
+    "Drawable": 101,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепь: собачий воротник",
+    "Component": 7,
+    "Drawable": 103,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Цепь: собачий воротник",
+    "Component": 7,
+    "Drawable": 104,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая подвеска LS",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряная подвеска LS",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медная подвеска LS",
+    "Component": 7,
+    "Drawable": 105,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая подвеска LS",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряная подвеска LS",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Медная подвеска LS",
+    "Component": 7,
+    "Drawable": 106,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Эмалированная подвеска LS",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Посеребренная подвеска LS",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Двуцветная подвеска LS",
+    "Component": 7,
+    "Drawable": 107,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Эмалированная подвеска LS",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Посеребренная подвеска LS",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Двуцветная подвеска LS",
+    "Component": 7,
+    "Drawable": 108,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые жетоны",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные жетоны",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бронзовые жетоны",
+    "Component": 7,
+    "Drawable": 109,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотые жетоны",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряные жетоны",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бронзовые жетоны",
+    "Component": 7,
+    "Drawable": 110,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая подвеска L$",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряная подвеска L$",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Двуцветная подвеска L$",
+    "Component": 7,
+    "Drawable": 111,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая подвеска L$",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряная подвеска L$",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Двуцветная подвеска L$",
+    "Component": 7,
+    "Drawable": 112,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая подвеска с монетой",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряная с монетой",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бронзовая с монетой",
+    "Component": 7,
+    "Drawable": 113,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Золотая подвеска с монетой",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Серебряная с монетой",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Бронзовая с монетой",
+    "Component": 7,
+    "Drawable": 114,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красное светящееся",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранж. светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фестивальное светящееся",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Карнавальное светящееся",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Тропическое светящееся",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Горячее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Неоновое светящееся",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Праздничное светящееся",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся ожерелье \"Закат\"",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся \"Сияние\"",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся \"Восход\"",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся \"Сессия\"",
+    "Component": 7,
+    "Drawable": 118,
+    "Texture": 15,
+    "PedModel": 2627665880
+}, {
+    "Name": "Синее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 0,
+    "PedModel": 2627665880
+}, {
+    "Name": "Красное светящееся",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 1,
+    "PedModel": 2627665880
+}, {
+    "Name": "Розовое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 2,
+    "PedModel": 2627665880
+}, {
+    "Name": "Желтое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 3,
+    "PedModel": 2627665880
+}, {
+    "Name": "Оранж. светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 4,
+    "PedModel": 2627665880
+}, {
+    "Name": "Зеленое светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 5,
+    "PedModel": 2627665880
+}, {
+    "Name": "Фестивальное светящееся",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 6,
+    "PedModel": 2627665880
+}, {
+    "Name": "Карнавальное светящееся",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 7,
+    "PedModel": 2627665880
+}, {
+    "Name": "Тропическое светящееся",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 8,
+    "PedModel": 2627665880
+}, {
+    "Name": "Горячее светящееся ожерелье",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 9,
+    "PedModel": 2627665880
+}, {
+    "Name": "Неоновое светящееся",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 10,
+    "PedModel": 2627665880
+}, {
+    "Name": "Праздничное светящееся",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 11,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся ожерелье \"Закат\"",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 12,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся \"Сияние\"",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 13,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся \"Восход\"",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 14,
+    "PedModel": 2627665880
+}, {
+    "Name": "Светящееся \"Сессия\"",
+    "Component": 7,
+    "Drawable": 119,
+    "Texture": 15,
+    "PedModel": 2627665880
+}]
