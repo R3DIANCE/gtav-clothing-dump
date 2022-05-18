@@ -3,12 +3,14 @@ class ClothingItem {
     Component: number;
     Drawable: number;
     Texture: number;
+    PedModel: number;
 
-    constructor(name: string, component: number, drawable: number, texture: number) {
+    constructor(name: string, component: number, drawable: number, texture: number, pedModel: number) {
         this.Name = name;
         this.Component = component;
         this.Drawable = drawable;
         this.Texture = texture;
+        this.PedModel = pedModel;
     }
 }
 class CategoryItem {
@@ -28,7 +30,6 @@ const Natives = {
     GET_HASH_NAME_FOR_COMPONENT: "0x0368B3A838070348",
     GET_HASH_NAME_FOR_PROP: "0x5D6160275CAEC8DD",
 };
-const delay = 250;
 const clothingCategory: Array<CategoryItem> = [
     new CategoryItem(0, "head"),
     new CategoryItem(1, "masks"),
@@ -50,6 +51,24 @@ const propCategory: Array<CategoryItem> = [
     new CategoryItem(6, "watches"),
     new CategoryItem(7, "bracelets"),
 ];
+var masks: Array<ClothingItem> = new Array<ClothingItem>();
+var hairs: Array<ClothingItem> = new Array<ClothingItem>();
+var torsos: Array<ClothingItem> = new Array<ClothingItem>();
+var legs: Array<ClothingItem> = new Array<ClothingItem>();
+var bags: Array<ClothingItem> = new Array<ClothingItem>();
+var shoes: Array<ClothingItem> = new Array<ClothingItem>();
+var accessories: Array<ClothingItem> = new Array<ClothingItem>();
+var undershirts: Array<ClothingItem> = new Array<ClothingItem>();
+var armors: Array<ClothingItem> = new Array<ClothingItem>();
+var decals: Array<ClothingItem> = new Array<ClothingItem>();
+var tops: Array<ClothingItem> = new Array<ClothingItem>();
+
+var hats: Array<ClothingItem> = new Array<ClothingItem>();
+var glasses: Array<ClothingItem> = new Array<ClothingItem>();
+var ears: Array<ClothingItem> = new Array<ClothingItem>();
+var watches: Array<ClothingItem> = new Array<ClothingItem>();
+var bracelets: Array<ClothingItem> = new Array<ClothingItem>();
+mp.gui.chat.safeMode = false;
 
 function getString(buffer: ArrayBufferLike, offset: number, length = 64): string {
     return String.fromCharCode.apply(null, Array.from(new Uint8Array(buffer, offset, length))).replace(REPLACE_PATTERN, "");
@@ -117,74 +136,75 @@ function getShopPedProp(propHash: any) {
     };
 }
 
-function getComponentVariations(component: number) {
+function getClothingDump(component: number) : Array<ClothingItem> {
+    var dump: Array<ClothingItem> = new Array<ClothingItem>();
     const maxDrawables = getMaxDrawableVariations(component);
+    const componentCategory = getComponentCategory(component);
 
-    for (let x = 0; x < maxDrawables; x++) {
+    mp.gui.chat.push(`<p style="color:yellow;">[STARTED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
 
-        setTimeout(() => {
-            const maxTextures = getMaxTextureVariations(component, x);
+    for (let i = 0; i < maxDrawables; i++) {
+        const maxTextures = getMaxTextureVariations(component, i);
 
-            for (let y = 0; y < maxTextures; y++) {
-
-                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_COMPONENT, mp.players.local.handle, component, x, y);
-
-                if (componentHash != null) {
-
-                    const componentData = getShopPedComponent(componentHash);
-
-                    if (componentData != null) {
-
-                        const componentName = mp.game.gxt.get(componentData.textLabel);
-                        const componentCategory = getComponentCategory(component);
-                        const genderName = getPlayerGender();
-
-                        if (componentName != "NULL") {
-                            setTimeout(() => {
-                                mp.gui.chat.push(`name: ${componentName}, component: ${component}, drawable: ${x}, texture: ${y}, folder: ${genderName}_${componentCategory}`);
-                                //mp.events.callRemote("server:clothing:insert", component, x, y, componentName, `${genderName}_${componentCategory}`);
-                            }, delay * y);
-                        }
-                    }
-                }
+        if(i >= maxDrawables - 1) {
+            mp.gui.chat.push(`<p style="color:green;">[COMPLETED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
+            return dump;
+        }
+        else {
+            for (let x = 0; x < maxTextures; x++) {
+                const drawable = i;
+                const texture = x;
+    
+                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_COMPONENT, mp.players.local.handle, component, drawable, texture);
+                if(componentHash == null) continue;
+    
+                const componentData = getShopPedComponent(componentHash);
+                if(componentData == null) continue;
+    
+                const componentName = mp.game.gxt.get(componentData.textLabel);
+                if(componentName == "NULL") continue;
+    
+                dump.push(new ClothingItem(componentName, component, drawable, texture, mp.players.local.model));
             }
-        }, delay * x);
+        }
     }
+    return dump;
 }
 
-function getPropComponentVariations(component: number) {
+
+function getPropDump(component: number) : Array<ClothingItem> {
+    var dump: Array<ClothingItem> = new Array<ClothingItem>();
     const maxDrawables = getMaxPropDrawableVariations(component);
+    const componentCategory = getPropComponentCategory(component);
 
-    for (let x = 0; x < maxDrawables; x++) {
+    mp.gui.chat.push(`<p style="color:yellow;">[STARTED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
 
-        setTimeout(() => {
-            const maxTextures = getMaxPropTextureVariationscomponent(component, x);
+    for (let i = 0; i < maxDrawables; i++) {
+        const maxTextures = getMaxPropTextureVariationscomponent(component, i);
 
-            for (let y = 0; y < maxTextures; y++) {
-
-                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_PROP, mp.players.local.handle, component, x, y);
-
-                if (componentHash != null) {
-
-                    const componentData = getShopPedProp(componentHash);
-
-                    if (componentData != null) {
-
-                        const componentName = mp.game.gxt.get(componentData.textLabel);
-                        const componentCategory = getPropComponentCategory(component);
-                        const genderName = getPlayerGender();
-
-                        if (componentName != "NULL") {
-                            setTimeout(() => {
-                                mp.gui.chat.push(`name: ${componentName}, component: ${component}, drawable: ${x}, texture: ${y}, folder: ${genderName}_${componentCategory}`);
-                                //mp.events.callRemote("server:clothing:insert", component, x, y, componentName, `${genderName}_${componentCategory}`);
-                            }, delay * y);
-                        }
-                    }
-                }
+        if(i >= maxDrawables - 1) {
+            mp.gui.chat.push(`<p style="color:green;">[COMPLETED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
+            return dump;
+        }
+        else {
+            for (let x = 0; x < maxTextures; x++) {
+                const drawable = i;
+                const texture = x;
+    
+                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_PROP, mp.players.local.handle, component, drawable, texture);
+                if(componentHash == null) continue;
+    
+                const componentData = getShopPedProp(componentHash);
+                if(componentData == null) continue;
+    
+                const componentName = mp.game.gxt.get(componentData.textLabel);
+                if(componentName == "NULL") continue;
+    
+                dump.push(new ClothingItem(componentName, component, drawable, texture, mp.players.local.model));
             }
-        }, delay * x);
+        }
     }
+    return dump;
 }
 
 function getComponentCategory(component: number): string {
@@ -195,10 +215,6 @@ function getComponentCategory(component: number): string {
 function getPropComponentCategory(component: number): string {
     var result = propCategory.find(x => x.Id == component);
     return result != null ? result.Name : "empty";
-}
-
-function getPlayerGender(): string {
-    return mp.players.local.model == mp.game.joaat("mp_m_freemode_01") ? "male" : "female";
 }
 
 function getMaxDrawableVariations(component: number): number {
@@ -221,7 +237,49 @@ mp.keys.bind(0x71, false, () => {
     mp.players.local.model = mp.players.local.model == mp.game.joaat("mp_m_freemode_01") ? mp.game.joaat("mp_f_freemode_01") : mp.game.joaat("mp_m_freemode_01");
 });
 
-mp.events.add("client:clothing:generate", (component, isProp) => {
-    if (!isProp) getComponentVariations(component);
-    else getPropComponentVariations(component);
+mp.keys.bind(0x72, false, () => {
+    // clothing
+    getClothingDump(1).forEach(x => masks.push(x));
+    getClothingDump(2).forEach(x => hairs.push(x));
+    getClothingDump(3).forEach(x => torsos.push(x));
+    getClothingDump(4).forEach(x => legs.push(x));
+    getClothingDump(5).forEach(x => bags.push(x));
+    getClothingDump(6).forEach(x => shoes.push(x));
+    getClothingDump(7).forEach(x => accessories.push(x));
+    getClothingDump(8).forEach(x => undershirts.push(x));
+    getClothingDump(9).forEach(x => armors.push(x));
+    getClothingDump(10).forEach(x => decals.push(x));
+    getClothingDump(11).forEach(x => tops.push(x));
+
+    // props
+    getPropDump(0).forEach(x => hats.push(x));
+    getPropDump(1).forEach(x => glasses.push(x));
+    getPropDump(2).forEach(x => ears.push(x));
+    getPropDump(6).forEach(x => watches.push(x));
+    getPropDump(7).forEach(x => bracelets.push(x));
 });
+
+mp.keys.bind(0x73, false, () => {
+    // clothing
+    mp.storage.data.masks = masks;
+    mp.storage.data.hairs = hairs;
+    mp.storage.data.torsos = torsos;
+    mp.storage.data.legs = legs;
+    mp.storage.data.bags = bags;
+    mp.storage.data.shoes = shoes;
+    mp.storage.data.accessories = accessories;
+    mp.storage.data.undershirts = undershirts;
+    mp.storage.data.armors = armors;
+    mp.storage.data.decals = decals;
+    mp.storage.data.tops = tops;
+
+    // props
+    mp.storage.data.hats = hats;
+    mp.storage.data.glasses = glasses;
+    mp.storage.data.ears = ears;
+    mp.storage.data.watches = watches;
+    mp.storage.data.bracelets = bracelets;
+
+    mp.storage.flush();
+    mp.gui.chat.push(`<p style="color:purple;">[SAVED]<span style="color:white;"> your data has been saved to local storage</span></p>`)
+})
