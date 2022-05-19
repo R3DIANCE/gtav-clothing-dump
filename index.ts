@@ -22,15 +22,16 @@ class CategoryItem {
         this.Name = name;
     }
 }
-
 const REPLACE_PATTERN = /\u0000/g;
-const Natives = {
-    GET_SHOP_PED_COMPONENT: "0x74C0E2A57EC66760",
-    GET_SHOP_PED_PROP: "0x5D5CAFF661DDF6FC",
-    GET_HASH_NAME_FOR_COMPONENT: "0x0368B3A838070348",
-    GET_HASH_NAME_FOR_PROP: "0x5D6160275CAEC8DD",
+enum NATIVES {
+    GET_SHOP_PED_COMPONENT = "0x74C0E2A57EC66760",
+    GET_SHOP_PED_PROP = "0x5D5CAFF661DDF6FC",
+    GET_HASH_NAME_FOR_COMPONENT = "0x0368B3A838070348",
+    GET_HASH_NAME_FOR_PROP=  "0x5D6160275CAEC8DD",
+    _GET_TATTOO_COLLECTION_DATA = "0xFF56381874F82086",
+    GET_NUM_TATTOO_SHOP_DLC_ITEMS=  "0x278F76C3B0A8F109",
 };
-const clothingCategory: Array<CategoryItem> = [
+const clothingCategory: Array < CategoryItem > = [
     new CategoryItem(0, "head"),
     new CategoryItem(1, "masks"),
     new CategoryItem(2, "hair"),
@@ -44,30 +45,31 @@ const clothingCategory: Array<CategoryItem> = [
     new CategoryItem(10, "decals"),
     new CategoryItem(11, "tops"),
 ];
-const propCategory: Array<CategoryItem> = [
+const propCategory: Array < CategoryItem > = [
     new CategoryItem(0, "hats"),
     new CategoryItem(1, "glasses"),
     new CategoryItem(2, "ears"),
     new CategoryItem(6, "watches"),
     new CategoryItem(7, "bracelets"),
 ];
-var masks: Array<ClothingItem> = new Array<ClothingItem>();
-var hairs: Array<ClothingItem> = new Array<ClothingItem>();
-var torsos: Array<ClothingItem> = new Array<ClothingItem>();
-var legs: Array<ClothingItem> = new Array<ClothingItem>();
-var bags: Array<ClothingItem> = new Array<ClothingItem>();
-var shoes: Array<ClothingItem> = new Array<ClothingItem>();
-var accessories: Array<ClothingItem> = new Array<ClothingItem>();
-var undershirts: Array<ClothingItem> = new Array<ClothingItem>();
-var armors: Array<ClothingItem> = new Array<ClothingItem>();
-var decals: Array<ClothingItem> = new Array<ClothingItem>();
-var tops: Array<ClothingItem> = new Array<ClothingItem>();
+var masks: Array < ClothingItem > = new Array < ClothingItem > ();
+var hairs: Array < ClothingItem > = new Array < ClothingItem > ();
+var torsos: Array < ClothingItem > = new Array < ClothingItem > ();
+var legs: Array < ClothingItem > = new Array < ClothingItem > ();
+var bags: Array < ClothingItem > = new Array < ClothingItem > ();
+var shoes: Array < ClothingItem > = new Array < ClothingItem > ();
+var accessories: Array < ClothingItem > = new Array < ClothingItem > ();
+var undershirts: Array < ClothingItem > = new Array < ClothingItem > ();
+var armors: Array < ClothingItem > = new Array < ClothingItem > ();
+var decals: Array < ClothingItem > = new Array < ClothingItem > ();
+var tops: Array < ClothingItem > = new Array < ClothingItem > ();
 
-var hats: Array<ClothingItem> = new Array<ClothingItem>();
-var glasses: Array<ClothingItem> = new Array<ClothingItem>();
-var ears: Array<ClothingItem> = new Array<ClothingItem>();
-var watches: Array<ClothingItem> = new Array<ClothingItem>();
-var bracelets: Array<ClothingItem> = new Array<ClothingItem>();
+var hats: Array < ClothingItem > = new Array < ClothingItem > ();
+var glasses: Array < ClothingItem > = new Array < ClothingItem > ();
+var ears: Array < ClothingItem > = new Array < ClothingItem > ();
+var watches: Array < ClothingItem > = new Array < ClothingItem > ();
+var bracelets: Array < ClothingItem > = new Array < ClothingItem > ();
+
 mp.gui.chat.safeMode = false;
 
 function getString(buffer: ArrayBufferLike, offset: number, length = 64): string {
@@ -75,10 +77,9 @@ function getString(buffer: ArrayBufferLike, offset: number, length = 64): string
 }
 
 function getShopPedComponent(componentHash: any) {
-    let buffer: Array<any> = [new ArrayBuffer(136)];
+    let buffer: Array < any > = [new ArrayBuffer(136)];
 
-    if (mp.game.invoke(Natives.GET_SHOP_PED_COMPONENT, componentHash >> 0, buffer) === 0) return null;
-
+    if (mp.game.invoke(NATIVES.GET_SHOP_PED_COMPONENT, componentHash >> 0, buffer) === 0) return null;
     const {
         0: lockHash,
         2: uniqueNameHash,
@@ -108,7 +109,7 @@ function getShopPedComponent(componentHash: any) {
 function getShopPedProp(propHash: any) {
     let buffer = [new ArrayBuffer(136)];
 
-    if (mp.game.invoke(Natives.GET_SHOP_PED_PROP, propHash >> 0, buffer) === 0) return null;
+    if (mp.game.invoke(NATIVES.GET_SHOP_PED_PROP, propHash >> 0, buffer) === 0) return null;
 
     const {
         0: lockHash,
@@ -136,34 +137,33 @@ function getShopPedProp(propHash: any) {
     };
 }
 
-function getClothingDump(component: number) : Array<ClothingItem> {
-    var dump: Array<ClothingItem> = new Array<ClothingItem>();
+function getClothingDump(component: number): Array < ClothingItem > {
+    var dump: Array < ClothingItem > = new Array < ClothingItem > ();
     const maxDrawables = getMaxDrawableVariations(component);
     const componentCategory = getComponentCategory(component);
 
-    mp.gui.chat.push(`<p style="color:yellow;">[STARTED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
+    mp.gui.chat.push(`<p style="color:yellow;">[STARTED]<span style="color:white;"> copy of ${componentCategory}</span></p>`);
 
     for (let i = 0; i < maxDrawables; i++) {
         const maxTextures = getMaxTextureVariations(component, i);
 
-        if(i >= maxDrawables - 1) {
-            mp.gui.chat.push(`<p style="color:green;">[COMPLETED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
+        if (i >= maxDrawables - 1) {
+            mp.gui.chat.push(`<p style="color:green;">[COMPLETED]<span style="color:white;"> copy of ${componentCategory}</span></p>`);
             return dump;
-        }
-        else {
+        } else {
             for (let x = 0; x < maxTextures; x++) {
                 const drawable = i;
                 const texture = x;
-    
-                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_COMPONENT, mp.players.local.handle, component, drawable, texture);
-                if(componentHash == null) continue;
-    
+
+                const componentHash = mp.game.invoke(NATIVES.GET_HASH_NAME_FOR_COMPONENT, mp.players.local.handle, component, drawable, texture);
+                if (componentHash == null) continue;
+
                 const componentData = getShopPedComponent(componentHash);
-                if(componentData == null) continue;
-    
+                if (componentData == null) continue;
+
                 const componentName = mp.game.gxt.get(componentData.textLabel);
-                if(componentName == "NULL") continue;
-    
+                if (componentName == "NULL") continue;
+
                 dump.push(new ClothingItem(componentName, component, drawable, texture, mp.players.local.model));
             }
         }
@@ -172,34 +172,33 @@ function getClothingDump(component: number) : Array<ClothingItem> {
 }
 
 
-function getPropDump(component: number) : Array<ClothingItem> {
-    var dump: Array<ClothingItem> = new Array<ClothingItem>();
+function getPropDump(component: number): Array < ClothingItem > {
+    var dump: Array < ClothingItem > = new Array < ClothingItem > ();
     const maxDrawables = getMaxPropDrawableVariations(component);
     const componentCategory = getPropComponentCategory(component);
 
-    mp.gui.chat.push(`<p style="color:yellow;">[STARTED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
+    mp.gui.chat.push(`<p style="color:yellow;">[STARTED]<span style="color:white;"> copy of ${componentCategory}</span></p>`);
 
     for (let i = 0; i < maxDrawables; i++) {
         const maxTextures = getMaxPropTextureVariationscomponent(component, i);
 
-        if(i >= maxDrawables - 1) {
-            mp.gui.chat.push(`<p style="color:green;">[COMPLETED]<span style="color:white;"> copy of ${componentCategory}</span></p>`)
+        if (i >= maxDrawables - 1) {
+            mp.gui.chat.push(`<p style="color:green;">[COMPLETED]<span style="color:white;"> copy of ${componentCategory}</span></p>`);
             return dump;
-        }
-        else {
+        } else {
             for (let x = 0; x < maxTextures; x++) {
                 const drawable = i;
                 const texture = x;
-    
-                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_PROP, mp.players.local.handle, component, drawable, texture);
-                if(componentHash == null) continue;
-    
+
+                const componentHash = mp.game.invoke(NATIVES.GET_HASH_NAME_FOR_PROP, mp.players.local.handle, component, drawable, texture);
+                if (componentHash == null) continue;
+
                 const componentData = getShopPedProp(componentHash);
-                if(componentData == null) continue;
-    
+                if (componentData == null) continue;
+
                 const componentName = mp.game.gxt.get(componentData.textLabel);
-                if(componentName == "NULL") continue;
-    
+                if (componentName == "NULL") continue;
+
                 dump.push(new ClothingItem(componentName, component, drawable, texture, mp.players.local.model));
             }
         }
@@ -260,6 +259,7 @@ mp.keys.bind(0x72, false, () => {
 });
 
 mp.keys.bind(0x73, false, () => {
+
     // clothing
     mp.storage.data.masks = masks;
     mp.storage.data.hairs = hairs;
@@ -281,5 +281,5 @@ mp.keys.bind(0x73, false, () => {
     mp.storage.data.bracelets = bracelets;
 
     mp.storage.flush();
-    mp.gui.chat.push(`<p style="color:purple;">[SAVED]<span style="color:white;"> your data has been saved to local storage</span></p>`)
+    mp.gui.chat.push(`<p style="color:purple;">[SAVED]<span style="color:white;"> your data has been saved to local storage</span></p>`);
 })

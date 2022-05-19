@@ -15,12 +15,16 @@ class CategoryItem {
     }
 }
 const REPLACE_PATTERN = /\u0000/g;
-const Natives = {
-    GET_SHOP_PED_COMPONENT: "0x74C0E2A57EC66760",
-    GET_SHOP_PED_PROP: "0x5D5CAFF661DDF6FC",
-    GET_HASH_NAME_FOR_COMPONENT: "0x0368B3A838070348",
-    GET_HASH_NAME_FOR_PROP: "0x5D6160275CAEC8DD",
-};
+var NATIVES;
+(function (NATIVES) {
+    NATIVES["GET_SHOP_PED_COMPONENT"] = "0x74C0E2A57EC66760";
+    NATIVES["GET_SHOP_PED_PROP"] = "0x5D5CAFF661DDF6FC";
+    NATIVES["GET_HASH_NAME_FOR_COMPONENT"] = "0x0368B3A838070348";
+    NATIVES["GET_HASH_NAME_FOR_PROP"] = "0x5D6160275CAEC8DD";
+    NATIVES["_GET_TATTOO_COLLECTION_DATA"] = "0xFF56381874F82086";
+    NATIVES["GET_NUM_TATTOO_SHOP_DLC_ITEMS"] = "0x278F76C3B0A8F109";
+})(NATIVES || (NATIVES = {}));
+;
 const clothingCategory = [
     new CategoryItem(0, "head"),
     new CategoryItem(1, "masks"),
@@ -64,7 +68,7 @@ function getString(buffer, offset, length = 64) {
 }
 function getShopPedComponent(componentHash) {
     let buffer = [new ArrayBuffer(136)];
-    if (mp.game.invoke(Natives.GET_SHOP_PED_COMPONENT, componentHash >> 0, buffer) === 0)
+    if (mp.game.invoke(NATIVES.GET_SHOP_PED_COMPONENT, componentHash >> 0, buffer) === 0)
         return null;
     const { 0: lockHash, 2: uniqueNameHash, 4: locate, 6: drawableIndex, 8: textureIndex, 10: unk1, 12: eCompType, 14: unk2, 16: unk3 } = new Uint32Array(buffer[0]);
     return {
@@ -82,7 +86,7 @@ function getShopPedComponent(componentHash) {
 }
 function getShopPedProp(propHash) {
     let buffer = [new ArrayBuffer(136)];
-    if (mp.game.invoke(Natives.GET_SHOP_PED_PROP, propHash >> 0, buffer) === 0)
+    if (mp.game.invoke(NATIVES.GET_SHOP_PED_PROP, propHash >> 0, buffer) === 0)
         return null;
     const { 0: lockHash, 2: uniqueNameHash, 4: locate, 6: propIndex, 8: textureIndex, 10: unk1, 12: eAnchorPoint, 14: unk2, 16: unk3 } = new Uint32Array(buffer[0]);
     return {
@@ -113,7 +117,7 @@ function getClothingDump(component) {
             for (let x = 0; x < maxTextures; x++) {
                 const drawable = i;
                 const texture = x;
-                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_COMPONENT, mp.players.local.handle, component, drawable, texture);
+                const componentHash = mp.game.invoke(NATIVES.GET_HASH_NAME_FOR_COMPONENT, mp.players.local.handle, component, drawable, texture);
                 if (componentHash == null)
                     continue;
                 const componentData = getShopPedComponent(componentHash);
@@ -143,7 +147,7 @@ function getPropDump(component) {
             for (let x = 0; x < maxTextures; x++) {
                 const drawable = i;
                 const texture = x;
-                const componentHash = mp.game.invoke(Natives.GET_HASH_NAME_FOR_PROP, mp.players.local.handle, component, drawable, texture);
+                const componentHash = mp.game.invoke(NATIVES.GET_HASH_NAME_FOR_PROP, mp.players.local.handle, component, drawable, texture);
                 if (componentHash == null)
                     continue;
                 const componentData = getShopPedProp(componentHash);
